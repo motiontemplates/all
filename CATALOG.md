@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-73 个模板 · 1 个第二批测试项目 · 75 个 Demo
+73 个模板 · 12 个预上线模板 · 1 个测试项目 · 87 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-73 个模板，75 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+73 个模板，87 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -92,15 +92,259 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4](https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4)
 
+## 行业口播 · 预上线
+
+预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。
+
+### 4. 房产 · 一镜看房
+
+![房产 · 一镜看房 · 竖屏](https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg)
+
+户型 · 采光 · 通勤 · 价格 四张图 主播站在户型图的客厅里，镜头拉出，整张户型图逐笔画出；之后一条连续镜头推门、进厨房、穿进每个房间实拍，再看采光剖面、通勤等时圈、挂牌价走势与议价空间。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-943](https://motiontemplates.github.io/all/#preview-prelaunch-943)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4](https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-house-one-take](https://motiongit.com/@adunext/industry-house-one-take)
+
+素材位：- entry：入户 · 推门实拍 - kitchen：厨房 · 实拍 - living：客厅 · 实拍 - master：主卧 · 实拍 - second：次卧 · 实拍 - view：客厅窗外 · 拍到前楼 - listing：挂牌页截图（打码） 本 Demo 使用 AI 示意素材的素材位：entry, kitchen, living, master, second, view, listing
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际房源为准
+
+### 5. 财经 · 三笔账
+
+![财经 · 三笔账 · 竖屏](https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg)
+
+收益 · 回撤 · 时间 一条行情线跑进画面、沿主播窗口描边；十年定投曲线跟着口播数字生长：收益账、回撤账（1000 种行情模拟扇形图）、时间账。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-944](https://motiontemplates.github.io/all/#preview-prelaunch-944)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4](https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-finance-three-ledgers](https://motiongit.com/@adunext/industry-finance-three-ledgers)
+
+素材位：- record：定投记录 · 截图（打码） - market：行情软件 · 录屏 本 Demo 使用 AI 示意素材的素材位：record, market
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作演示 · 不构成投资建议
+
+### 6. 法律 · 讨薪三步
+
+![法律 · 讨薪三步 · 竖屏](https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg)
+
+攒证据 · 选途径 · 盯时效 以案卷照片、红章和法条划线为视觉线索，结合聊天证据、流程时间线和申请书分栏，演示普法口播的组织方式。涉及的法条与时限仍待核对，不作为法律结论。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-945](https://motiontemplates.github.io/all/#preview-prelaunch-945)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4](https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-law-wage-claim](https://motiongit.com/@adunext/industry-law-wage-claim)
+
+素材位：- contract：劳动合同 · 实拍 - payslip：工资流水 · 截图（打码） - attend：考勤记录 · 截图 - chatshot：欠薪聊天 · 截图（打码） - form：仲裁申请书 · 实拍 - office：劳动仲裁院 / 人社局 · 门口实拍 本 Demo 使用 AI 示意素材的素材位：contract, payslip, attend, chatshot, form, office
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作普法演示 · 不构成法律意见 · 法条与时限待核对
+
+### 7. 医疗健康 · 看懂化验单
+
+![医疗健康 · 看懂化验单 · 竖屏](https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg)
+
+数值 · 风险 · 日常 由化验单扫描线切入主播画面，再用刻度、趋势图与饮食分区演示健康科普的可视化结构。尿酸参考范围及相关医学说法仍待核对，不作为诊断标准。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-946](https://motiontemplates.github.io/all/#preview-prelaunch-946)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4](https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-health-lab-report](https://motiongit.com/@adunext/industry-health-lab-report)
+
+素材位：- draw：空腹抽血 · 实拍 - paper：化验单照片（打码姓名） - clinic：门诊 / 体检中心 · 实拍 - app：体检 App 历次报告截图 - organ：动物内脏 - soup：火锅 / 浓肉汤 - sugar：含糖饮料 - beer：啤酒 本 Demo 使用 AI 示意素材的素材位：draw, paper, clinic, app, organ, soup, sugar, beer
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作科普演示 · 不能替代医生诊断 · 相关医学说法待核对
+
+### 8. 教育 · 三种解法
+
+![教育 · 三种解法 · 竖屏](https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg)
+
+假设法 · 抬脚法 · 列方程 主播是笼子里的一个头，35 个头、94 只脚依次落下，红色问号收束；三种解法写在同一张方格草稿纸上，镜头跟着笔走，最后拉远对比。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-947](https://motiontemplates.github.io/all/#preview-prelaunch-947)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4](https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-education-three-solutions](https://motiongit.com/@adunext/industry-education-three-solutions)
+
+素材位：- desk：孩子做题 · 实拍 - draft：草稿纸：先画图 - before：订正前的作业 - after：订正后的作业 本 Demo 使用 AI 示意素材的素材位：desk, draft, before, after
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
+
+### 9. 电商带货 · 实测四项
+
+![电商带货 · 实测四项 · 竖屏](https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg)
+
+保温 · 密封 · 材质 · 价格 条形码拉开画面，价签引出主播；通过保温曲线、密封展示、材质细节与价格走势，演示实测类带货内容的表达结构。画面与数据均为示意，不代表已完成真实商品实测。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-948](https://motiontemplates.github.io/all/#preview-prelaunch-948)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4](https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-shopping-four-tests](https://motiongit.com/@adunext/industry-shopping-four-tests)
+
+素材位：- unbox：开箱 · 实拍 - detail：杯盖 / 弹盖细节 - pour：灌 90℃ 热水 · 实拍 - mine12h：本品 12h 后测温 - rival12h：同价位 A 12h 后测温 - bottom：杯底钢印特写 - irCam：热成像仪画面（可选） - page：商品页截图 本 Demo 使用 AI 示意素材的素材位：unbox, detail, pour, mine12h, rival12h, bottom, page
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 实测类内容演示 · 数据为示意，不代表真实测评结论
+
+### 10. 美妆护肤 · 成分表
+
+![美妆护肤 · 成分表 · 竖屏](https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg)
+
+成分表 · 浓度 · 怎么用 由成分表关键词切入主播画面，用排序、浓度刻度、皮肤屏障和使用时间表演示护肤讲解结构。烟酰胺及相关功效、浓度说法仍待核对，不作为确定结论。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-949](https://motiontemplates.github.io/all/#preview-prelaunch-949)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4](https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-beauty-ingredient-label](https://motiongit.com/@adunext/industry-beauty-ingredient-label)
+
+素材位：- texture：质地特写 · 滴管滴落 - swatch：手背涂抹 · 推开吸收 - face：上脸 · 自然光 - skin：皮肤近距离特写 · 微距 - label：瓶身背标 · 成分表特写 - bottleA：A 款 · 正面 - bottleB：B 款 · 正面 本 Demo 使用 AI 示意素材的素材位：texture, swatch, skin, label, bottleA, bottleB
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 成分表为示意 · 不替代皮肤科医生建议 · 成分说法待核对
+
+### 11. 美食探店 · 值不值得排
+
+![美食探店 · 值不值得排 · 竖屏](https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg)
+
+排队 · 价格 · 味道 · 环境 自拍镜头开场，取号单打印、计时飞到 60 分钟后被撕开；顶部四项计分板逐章填满：排队计时环、账单占比、菜品特写、环境噪音。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-950](https://motiontemplates.github.io/all/#preview-prelaunch-950)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4](https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-food-worth-the-wait](https://motiongit.com/@adunext/industry-food-worth-the-wait)
+
+素材位：- storefront：门头 · 门口排队实拍 - sizzle：烤鱼出炉 · 滋滋冒油 - table：上桌全景 · 俯拍 - queueShot：取号页截图 - fish：招牌烤鱼 · 特写 - eggplant：烤茄子 · 特写 - fungus：凉拌木耳 · 特写 - room：店内环境 · 桌距 - drink：饮品 · 特写 本 Demo 使用 AI 示意素材的素材位：storefront, sizzle, queueShot, fish, eggplant, fungus, room
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 个人口味 · 数据为示意
+
+### 12. 汽车 · 四笔账
+
+![汽车 · 四笔账 · 竖屏](https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg)
+
+能源 · 保养 · 保险 · 残值 主播是仪表盘中心，指针扫过、里程滚到 20000 km，表盘一分为二（油/电）；顶部总账随每一笔实时重算，家充/快充一键切换。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-951](https://motiontemplates.github.io/all/#preview-prelaunch-951)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4](https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-cars-ownership-costs](https://motiongit.com/@adunext/industry-cars-ownership-costs)
+
+素材位：- drive：驾驶视角 · 挡风玻璃外的路面 - port：电车插枪充电 - station：油车加油 - bill：充电账单截图 - dashSummer：仪表 · 夏天续航 - dashWinter：仪表 · 冬天续航 本 Demo 使用 AI 示意素材的素材位：drive, bill, dashSummer, dashWinter
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 示意参数 · 以实际为准
+
+### 13. 数码科技 · 换不换
+
+![数码科技 · 换不换 · 竖屏](https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg)
+
+性能 · 电池 · 系统 · 算账 锁屏上主播就是面容解锁画面，解锁后电池健康 78% 钉在角上；之后像真的在点「设置」一样逐页检查：屏幕使用时间、电池、系统更新、存储。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-952](https://motiontemplates.github.io/all/#preview-prelaunch-952)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4](https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-tech-upgrade-or-keep](https://motiongit.com/@adunext/industry-tech-upgrade-or-keep)
+
+素材位：- hero：新机产品图 · 正面（官方图或实拍） - front：旧手机正面 · 实拍 - wear：边框磨损 / 背面 · 特写 - lag：卡顿瞬间 · 录屏 - usage：屏幕使用时间 · 截图 - battery：电池健康 · 截图 - unbox：新机开箱 · 实拍 本 Demo 使用 AI 示意素材的素材位：hero, front, wear, lag, usage, battery, unbox
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际机型为准
+
+### 14. 职场 · 三行汇报
+
+![职场 · 三行汇报 · 竖屏](https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg)
+
+为什么听不懂 · 一个结构 · 三个场景 九宫格视频会议，其他人逐个关掉只剩主播，弹出「老板：所以重点是？」；一句结论 · 三个原因 · 一个请求逐字搭建，周报改前改后对比。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-953](https://motiontemplates.github.io/all/#preview-prelaunch-953)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4](https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-work-three-line-report](https://motiongit.com/@adunext/industry-work-three-line-report)
+
+素材位：- weekly：周报文档 · 截图 - meeting：例会 · 会议室实拍 - elevator：电梯 / 走廊 · 空镜 本 Demo 使用 AI 示意素材的素材位：weekly, meeting, elevator
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
+
+### 15. 情感 · 对话复盘
+
+![情感 · 对话复盘 · 竖屏](https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg)
+
+看数据 · 辨信号 · 学会问 聊天界面里回复越来越慢（2 分钟 → 47 分钟 → 3 小时），头像打开成主播画面；回复时长统计、信号天平、三个红灯、换个说法。
+
+9:16 · 1080 × 1920 · 60 FPS
+
+**预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。**
+
+在线播放：[https://motiontemplates.github.io/all/#preview-prelaunch-954](https://motiontemplates.github.io/all/#preview-prelaunch-954)
+
+Demo 视频：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4](https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4)
+
+官网模板与下载：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
+
+素材位：- moment1：一起吃饭 · 实拍 - walk：两人散步背影 · 实拍 - moment2：牵手 / 合照 · 实拍 本 Demo 使用 AI 示意素材的素材位：moment1, walk, moment2
+
+示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 示意数据 · 每段关系都不一样
+
 ## 口播与讲解
 
-### 4. 现代图文 · 口播讲解
+### 16. 现代图文 · 口播讲解
 
 ![现代图文 · 口播讲解 · 横屏](https://media.openaicut.com/covers/605/draft-zh-7942d81ce917.jpg)
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.4
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.5
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -110,7 +354,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd
 
 技术资料：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
 
-### 5. 现代图文 · 口播讲解 · 竖屏
+### 17. 现代图文 · 口播讲解 · 竖屏
 
 ![现代图文 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/606/draft-zh-ceb203a3fa61.jpg)
 
@@ -126,7 +370,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-zh-9086d86d612
 
 技术资料：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
 
-### 6. 纸面透视 · 口播讲解
+### 18. 纸面透视 · 口播讲解
 
 ![纸面透视 · 口播讲解 · 横屏](https://media.openaicut.com/covers/607/draft-zh-b7af2ac6dee6.jpg)
 
@@ -142,7 +386,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449
 
 技术资料：[https://github.com/motiontemplates/358192](https://github.com/motiontemplates/358192)
 
-### 7. 纸面透视 · 口播讲解 · 竖屏
+### 19. 纸面透视 · 口播讲解 · 竖屏
 
 ![纸面透视 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/608/draft-zh-499f0ea3a15e.jpg)
 
@@ -158,7 +402,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f1
 
 技术资料：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
-### 8. 深色立体 · 多屏展陈
+### 20. 深色立体 · 多屏展陈
 
 ![深色立体 · 多屏展陈 · 横屏](https://media.openaicut.com/covers/609/draft-zh-0b9cc00ce402.jpg)
 
@@ -174,7 +418,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc6713
 
 技术资料：[https://github.com/motiontemplates/304634](https://github.com/motiontemplates/304634)
 
-### 9. 深色立体 · 多屏展陈 · 竖屏
+### 21. 深色立体 · 多屏展陈 · 竖屏
 
 ![深色立体 · 多屏展陈 · 竖屏](https://media.openaicut.com/covers/610/draft-zh-14409c15ade1.jpg)
 
@@ -190,7 +434,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-zh-3200b44b281
 
 技术资料：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
 
-### 10. 科技控制台 · 口播讲解
+### 22. 科技控制台 · 口播讲解
 
 ![科技控制台 · 口播讲解 · 横屏](https://media.openaicut.com/covers/611/2.5.7-zh-8e20f0acb55c.jpg)
 
@@ -206,7 +450,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b14441387
 
 技术资料：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
-### 11. 科技控制台 · 口播讲解 · 竖屏
+### 23. 科技控制台 · 口播讲解 · 竖屏
 
 ![科技控制台 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/612/2.5.7-zh-3586eaac0c77.jpg)
 
@@ -222,7 +466,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29b
 
 技术资料：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
-### 12. 鲜色角色 · 叙事讲解
+### 24. 鲜色角色 · 叙事讲解
 
 ![鲜色角色 · 叙事讲解 · 横屏](https://media.openaicut.com/covers/613/draft-zh-23a19c51650d.jpg)
 
@@ -238,7 +482,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 技术资料：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
-### 13. 鲜色角色 · 叙事讲解 · 竖屏
+### 25. 鲜色角色 · 叙事讲解 · 竖屏
 
 ![鲜色角色 · 叙事讲解 · 竖屏](https://media.openaicut.com/covers/614/draft-zh-3f92eea2b709.jpg)
 
@@ -254,7 +498,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
-### 14. 活力海报 · 口播讲解
+### 26. 活力海报 · 口播讲解
 
 ![活力海报 · 口播讲解 · 横屏](https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg)
 
@@ -270,7 +514,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
 
-### 15. 活力海报 · 口播讲解 · 竖屏
+### 27. 活力海报 · 口播讲解 · 竖屏
 
 ![活力海报 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/624/draft-zh-01638b2220a1.jpg)
 
@@ -286,7 +530,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cd
 
 技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
-### 16. 口播宣传动效 10 秒
+### 28. 口播宣传动效 10 秒
 
 ![口播宣传动效 10 秒 · 横屏](https://media.openaicut.com/covers/870/1.0.0-99c20483f4b4.jpg)
 
@@ -294,11 +538,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cd
 
 #854836 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：开场标题 · 最多 12 字，0–4 秒逐字出现，适合写产品名或活动名。 副标题 · 最多 20 字，约 2.9–3.5 秒出现，补充时间或优惠等信息。 数字结果 · 0–999 的整数，3.3–4.7 秒计数到此数值。 数字单位 · 最多 4 字，如 % 或 倍；不需要单位时留空。 数字说明 · 最多 12 字，说明数字指什么。 大字前半句 · 最多 10 字，5.1–7.6 秒出现。 大字高亮词 · 1–6 字，用强调色显示，放在前后两段之间。 大字后半句 · 最多 10 字。 品牌名 · 最多 12 字，8 秒起出现。 结尾标语 · 最多 24 字，8.3 秒出现。 强调色 · #RRGGBB 格式，影响光环、高亮词和光束颜色。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4](https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/kouboo-motion](https://motiongit.com/@thepandaq/kouboo-motion)
 
-### 17. 3D 口播开场
+### 29. 3D 口播开场
 
 ![3D 口播开场 · 横屏](https://media.openaicut.com/covers/871/draft-5ad5f68adb8d.jpg)
 
@@ -306,11 +552,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.m
 
 #554769 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
 
+需要准备：主标题 · 2 到 6 字更稳，最多 12 字。画面为深色背景，短标题最醒目。 副标题 · 英文或短句，最多 40 字符，大写字母间距较大。 强调色 · #RRGGBB 格式，用于光晕与分割线。不确定时保留默认金色 #ffb547。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4](https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/cool-3d-intro](https://motiongit.com/@thepandaq/cool-3d-intro)
 
-### 18. DEEP STAGE 口播主舞台
+### 30. DEEP STAGE 口播主舞台
 
 ![DEEP STAGE 口播主舞台 · 横屏](https://media.openaicut.com/covers/880/1.0.0-53419c8f2925.jpg)
 
@@ -324,7 +572,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-host-stage](https://motiongit.com/@thepandaq/deep-stage-host-stage)
 
-### 19. DEEP STAGE 深境舞台完整版
+### 31. DEEP STAGE 深境舞台完整版
 
 ![DEEP STAGE 深境舞台完整版 · 横屏](https://media.openaicut.com/covers/885/1.0.0-10251bc4895b.jpg)
 
@@ -332,11 +580,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.m
 
 #838778 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：需要我按这条视频的节奏推荐一段授权音乐吗？还是你自带音乐/完全静音？ · 可选：整条视频的音乐床；模板音效轨可单独静音或替换 · 模板不内置音乐；可选音效轨已随包提供。 有口播原声吗？有就按 46 秒对齐贴入，字幕文案也可一起换。 · 可选：你的口播原声，按 46 秒时间线贴入 · 没有配音时输出纯画面+音效，字幕仍可读。 把品牌名、标题、副标题、人名职务、三个要点、产品与案例文案、10 句口播字幕发我。 · 全部文案：标题、副标题、人名、三个要点、产品/案例说明、10 句字幕 品牌名 · 1–3 个英文词或中文短语，24 字内 片头小标签 · 建议「类别 / 中文说明」 主标题第一段 · 2–8 个中文字或 1 个英文词 主标题第二段 · 与第一段合计 ≤14 字符，可留空 片头副标题 · 38 字内；\*\*…\*\* 标出强调 口播人名 · 12 字内 口播职务 · 24 字内 主信息屏标题 · 20 字内，最多两行 产品名 · 12 字内，全大写拉丁更稳 案例屏标题 · 22 字内 10 句口播字幕 · 每句 30 字内，顺序对应六个镜头；\*\*…\*\* 标出青色强调 主色 · 六位十六进制；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF
+
 Demo 视频：[▶ https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4](https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-full-video](https://motiongit.com/@thepandaq/deep-stage-full-video)
 
-### 20. Kit 2 · 口播动效包装（竖屏）
+### 32. Kit 2 · 口播动效包装（竖屏）
 
 ![Kit 2 · 口播动效包装（竖屏）](https://media.openaicut.com/covers/890/1.0.0-50bebde67959.jpg)
 
@@ -350,7 +600,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.m
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/kit2-koubo-wrap](https://motiongit.com/@chenyutao0417/kit2-koubo-wrap)
 
-### 21. 突破边界
+### 33. 突破边界
 
 ![突破边界 · 竖屏](https://media.openaicut.com/covers/896/draft-zh-72bb9b863ff8.jpg)
 
@@ -358,13 +608,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.m
 
 #178707 · 竖屏 · 3:4 · 1440 × 1920 · 60 FPS · v0.1.1-alpha.2
 
+需要准备：这条视频准备讲什么？ · 本期上屏文字与语义 有本期口播素材就直接使用；没有可明确选择无人物。 · 在原有窗口绑定本期人物，不携带作者人物帧 · 明确无人物后使用透明输入和中性控制信号；不回退作者素材。 已有配音直接沿用。 · 本期配音与词/句时间证据 · 核对是否需要配音；明确无配音才设置 none。 有字幕或逐字稿就一起读取。 · 保留本期真实字幕与时间证据 · 没有真实词时刻时不冒充逐词对齐。 有要展示的图片或作品就直接分配到相应窗口。 · 头像、作品及证据窗口的本期素材 · 明确不用的角色设置 none；所选必要载体缺素材返回 needs-binding。 保留已指定的音乐；另选曲目前核对当前服务和许可。 · 本期明确绑定的授权配乐 · 音乐与动作音效分开；明确不要音乐才设置 none。 本期画面文字 · 选完整单元后，只填写它的 requiredCopySlots 和 requiredValueSlots（多个单元取并集），容量与载体见 copy-slots。未选场景不需填充占位，也不回退原稿。正式导出前实际检查预览。 本期片尾步骤 · 1–4项，每项容量见catalog/instructions.json；给出后可不填被它覆盖的四个旧步骤槽。 本期计数含义 · 空字符串表示准确计数；仅当本期真实含义为数量下界时显式选 +，不会自动沿用原片后缀。 本期时间范围 · 本期真实时间范围，from≤to；六个原生进度拍按上限均匀推进，可能出现一位小数。null 不沿用原作 3~6。 本期价签 · 可选真实价签，短货币/小数或两字标签；默认不显示，不猜测免费或零元。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
 
 技术资料：[https://github.com/motiontemplates/178707](https://github.com/motiontemplates/178707)
 
-### 22. 字符剧场
+### 34. 字符剧场
 
 ![字符剧场 · 横屏](https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg)
 
@@ -372,19 +624,23 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 
 #148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
 
+需要准备：这条视频准备讲什么？ · 本期上屏文字与语义 有本期口播素材就直接使用；没有可明确选择无人物。 · 在原有窗口绑定本期人物，不携带作者人物帧 · 明确无人物后使用透明输入和中性控制信号；不回退作者素材。 已有配音直接沿用。 · 本期配音与词/句时间证据 · 核对是否需要配音；明确无配音才设置 none。 有字幕或逐字稿就一起读取。 · 保留本期真实字幕与时间证据 · 没有真实词时刻时不冒充逐词对齐。 有要展示的图片或作品就直接分配到相应窗口。 · 头像、作品及证据窗口的本期素材 · 明确不用的角色设置 none；所选必要载体缺素材返回 needs-binding。 保留已指定的音乐；另选曲目前核对当前服务和许可。 · 本期明确绑定的授权配乐 · 音乐与动作音效分开；明确不要音乐才设置 none。 本期画面文字 · 选完整单元后，只填写它的 requiredCopySlots 和 requiredValueSlots（多个单元取并集），容量与载体见 copy-slots。未选场景不需填充占位，也不回退原稿。正式导出前实际检查预览。 本期片尾步骤 · 1–4项，每项容量见catalog/instructions.json；给出后可不填被它覆盖的四个旧步骤槽。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
 技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
-### 23. 卡通讲解风
+### 35. 卡通讲解风
 
 ![卡通讲解风 · 横屏](https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg)
 
 手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。
 
 #875206 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
+
+需要准备：这条视频准备讲什么？ · 本期上屏文字与语义 有本期口播素材就直接使用；没有可明确选择无人物。 · 在原有窗口绑定本期人物，不携带作者人物帧 · 明确无人物后使用透明输入和中性控制信号；不回退作者素材。 已有配音直接沿用。 · 本期配音与词/句时间证据 · 核对是否需要配音；明确无配音才设置 none。 有字幕或逐字稿就一起读取。 · 保留本期真实字幕与时间证据 · 没有真实词时刻时不冒充逐词对齐。 有要展示的图片或作品就直接分配到相应窗口。 · 头像、作品及证据窗口的本期素材 · 明确不用的角色设置 none；所选必要载体缺素材返回 needs-binding。 保留已指定的音乐；另选曲目前核对当前服务和许可。 · 本期明确绑定的授权配乐 · 音乐与动作音效分开；明确不要音乐才设置 none。 本期画面文字 · 选完整单元后，只填写它的 requiredCopySlots 和 requiredValueSlots（多个单元取并集），容量与载体见 copy-slots。未选场景不需填充占位，也不回退原稿。正式导出前实际检查预览。 本期片尾步骤 · 1–4项，每项容量见catalog/instructions.json；给出后可不填被它覆盖的四个旧步骤槽。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
@@ -394,7 +650,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544
 
 ## 知识讲解
 
-### 24. 量价图表：K线突破与分时动画
+### 36. 量价图表：K线突破与分时动画
 
 ![量价图表：K线突破与分时动画 · 横屏](https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg)
 
@@ -402,13 +658,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544
 
 #287792 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.0.0
 
+需要准备：图表标题1 · 不超过12字，保持与固定示意图内容一致 图表标题2 · 不超过12字，保持与固定示意图内容一致 图表标题3 · 不超过12字，保持与固定示意图内容一致
+
 Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4](https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
 
 技术资料：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
 
-### 25. 流程与时间线 · FLOW / TIMELINE
+### 37. 流程与时间线 · FLOW / TIMELINE
 
 ![流程与时间线 · FLOW / TIMELINE · 横屏](https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg)
 
@@ -422,7 +680,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
 
-### 26. DEEP STAGE 案例数据
+### 38. DEEP STAGE 案例数据
 
 ![DEEP STAGE 案例数据 · 横屏](https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg)
 
@@ -436,7 +694,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-case-data](https://motiongit.com/@thepandaq/deep-stage-case-data)
 
-### 27. 目标与证据 · 17类语义动效
+### 39. 目标与证据 · 17类语义动效
 
 ![目标与证据 · 17类语义动效 · 横屏](https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg)
 
@@ -444,13 +702,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.m
 
 #509099 · 横屏 · 16:9 · 1280 × 720 · 24 FPS · v0.4.0-rc.5
 
+需要准备：提供已有音频或带原声的视频 · 保留完整原声，不变速不裁短；每个输出使用同一全局时钟 · 只执行显式content模式，不能冒充真实口播验证 提供对应原视频的SRT字幕 · 句级对齐、全文归属和步骤触发依据，不猜句内词时间 · voiceover模式阻塞，补齐真实时间；content模式不需要字幕 是否保留原视频人物窗口 · 与口播同源等比显示，不裁人脸、不变速、不循环；仅帧网格允许最多一个输出帧尾补 · 不显示人物窗口，原声处理独立 沿用用户指定音乐；明确不另加时设none · track需完整覆盖输出，offset显式；不足不循环；独立动作音效按计划生成 · pending状态仅允许诊断输出，不冒充最终混音 时长来源 · 实际口播用voiceover；无口播技术样例才用content 项目名称 · 来自用户内容，最多24字 内容样例时长 · 仅无口播时显式填写；有口播从原声推导 镜头方案 · 助手先理解全文和语义再选择catalog；保留否定条件数量和实体，填写真实sourceRefs与cueRefs 产品演示内容 · 新产品表达合同：固定4张证据、六阶段前后值、三项百分比；不用时不填design。0.4动作窗不同，不重放旧38秒固定片。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@frankye1211/product-update-story](https://motiongit.com/@frankye1211/product-update-story)
 
 技术资料：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
 
-### 28. 图解口播与图片展示
+### 40. 图解口播与图片展示
 
 ![图解口播与图片展示 · 横屏](https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg)
 
@@ -464,7 +724,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec277
 
 官网下载 .motion：[https://motiongit.com/@frankye1211/moonwhite-robot-unified](https://motiongit.com/@frankye1211/moonwhite-robot-unified)
 
-### 29. Kit 1 · 人文纪录片知识短片
+### 41. Kit 1 · 人文纪录片知识短片
 
 ![Kit 1 · 人文纪录片知识短片 · 横屏](https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg)
 
@@ -480,7 +740,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.m
 
 技术资料：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
 
-### 30. 水墨人物志 · 一个人的故事
+### 42. 水墨人物志 · 一个人的故事
 
 ![水墨人物志 · 一个人的故事 · 横屏](https://media.openaicut.com/covers/892/1.0.0-zh-dbe6436265f9.jpg)
 
@@ -494,7 +754,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124d
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/ink-saga](https://motiongit.com/@chenyutao0417/ink-saga)
 
-### 31. 瑞士信息设计 · 知识讲解模板
+### 43. 瑞士信息设计 · 知识讲解模板
 
 ![瑞士信息设计 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/900/2.5.3-zh-a83d8415095a.jpg)
 
@@ -502,11 +762,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124d
 
 #257987 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
 
-### 32. 黏土实验台 · 知识讲解模板
+### 44. 黏土实验台 · 知识讲解模板
 
 ![黏土实验台 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/901/2.5.3-zh-2a04b4956c40.jpg)
 
@@ -514,11 +776,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59
 
 #517652 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
 
-### 33. 粉笔黑板 · 知识讲解模板
+### 45. 粉笔黑板 · 知识讲解模板
 
 ![粉笔黑板 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/902/2.5.3-zh-382331a3ae0a.jpg)
 
@@ -526,11 +790,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c0143
 
 #173723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
 
-### 34. 生长导图 · 知识讲解模板
+### 46. 生长导图 · 知识讲解模板
 
 ![生长导图 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/903/2.5.3-zh-7299d5905b6d.jpg)
 
@@ -538,11 +804,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524
 
 #880856 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
 
-### 35. 博物馆展墙 · 知识讲解模板
+### 47. 博物馆展墙 · 知识讲解模板
 
 ![博物馆展墙 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/904/2.5.3-zh-309919c56a02.jpg)
 
@@ -550,11 +818,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea91
 
 #949192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
 
-### 36. 发光玻璃板 · 知识讲解模板
+### 48. 发光玻璃板 · 知识讲解模板
 
 ![发光玻璃板 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/905/2.5.3-zh-f2c7c211a3fb.jpg)
 
@@ -562,11 +832,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15
 
 #803150 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
 
-### 37. 等距系统图 · 知识讲解模板
+### 49. 等距系统图 · 知识讲解模板
 
 ![等距系统图 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/906/2.5.3-zh-211781250201.jpg)
 
@@ -574,11 +846,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c3
 
 #106531 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
 
-### 38. 纸雕层叠 · 知识讲解模板
+### 50. 纸雕层叠 · 知识讲解模板
 
 ![纸雕层叠 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/907/2.5.3-zh-cf3c4dad6c15.jpg)
 
@@ -586,11 +860,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ad
 
 #546070 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
 
-### 39. 地铁线路图 · 知识讲解模板
+### 51. 地铁线路图 · 知识讲解模板
 
 ![地铁线路图 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/908/2.5.3-zh-d0159cc738f3.jpg)
 
@@ -598,11 +874,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2
 
 #447390 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4](https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
 
-### 40. 双色孔版 · 知识讲解模板
+### 52. 双色孔版 · 知识讲解模板
 
 ![双色孔版 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/909/2.5.3-zh-a00889e59aec.jpg)
 
@@ -610,11 +888,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae0
 
 #808349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
 
-### 41. 点阵手账 · 知识讲解模板
+### 53. 点阵手账 · 知识讲解模板
 
 ![点阵手账 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/910/2.5.3-zh-f998fa61d29d.jpg)
 
@@ -622,11 +902,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 
 #968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
 
-### 42. 彩色几何 · 知识讲解模板
+### 54. 彩色几何 · 知识讲解模板
 
 ![彩色几何 · 知识讲解模板 · 横屏](https://media.openaicut.com/covers/911/2.5.3-zh-8b47943f7398.jpg)
 
@@ -634,11 +916,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f693
 
 #118272 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
 
+需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 · 只有主题或提纲时，由助手核对来源并整理完整文稿；制作前需要确定文本，不拿示例当用户内容，不编造声音或实测时刻。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。；静态value类别和formula的已知输入读数保留声明事实，公式结果由这些真值求得；条形/文字入场只是揭示。真实前后变化、来源累计、逐件到达与物料转移使用既有显式模型，不把decimals=0或取整当离散事件；隐藏presentation-only字段不是可见计数或语义进展。；数字须完整显示，不能把截断前缀当临时读数；experiment只呈现已给出的前后快照，不把几何插值当中间测量，固定折线观测按真实坐标显示。；secondBeat默认关闭，仅文案确有两项比较、相邻观测变化或前后差量时选择；绑定本段稳定对象ID、同单位真实数据及实测局部focus/result/end，不能为凑运动重复比较。容量与阅读窗不足保留全部内容并拆段。；快照第二拍的高亮、条件条和差量统一引用当前显式步骤的同一对象ID，结束后保留最后对象。；含数字的整段关系标签和条件以完整字段淡入，避免出现错误数字前缀。； 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
-### 43. 决策数据剧场 · Decision Chart Theater
+### 55. 决策数据剧场 · Decision Chart Theater
 
 ![决策数据剧场 · Decision Chart Theater · 横屏](https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg)
 
@@ -654,7 +938,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d3
 
 ## 品牌与产品
 
-### 44. 多屏拼贴 · 品牌宣传
+### 56. 多屏拼贴 · 品牌宣传
 
 ![多屏拼贴 · 品牌宣传 · 横屏](https://media.openaicut.com/covers/585/draft-zh-c7db529e9ef8.jpg)
 
@@ -670,7 +954,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 
 技术资料：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 45. 像素闯关 · 产品宣传
+### 57. 像素闯关 · 产品宣传
 
 ![像素闯关 · 产品宣传 · 横屏](https://media.openaicut.com/covers/586/quality-zh-086e631771b2.jpg)
 
@@ -686,7 +970,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887a
 
 技术资料：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 46. 明暗快切 · 产品宣传
+### 58. 明暗快切 · 产品宣传
 
 ![明暗快切 · 产品宣传 · 横屏](https://media.openaicut.com/covers/587/quality-zh-89ff4394136c.jpg)
 
@@ -702,7 +986,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 47. 流程演示 · 产品教程
+### 59. 流程演示 · 产品教程
 
 ![流程演示 · 产品教程 · 横屏](https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg)
 
@@ -718,7 +1002,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650
 
 技术资料：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 48. 模块拼贴 · 创作者宣传
+### 60. 模块拼贴 · 创作者宣传
 
 ![模块拼贴 · 创作者宣传 · 横屏](https://media.openaicut.com/covers/589/quality-zh-879117ad36da.jpg)
 
@@ -734,7 +1018,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 49. 工程蓝图 · 产品拆解
+### 61. 工程蓝图 · 产品拆解
 
 ![工程蓝图 · 产品拆解 · 横屏](https://media.openaicut.com/covers/590/quality-zh-d5509b8e4f82.jpg)
 
@@ -750,7 +1034,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232
 
 技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 50. 发布会舞台 · 产品演示
+### 62. 发布会舞台 · 产品演示
 
 ![发布会舞台 · 产品演示 · 横屏](https://media.openaicut.com/covers/591/quality-zh-da4888e5e350.jpg)
 
@@ -766,7 +1050,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 技术资料：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 51. 宣纸手卷 · 品牌叙事
+### 63. 宣纸手卷 · 品牌叙事
 
 ![宣纸手卷 · 品牌叙事 · 横屏](https://media.openaicut.com/covers/592/quality-zh-666ac61ebd83.jpg)
 
@@ -782,7 +1066,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f67
 
 技术资料：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
-### 52. 拼贴出场 · COLLAGE OPEN
+### 64. 拼贴出场 · COLLAGE OPEN
 
 ![拼贴出场 · COLLAGE OPEN · 横屏](https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg)
 
@@ -790,11 +1074,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f67
 
 #873 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 拼贴版块标题第一行。 长度 1–10 个字符。 标题强调词 · 标题第二行的高亮词（前置“装下”）。 长度 1–6 个字符。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4](https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
 
-### 53. 多屏墙换版 · WALL SWAP
+### 65. 多屏墙换版 · WALL SWAP
 
 ![多屏墙换版 · WALL SWAP · 横屏](https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg)
 
@@ -802,11 +1088,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc
 
 #874 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 多屏墙标题第一行。 长度 1–12 个字符。 标题强调词 · 第二行高亮词（前置“是”，后缀“。”）。 长度 1–6 个字符。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4](https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
 
-### 54. 四种看法与片格 · VIEWS / STRIP
+### 66. 四种看法与片格 · VIEWS / STRIP
 
 ![四种看法与片格 · VIEWS / STRIP · 横屏](https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg)
 
@@ -814,11 +1102,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6
 
 #875 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 分屏版面标题第一行。 长度 1–8 个字符。 标题强调词 · 第二行高亮词（后缀“。”）。 长度 1–6 个字符。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4](https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
 
-### 55. 产品与品牌 · PRODUCT → BRAND
+### 67. 产品与品牌 · PRODUCT → BRAND
 
 ![产品与品牌 · PRODUCT → BRAND · 横屏](https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg)
 
@@ -832,7 +1122,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
 
-### 56. DEEP STAGE 产品讲解
+### 68. DEEP STAGE 产品讲解
 
 ![DEEP STAGE 产品讲解 · 横屏](https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg)
 
@@ -846,7 +1136,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
 
-### 57. 多屏商务 · 动态图表
+### 69. 多屏商务 · 动态图表
 
 ![多屏商务 · 动态图表 · 横屏](https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg)
 
@@ -862,7 +1152,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a
 
 ## 照片与视觉
 
-### 58. 半调网点 · 人像标题
+### 70. 半调网点 · 人像标题
 
 ![半调网点 · 人像标题 · 横屏](https://media.openaicut.com/covers/615/draft-zh-2de1eb992fcf.jpg)
 
@@ -878,7 +1168,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 
 技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 59. 照片马赛克 · 拼图揭幕
+### 71. 照片马赛克 · 拼图揭幕
 
 ![照片马赛克 · 拼图揭幕 · 横屏](https://media.openaicut.com/covers/616/draft-zh-b95e73a79f9c.jpg)
 
@@ -894,7 +1184,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e959
 
 技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 60. 几何拼贴 · 动态海报
+### 72. 几何拼贴 · 动态海报
 
 ![几何拼贴 · 动态海报 · 横屏](https://media.openaicut.com/covers/617/draft-zh-84c721155840.jpg)
 
@@ -910,7 +1200,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 
 技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 61. 笔触重绘 · 艺术照片
+### 73. 笔触重绘 · 艺术照片
 
 ![笔触重绘 · 艺术照片 · 横屏](https://media.openaicut.com/covers/618/draft-zh-c88f1a5a67a8.jpg)
 
@@ -926,7 +1216,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1
 
 技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 62. 信号故障 · 照片转场
+### 74. 信号故障 · 照片转场
 
 ![信号故障 · 照片转场 · 横屏](https://media.openaicut.com/covers/619/draft-zh-b96f0b6469fe.jpg)
 
@@ -942,7 +1232,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 63. 双重曝光 · 人像叠影
+### 75. 双重曝光 · 人像叠影
 
 ![双重曝光 · 人像叠影 · 横屏](https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg)
 
@@ -958,7 +1248,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 64. 空间画廊 · 回忆相册
+### 76. 空间画廊 · 回忆相册
 
 ![空间画廊 · 回忆相册 · 横屏](https://media.openaicut.com/covers/621/draft-zh-78b8670e7b7d.jpg)
 
@@ -974,7 +1264,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 
 技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 65. 镜像万花筒 · 照片变幻
+### 77. 镜像万花筒 · 照片变幻
 
 ![镜像万花筒 · 照片变幻 · 横屏](https://media.openaicut.com/covers/622/draft-zh-f09b29170a66.jpg)
 
@@ -990,7 +1280,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a3
 
 技术资料：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
-### 66. DeepSeek 鲸鱼粒子聚合
+### 78. DeepSeek 鲸鱼粒子聚合
 
 ![DeepSeek 鲸鱼粒子聚合 · 横屏](https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg)
 
@@ -998,13 +1288,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a3
 
 #404937 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
+需要准备：底部文字 · 一到两个词，如品牌名或口号；不超过 24 个字符。 主色 · 填十六进制颜色，如 #70C9E8；建议与品牌色接近。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4](https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-whale-assemble](https://motiongit.com/@thepandaq/deepseek-whale-assemble)
 
 技术资料：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
 
-### 67. DeepSeek 粒子形变
+### 79. DeepSeek 粒子形变
 
 ![DeepSeek 粒子形变 · 横屏](https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg)
 
@@ -1012,13 +1304,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 #380710 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
+需要准备：底部文字 · 一到两个词；不超过 24 个字符。 主色 · 填十六进制颜色，如 #70C9E8。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
 
 技术资料：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
 
-### 68. DeepSeek 词语粒子
+### 80. DeepSeek 词语粒子
 
 ![DeepSeek 词语粒子 · 横屏](https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg)
 
@@ -1026,13 +1320,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 #941301 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
+需要准备：第一个词 · 2 到 4 个字或短英文词，最多 6 个字符。 第二个词 · 同上。 第三个词 · 同上。 第四个词 · 同上。 主色 · 填十六进制颜色。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
 
 技术资料：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
-### 69. Light Ribbon Word
+### 81. Light Ribbon Word
 
 ![Light Ribbon Word · 横屏](https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg)
 
@@ -1040,11 +1336,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.m
 
 #872 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：想让丝带汇聚成哪个词？（例如 FLOW） · 作为中央汇聚的词，最多 8 个字母，建议大写拉丁字母 · 使用默认词 FLOW 是否需要替换为其他配乐？ · 随包的原创合成配乐（纯音调，无噪声），默认保留 · 使用随包配乐 assets/audio/score.wav
+
 Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4](https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
 
-### 70. 面板擦除 · WIPE PACK
+### 82. 面板擦除 · WIPE PACK
 
 ![面板擦除 · WIPE PACK · 横屏](https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg)
 
@@ -1058,7 +1356,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
 
-### 71. DEEP STAGE 开场点火标题
+### 83. DEEP STAGE 开场点火标题
 
 ![DEEP STAGE 开场点火标题 · 横屏](https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg)
 
@@ -1072,7 +1370,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
 
-### 72. DEEP STAGE 媒体素材墙
+### 84. DEEP STAGE 媒体素材墙
 
 ![DEEP STAGE 媒体素材墙 · 横屏](https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg)
 
@@ -1086,7 +1384,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
 
-### 73. DEEP STAGE 收尾锁版
+### 85. DEEP STAGE 收尾锁版
 
 ![DEEP STAGE 收尾锁版 · 横屏](https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg)
 
@@ -1100,7 +1398,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
 
-### 74. 3D 吉祥物手把手教程
+### 86. 3D 吉祥物手把手教程
 
 ![3D 吉祥物手把手教程 · 横屏](https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg)
 
@@ -1114,7 +1412,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfba
 
 官网下载 .motion：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
 
-### 75. 可爱角色歌词 MV
+### 87. 可爱角色歌词 MV
 
 ![可爱角色歌词 MV · 横屏](https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg)
 
