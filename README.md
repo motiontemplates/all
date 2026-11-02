@@ -25,7 +25,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**83 个模板 · 12 个预上线模板 · 1 个测试项目 · 97 个 Demo**
+**84 个模板 · 12 个预上线模板 · 1 个测试项目 · 98 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -43,9 +43,9 @@
 
 ## 完整图文清单
 
-83 个模板 · 12 个预上线模板 · 1 个测试项目 · 97 个 Demo
+84 个模板 · 12 个预上线模板 · 1 个测试项目 · 98 个 Demo
 
-83 个模板，97 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+84 个模板，98 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -597,8 +597,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.m
 
 #838778 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：需要我按这条视频的节奏推荐一段授权音乐吗？还是你自带音乐/完全静音？ · 可选：整条视频的音乐床；模板音效轨可单独静音或替换 · 模板不内置音乐；可选音效轨已随包提供。 有口播原声吗？有就按 46 秒对齐贴入，字幕文案也可一起换。 · 可选：你的口播原声，按 46 秒时间线贴入 · 没有配音时输出纯画面+音效，字幕仍可读。 把品牌名、标题、副标题、人名职务、三个要点、产品与案例文案、10 句口播字幕发我。 · 全部文案：标题、副标题、人名、三个要点、产品/案例说明、10 句字幕 品牌名 · 1–3 个英文词或中文短语，24 字内 片头小标签 · 建议「类别 / 中文说明」 主标题第一段 · 2–8 个中文字或 1 个英文词 主标题第二段 · 与第一段合计 ≤14 字符，可留空 片头副标题 · 38 字内；\*\*…\*\* 标出强调 口播人名 · 12 字内 口播职务 · 24 字内 主信息屏标题 · 20 字内，最多两行 产品名 · 12 字内，全大写拉丁更稳 案例屏标题 · 22 字内 10 句口播字幕 · 每句 30 字内，顺序对应六个镜头；\*\*…\*\* 标出青色强调 主色 · 六位十六进制；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF
-
 Demo 视频：[▶ https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4](https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-full-video](https://motiongit.com/@thepandaq/deep-stage-full-video)
@@ -995,9 +993,21 @@ Demo 视频：[▶ https://media.openaicut.com/previews/956/0.1.0-zh-d59f54eed92
 
 官网下载 .motion：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
 
+### 59. 科技办公类解说 · AI Office Explainer Kit
+
+<a href="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg"><img src="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg" alt="科技办公类解说 · AI Office Explainer Kit · 横屏" width="640"></a>
+
+AI/科技/办公类知识解说图形包：30 种场景（13 种参考重建 + 17 种原创同风格），按句子类型自动选场景，支持叠化转场（缩放模糊/擦除/翻转/白闪等）、程序化音效、真人口播帧序列接入。全部图形代码绘制，演示数据为虚构示例。1920×1080 / 30fps。
+
+#613979 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v0.3.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4](https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4)
+
+官网下载 .motion：[https://motiongit.com/@erictan88315/ai-office-kit](https://motiongit.com/@erictan88315/ai-office-kit)
+
 ## 品牌与产品
 
-### 59. 多屏拼贴 · 品牌宣传
+### 60. 多屏拼贴 · 品牌宣传
 
 <a href="https://media.openaicut.com/covers/585/draft-zh-c7db529e9ef8.jpg"><img src="https://media.openaicut.com/covers/585/draft-zh-c7db529e9ef8.jpg" alt="多屏拼贴 · 品牌宣传 · 横屏" width="640"></a>
 
@@ -1013,7 +1023,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 
 技术资料：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 60. 像素闯关 · 产品宣传
+### 61. 像素闯关 · 产品宣传
 
 <a href="https://media.openaicut.com/covers/586/quality-zh-086e631771b2.jpg"><img src="https://media.openaicut.com/covers/586/quality-zh-086e631771b2.jpg" alt="像素闯关 · 产品宣传 · 横屏" width="640"></a>
 
@@ -1029,7 +1039,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887a
 
 技术资料：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 61. 明暗快切 · 产品宣传
+### 62. 明暗快切 · 产品宣传
 
 <a href="https://media.openaicut.com/covers/587/quality-zh-89ff4394136c.jpg"><img src="https://media.openaicut.com/covers/587/quality-zh-89ff4394136c.jpg" alt="明暗快切 · 产品宣传 · 横屏" width="640"></a>
 
@@ -1045,7 +1055,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 62. 流程演示 · 产品教程
+### 63. 流程演示 · 产品教程
 
 <a href="https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg"><img src="https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg" alt="流程演示 · 产品教程 · 横屏" width="640"></a>
 
@@ -1061,7 +1071,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650
 
 技术资料：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 63. 模块拼贴 · 创作者宣传
+### 64. 模块拼贴 · 创作者宣传
 
 <a href="https://media.openaicut.com/covers/589/quality-zh-879117ad36da.jpg"><img src="https://media.openaicut.com/covers/589/quality-zh-879117ad36da.jpg" alt="模块拼贴 · 创作者宣传 · 横屏" width="640"></a>
 
@@ -1077,7 +1087,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 64. 工程蓝图 · 产品拆解
+### 65. 工程蓝图 · 产品拆解
 
 <a href="https://media.openaicut.com/covers/590/quality-zh-d5509b8e4f82.jpg"><img src="https://media.openaicut.com/covers/590/quality-zh-d5509b8e4f82.jpg" alt="工程蓝图 · 产品拆解 · 横屏" width="640"></a>
 
@@ -1093,7 +1103,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232
 
 技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 65. 发布会舞台 · 产品演示
+### 66. 发布会舞台 · 产品演示
 
 <a href="https://media.openaicut.com/covers/591/quality-zh-da4888e5e350.jpg"><img src="https://media.openaicut.com/covers/591/quality-zh-da4888e5e350.jpg" alt="发布会舞台 · 产品演示 · 横屏" width="640"></a>
 
@@ -1109,7 +1119,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 技术资料：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 66. 宣纸手卷 · 品牌叙事
+### 67. 宣纸手卷 · 品牌叙事
 
 <a href="https://media.openaicut.com/covers/592/quality-zh-666ac61ebd83.jpg"><img src="https://media.openaicut.com/covers/592/quality-zh-666ac61ebd83.jpg" alt="宣纸手卷 · 品牌叙事 · 横屏" width="640"></a>
 
@@ -1125,7 +1135,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f67
 
 技术资料：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
-### 67. 拼贴出场 · COLLAGE OPEN
+### 68. 拼贴出场 · COLLAGE OPEN
 
 <a href="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg"><img src="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg" alt="拼贴出场 · COLLAGE OPEN · 横屏" width="640"></a>
 
@@ -1139,7 +1149,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
 
-### 68. 多屏墙换版 · WALL SWAP
+### 69. 多屏墙换版 · WALL SWAP
 
 <a href="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg"><img src="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg" alt="多屏墙换版 · WALL SWAP · 横屏" width="640"></a>
 
@@ -1153,7 +1163,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
 
-### 69. 四种看法与片格 · VIEWS / STRIP
+### 70. 四种看法与片格 · VIEWS / STRIP
 
 <a href="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg"><img src="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg" alt="四种看法与片格 · VIEWS / STRIP · 横屏" width="640"></a>
 
@@ -1167,7 +1177,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad157046
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
 
-### 70. 产品与品牌 · PRODUCT → BRAND
+### 71. 产品与品牌 · PRODUCT → BRAND
 
 <a href="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg"><img src="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg" alt="产品与品牌 · PRODUCT → BRAND · 横屏" width="640"></a>
 
@@ -1181,7 +1191,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
 
-### 71. DEEP STAGE 产品讲解
+### 72. DEEP STAGE 产品讲解
 
 <a href="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg"><img src="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg" alt="DEEP STAGE 产品讲解 · 横屏" width="640"></a>
 
@@ -1189,13 +1199,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 #648878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要我先按这个产品段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托产品屏推近与参数切片浮出 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 12 秒固定。 把产品名、一句话 tagline、两行正文、三个关键参数（名称 / 数值 / 单位）和一行规格发我。 · 产品名、tagline、正文、3 组参数与规格行都来自你的产品资料 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 产品屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符。 产品名 · 1–2 个英文词或 2–6 个中文字，最多 12 字符；这是画面最大的一行。 一句话 tagline · 28 字以内；想强调的词用 &lt;em&gt;…&lt;/em&gt; 包起来，会变成主色。 正文说明 · 56 字以内、建议两行；用 \\n 手动换行，不要靠自动折行硬塞。 3 个参数切片 · 固定 3 组，每组「参数名（10 字内）+ 数值（纯数字，可带 1–2 位小数）+ 单位（4 字内，可空）」；数值会从 0 滚动到终值。 底部规格行 · 一行规格说明，48 字以内，建议用斜杠分隔，例如 1920×1080 / 30FPS / H.264。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
 
-### 72. 多屏商务 · 动态图表
+### 73. 多屏商务 · 动态图表
 
 <a href="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg"><img src="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg" alt="多屏商务 · 动态图表 · 横屏" width="640"></a>
 
@@ -1209,7 +1217,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a
 
 官网下载 .motion：[https://motiongit.com/@frankye1211/corporate-multiscreen-charts](https://motiongit.com/@frankye1211/corporate-multiscreen-charts)
 
-### 73. 双语科技歌词动效 MV
+### 74. 双语科技歌词动效 MV
 
 <a href="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg"><img src="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg" alt="双语科技歌词动效 MV · 横屏" width="640"></a>
 
@@ -1225,7 +1233,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/932/draft-zh-15f86c1d367
 
 ## 照片与视觉
 
-### 74. 半调网点 · 人像标题
+### 75. 半调网点 · 人像标题
 
 <a href="https://media.openaicut.com/covers/615/draft-zh-2de1eb992fcf.jpg"><img src="https://media.openaicut.com/covers/615/draft-zh-2de1eb992fcf.jpg" alt="半调网点 · 人像标题 · 横屏" width="640"></a>
 
@@ -1241,7 +1249,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 
 技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 75. 照片马赛克 · 拼图揭幕
+### 76. 照片马赛克 · 拼图揭幕
 
 <a href="https://media.openaicut.com/covers/616/draft-zh-b95e73a79f9c.jpg"><img src="https://media.openaicut.com/covers/616/draft-zh-b95e73a79f9c.jpg" alt="照片马赛克 · 拼图揭幕 · 横屏" width="640"></a>
 
@@ -1257,7 +1265,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e959
 
 技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 76. 几何拼贴 · 动态海报
+### 77. 几何拼贴 · 动态海报
 
 <a href="https://media.openaicut.com/covers/617/draft-zh-84c721155840.jpg"><img src="https://media.openaicut.com/covers/617/draft-zh-84c721155840.jpg" alt="几何拼贴 · 动态海报 · 横屏" width="640"></a>
 
@@ -1273,7 +1281,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 
 技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 77. 笔触重绘 · 艺术照片
+### 78. 笔触重绘 · 艺术照片
 
 <a href="https://media.openaicut.com/covers/618/draft-zh-c88f1a5a67a8.jpg"><img src="https://media.openaicut.com/covers/618/draft-zh-c88f1a5a67a8.jpg" alt="笔触重绘 · 艺术照片 · 横屏" width="640"></a>
 
@@ -1289,7 +1297,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1
 
 技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 78. 信号故障 · 照片转场
+### 79. 信号故障 · 照片转场
 
 <a href="https://media.openaicut.com/covers/619/draft-zh-b96f0b6469fe.jpg"><img src="https://media.openaicut.com/covers/619/draft-zh-b96f0b6469fe.jpg" alt="信号故障 · 照片转场 · 横屏" width="640"></a>
 
@@ -1305,7 +1313,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 79. 双重曝光 · 人像叠影
+### 80. 双重曝光 · 人像叠影
 
 <a href="https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg"><img src="https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg" alt="双重曝光 · 人像叠影 · 横屏" width="640"></a>
 
@@ -1321,7 +1329,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 80. 空间画廊 · 回忆相册
+### 81. 空间画廊 · 回忆相册
 
 <a href="https://media.openaicut.com/covers/621/draft-zh-78b8670e7b7d.jpg"><img src="https://media.openaicut.com/covers/621/draft-zh-78b8670e7b7d.jpg" alt="空间画廊 · 回忆相册 · 横屏" width="640"></a>
 
@@ -1337,7 +1345,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 
 技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 81. 镜像万花筒 · 照片变幻
+### 82. 镜像万花筒 · 照片变幻
 
 <a href="https://media.openaicut.com/covers/622/draft-zh-f09b29170a66.jpg"><img src="https://media.openaicut.com/covers/622/draft-zh-f09b29170a66.jpg" alt="镜像万花筒 · 照片变幻 · 横屏" width="640"></a>
 
@@ -1353,7 +1361,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a3
 
 技术资料：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
-### 82. DeepSeek 鲸鱼粒子聚合
+### 83. DeepSeek 鲸鱼粒子聚合
 
 <a href="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg"><img src="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg" alt="DeepSeek 鲸鱼粒子聚合 · 横屏" width="640"></a>
 
@@ -1369,7 +1377,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 技术资料：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
 
-### 83. DeepSeek 粒子形变
+### 84. DeepSeek 粒子形变
 
 <a href="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg"><img src="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg" alt="DeepSeek 粒子形变 · 横屏" width="640"></a>
 
@@ -1385,7 +1393,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 技术资料：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
 
-### 84. DeepSeek 词语粒子
+### 85. DeepSeek 词语粒子
 
 <a href="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg"><img src="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg" alt="DeepSeek 词语粒子 · 横屏" width="640"></a>
 
@@ -1401,7 +1409,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.m
 
 技术资料：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
-### 85. Light Ribbon Word
+### 86. Light Ribbon Word
 
 <a href="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg"><img src="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg" alt="Light Ribbon Word · 横屏" width="640"></a>
 
@@ -1415,7 +1423,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
 
-### 86. 面板擦除 · WIPE PACK
+### 87. 面板擦除 · WIPE PACK
 
 <a href="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg"><img src="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg" alt="面板擦除 · WIPE PACK · 横屏" width="640"></a>
 
@@ -1429,7 +1437,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
 
-### 87. DEEP STAGE 开场点火标题
+### 88. DEEP STAGE 开场点火标题
 
 <a href="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg"><img src="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg" alt="DEEP STAGE 开场点火标题 · 横屏" width="640"></a>
 
@@ -1443,7 +1451,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
 
-### 88. DEEP STAGE 媒体素材墙
+### 89. DEEP STAGE 媒体素材墙
 
 <a href="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg"><img src="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg" alt="DEEP STAGE 媒体素材墙 · 横屏" width="640"></a>
 
@@ -1457,7 +1465,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
 
-### 89. DEEP STAGE 收尾锁版
+### 90. DEEP STAGE 收尾锁版
 
 <a href="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg"><img src="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg" alt="DEEP STAGE 收尾锁版 · 横屏" width="640"></a>
 
@@ -1471,7 +1479,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
 
-### 90. 3D 吉祥物手把手教程
+### 91. 3D 吉祥物手把手教程
 
 <a href="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg"><img src="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg" alt="3D 吉祥物手把手教程 · 横屏" width="640"></a>
 
@@ -1485,7 +1493,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfba
 
 官网下载 .motion：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
 
-### 91. 可爱角色歌词 MV
+### 92. 可爱角色歌词 MV
 
 <a href="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg"><img src="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg" alt="可爱角色歌词 MV · 横屏" width="640"></a>
 
@@ -1499,7 +1507,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/cute-character-lyric-mv](https://motiongit.com/@chenyutao0417/cute-character-lyric-mv)
 
-### 92. 光的语法
+### 93. 光的语法
 
 <a href="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg"><img src="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg" alt="光的语法 · 横屏" width="640"></a>
 
@@ -1513,7 +1521,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/light-grammar](https://motiongit.com/@chenjunfeng5208/light-grammar)
 
-### 93. 深海时钟
+### 94. 深海时钟
 
 <a href="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg"><img src="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg" alt="深海时钟 · 横屏" width="640"></a>
 
@@ -1527,7 +1535,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/deep-sea-clock](https://motiongit.com/@chenjunfeng5208/deep-sea-clock)
 
-### 94. 城市脉搏
+### 95. 城市脉搏
 
 <a href="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg"><img src="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg" alt="城市脉搏 · 横屏" width="640"></a>
 
@@ -1541,7 +1549,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/city-pulse](https://motiongit.com/@chenjunfeng5208/city-pulse)
 
-### 95. 种子库
+### 96. 种子库
 
 <a href="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg"><img src="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg" alt="种子库 · 横屏" width="640"></a>
 
@@ -1555,7 +1563,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf6630
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/seed-bank](https://motiongit.com/@chenjunfeng5208/seed-bank)
 
-### 96. 火星农场
+### 97. 火星农场
 
 <a href="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg"><img src="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg" alt="火星农场 · 横屏" width="640"></a>
 
@@ -1569,7 +1577,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/mars-farm](https://motiongit.com/@chenjunfeng5208/mars-farm)
 
-### 97. AI 能不能代替人工
+### 98. AI 能不能代替人工
 
 <a href="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg"><img src="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg" alt="AI 能不能代替人工 · 横屏" width="640"></a>
 
