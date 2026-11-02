@@ -811,7 +811,7 @@ Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/ink-saga
 
 Clear grids, object counts and changing proportions explain percentages, denominators, weights and statistical comparisons. The AI assistant selects diagrams for your script; an on-camera opening is optional.
 
-#257987 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#257987 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
@@ -823,7 +823,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Track clay objects as they split, attach and move. For changes in objects and processes, with AI-guided icon and diagram selection. Optional presenter opening that shrinks into a circular window.
 
-#517652 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#517652 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
