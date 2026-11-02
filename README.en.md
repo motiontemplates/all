@@ -361,7 +361,7 @@ Illustrative presenter · AI-generated. AI-generated illustrative images. All da
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.5
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -375,7 +375,7 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.5
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
@@ -917,7 +917,7 @@ Download .motion from MotionGit：[https://motiongit.com/@guo-factory/finance-ca
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
