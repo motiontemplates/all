@@ -681,7 +681,7 @@ Technical documentation：[https://github.com/motiontemplates/148294](https://gi
 
 Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.
 
-#875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
+#875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
