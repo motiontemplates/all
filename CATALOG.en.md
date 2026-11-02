@@ -854,7 +854,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Glowing lines reveal how waveforms meet and delays leave residual signals. For signal superposition, phase and feedback, with diagram guidance and an optional presenter opening and circular window.
 
-#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
+#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
 
 Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
@@ -866,7 +866,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Isometric cutaways separate internal structure, material pathways and energy relationships. For heat exchange, compression and energy accounting, with diagram guidance and an optional presenter opening and circular window.
 
-#106531 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#106531 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
