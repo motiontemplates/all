@@ -818,7 +818,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Chalk lines progressively explain light, viewpoints and occlusion. For orbits, projections and geometric reasoning, with diagram selection guidance and an optional presenter opening and circular window.
 
-#173723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#173723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
