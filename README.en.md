@@ -375,7 +375,7 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
