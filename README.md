@@ -361,7 +361,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.7
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -983,7 +983,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d3
 
 ### 58. 财经解读 · 竖屏信息卡
 
-<a href="https://media.openaicut.com/covers/956/0.1.0-zh-5b6ab08a3d1f.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-zh-5b6ab08a3d1f.jpg" alt="财经解读 · 竖屏信息卡" width="202"></a>
+<a href="https://media.openaicut.com/covers/956/0.1.0-zh-c62f19df3658.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-zh-c62f19df3658.jpg" alt="财经解读 · 竖屏信息卡" width="202"></a>
 
 用深色科技底、数据大字卡和三条方向，把一条财经信息讲成 24 秒竖屏片
 
@@ -991,7 +991,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d3
 
 需要准备：把这条信息发我：一句话标题、1–2 个关键数字、你给的三个方向。 · 直接填参数。每个槽位有中文字符上限，超了请改写，不要缩字号。 · 缺哪个只问哪个，不要一次问全。 要配音吗？要的话给我文稿或现成音频。 · 本模板不含旁白与字幕层，配音属于下游工序。 · 默认不出旁白，直接出无声信息卡。 封面标题 · 最多 24 个中文字符、最多两行、每行建议 ≤12 字；保留否定、条件和数字单位，不要靠改写丢掉限定词 关键数字 · 1–2 条；value 是数字与符号（≤8 字符），label 说明这个数字是什么（≤14 字），不要把句子塞进卡片 方向条目 · 1–3 条，每条 ≤16 字、单行；必须是可执行的方向，不要写成第二个标题 收尾一句 · ≤20 字，把逻辑收成一句，不要重复标题
 
-Demo 视频：[▶ https://media.openaicut.com/previews/956/0.1.0-zh-130473073d40.mp4](https://media.openaicut.com/previews/956/0.1.0-zh-130473073d40.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/956/0.1.0-zh-02d9a1fe80b8.mp4](https://media.openaicut.com/previews/956/0.1.0-zh-02d9a1fe80b8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
 
