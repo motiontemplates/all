@@ -907,7 +907,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Follow tracks to explain occupancy, stopping and queues. For safe spacing, state readings and finite-service processes, with diagram guidance and an optional presenter opening and circular window.
 
-#447390 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#447390 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4](https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4)
 
@@ -919,7 +919,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Two-color printing illustrates replication, growth and differences in the starting quantity. For fixed increments versus fixed ratios, lineages and exponential rules, with diagram guidance and an optional presenter opening and circular window.
 
-#808349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#808349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
