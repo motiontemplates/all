@@ -25,7 +25,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**73 templates · 12 prelaunch templates · 1 preview projects · 87 demos**
+**83 templates · 12 prelaunch templates · 1 preview projects · 97 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -43,9 +43,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-73 templates · 12 prelaunch templates · 1 preview projects · 87 demos
+83 templates · 12 prelaunch templates · 1 preview projects · 97 demos
 
-73 templates, 87 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+83 templates, 97 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -625,9 +625,33 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/cartoon-explai
 
 Technical documentation：[https://github.com/motiontemplates/875206](https://github.com/motiontemplates/875206)
 
+### 36. 桌面口播 · Mac 窗口动效
+
+<a href="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg"><img src="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg" alt="桌面口播 · Mac 窗口动效 · Landscape" width="480"></a>
+
+浅色 macOS 桌面风格的真人口播模板：讲者出现在 Mac 摄像头窗口里，每句话按句型自动切换版式与动效——翻牌数字、弹出窗口、印章、荧光笔划重点、流程图、删除线、网格转场等，每种动效配有对应音效；判断句、数据句、风险句等各有专属布局。文字、数据、配色和节奏全部由参数驱动，替换
+
+#607598 · Landscape · 4:3 · 1440 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4](https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/desktop-talking-head](https://motiongit.com/@erictan88315/desktop-talking-head)
+
+### 37. 财经知识解说 · 50 页动效包
+
+<a href="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg"><img src="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg" alt="财经知识解说 · 50 页动效包 · Landscape" width="640"></a>
+
+风格的财经/知识解说动效包：16:9 横屏，50 种动画页面，按句子类型选页、参数驱动。含数字滚动、柱状/折线/占比图表、印章、新闻卡片、打字机金句、地图路线、关系网络、时间线、对比表格、白闪转场等，每页自带音效。示例数据均为虚构。
+
+#126246 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4](https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/finance-explainer-50](https://motiongit.com/@erictan88315/finance-explainer-50)
+
 ## Knowledge explainers
 
-### 36. Price &amp; Volume · Candlestick and Intraday Charts
+### 38. Price &amp; Volume · Candlestick and Intraday Charts
 
 <a href="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg"><img src="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg" alt="Price &amp; Volume · Candlestick and Intraday Charts · Landscape" width="360"></a>
 
@@ -641,7 +665,7 @@ Download .motion from MotionGit：[https://motiongit.com/@oubaba95128/volume-pri
 
 Technical documentation：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
 
-### 37. Creative Workflow · Timeline
+### 39. Creative Workflow · Timeline
 
 <a href="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg"><img src="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg" alt="Creative Workflow · Timeline · Landscape" width="640"></a>
 
@@ -653,7 +677,7 @@ Demo video：[https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
 
-### 38. DEEP STAGE · Case Study Dashboard
+### 40. DEEP STAGE · Case Study Dashboard
 
 <a href="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg"><img src="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg" alt="DEEP STAGE · Case Study Dashboard · Landscape" width="640"></a>
 
@@ -665,7 +689,7 @@ Demo video：[https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-case-data](https://motiongit.com/@thepandaq/deep-stage-case-data)
 
-### 39. Goals &amp; Evidence · 17 Motion Diagram Types
+### 41. Goals &amp; Evidence · 17 Motion Diagram Types
 
 <a href="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg"><img src="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg" alt="Goals &amp; Evidence · 17 Motion Diagram Types · Landscape" width="640"></a>
 
@@ -679,7 +703,7 @@ Download .motion from MotionGit：[https://motiongit.com/@frankye1211/product-up
 
 Technical documentation：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
 
-### 40. Soft Gradient · Illustrated Narration
+### 42. Soft Gradient · Illustrated Narration
 
 <a href="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg"><img src="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg" alt="Soft Gradient · Illustrated Narration · Landscape" width="640"></a>
 
@@ -691,7 +715,7 @@ Demo video：[https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.m
 
 Download .motion from MotionGit：[https://motiongit.com/@frankye1211/moonwhite-robot-unified](https://motiongit.com/@frankye1211/moonwhite-robot-unified)
 
-### 41. Kit 1 · Documentary Explainer
+### 43. Kit 1 · Documentary Explainer
 
 <a href="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg"><img src="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg" alt="Kit 1 · Documentary Explainer · Landscape" width="640"></a>
 
@@ -705,7 +729,7 @@ Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit1-doc
 
 Technical documentation：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
 
-### 42. Ink Biography · A Life in Characters
+### 44. Ink Biography · A Life in Characters
 
 <a href="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg"><img src="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg" alt="Ink Biography · A Life in Characters · Landscape" width="640"></a>
 
@@ -717,7 +741,7 @@ Demo video：[https://media.openaicut.com/previews/892/1.0.0-318a114e1c66.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/ink-saga](https://motiongit.com/@chenyutao0417/ink-saga)
 
-### 43. Swiss Grid · Knowledge Explainer
+### 45. Swiss Grid · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/900/2.5.3-zh-a83d8415095a.jpg"><img src="https://media.openaicut.com/covers/900/2.5.3-zh-a83d8415095a.jpg" alt="Swiss Grid · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -729,7 +753,7 @@ Demo video：[https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
 
-### 44. Clay Lab · Knowledge Explainer
+### 46. Clay Lab · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/901/2.5.3-zh-2a04b4956c40.jpg"><img src="https://media.openaicut.com/covers/901/2.5.3-zh-2a04b4956c40.jpg" alt="Clay Lab · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -741,7 +765,7 @@ Demo video：[https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
 
-### 45. Chalkboard · Knowledge Explainer
+### 47. Chalkboard · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/902/2.5.3-zh-382331a3ae0a.jpg"><img src="https://media.openaicut.com/covers/902/2.5.3-zh-382331a3ae0a.jpg" alt="Chalkboard · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -753,7 +777,7 @@ Demo video：[https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
 
-### 46. Growing Mind Map · Knowledge Explainer
+### 48. Growing Mind Map · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/903/2.5.3-zh-7299d5905b6d.jpg"><img src="https://media.openaicut.com/covers/903/2.5.3-zh-7299d5905b6d.jpg" alt="Growing Mind Map · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -765,7 +789,7 @@ Demo video：[https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
 
-### 47. Museum Timeline · Knowledge Explainer
+### 49. Museum Timeline · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/904/2.5.3-zh-309919c56a02.jpg"><img src="https://media.openaicut.com/covers/904/2.5.3-zh-309919c56a02.jpg" alt="Museum Timeline · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -777,7 +801,7 @@ Demo video：[https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
 
-### 48. Glowing Lightboard · Knowledge Explainer
+### 50. Glowing Lightboard · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/905/2.5.3-zh-f2c7c211a3fb.jpg"><img src="https://media.openaicut.com/covers/905/2.5.3-zh-f2c7c211a3fb.jpg" alt="Glowing Lightboard · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -789,7 +813,7 @@ Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
 
-### 49. Isometric Systems · Knowledge Explainer
+### 51. Isometric Systems · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/906/2.5.3-zh-211781250201.jpg"><img src="https://media.openaicut.com/covers/906/2.5.3-zh-211781250201.jpg" alt="Isometric Systems · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -801,7 +825,7 @@ Demo video：[https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
 
-### 50. Layered Papercut · Knowledge Explainer
+### 52. Layered Papercut · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/907/2.5.3-zh-cf3c4dad6c15.jpg"><img src="https://media.openaicut.com/covers/907/2.5.3-zh-cf3c4dad6c15.jpg" alt="Layered Papercut · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -813,7 +837,7 @@ Demo video：[https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
 
-### 51. Metro Network · Knowledge Explainer
+### 53. Metro Network · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/908/2.5.3-zh-d0159cc738f3.jpg"><img src="https://media.openaicut.com/covers/908/2.5.3-zh-d0159cc738f3.jpg" alt="Metro Network · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -825,7 +849,7 @@ Demo video：[https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
 
-### 52. Two-Color Risograph · Knowledge Explainer
+### 54. Two-Color Risograph · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/909/2.5.3-zh-a00889e59aec.jpg"><img src="https://media.openaicut.com/covers/909/2.5.3-zh-a00889e59aec.jpg" alt="Two-Color Risograph · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -837,7 +861,7 @@ Demo video：[https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
 
-### 53. Dot-Grid Notes · Knowledge Explainer
+### 55. Dot-Grid Notes · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/910/2.5.3-zh-f998fa61d29d.jpg"><img src="https://media.openaicut.com/covers/910/2.5.3-zh-f998fa61d29d.jpg" alt="Dot-Grid Notes · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -849,7 +873,7 @@ Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
 
-### 54. Color Geometry · Knowledge Explainer
+### 56. Color Geometry · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/911/2.5.3-zh-8b47943f7398.jpg"><img src="https://media.openaicut.com/covers/911/2.5.3-zh-8b47943f7398.jpg" alt="Color Geometry · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -861,7 +885,7 @@ Demo video：[https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
-### 55. Decision Chart Theater
+### 57. Decision Chart Theater
 
 <a href="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg"><img src="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg" alt="Decision Chart Theater · Landscape" width="640"></a>
 
@@ -873,9 +897,21 @@ Demo video：[https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@lxguanyu/dds-decision-keynote](https://motiongit.com/@lxguanyu/dds-decision-keynote)
 
+### 58. 财经解读 · 竖屏信息卡
+
+<a href="https://media.openaicut.com/covers/956/0.1.0-zh-63ece22aa719.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-zh-63ece22aa719.jpg" alt="财经解读 · 竖屏信息卡 · Portrait" width="202"></a>
+
+用深色科技底、数据大字卡和三条方向，把一条财经信息讲成 24 秒竖屏片
+
+#685275 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.0
+
+Demo video：[https://media.openaicut.com/previews/956/0.1.0-zh-d59f54eed92c.mp4](https://media.openaicut.com/previews/956/0.1.0-zh-d59f54eed92c.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
+
 ## Brand & product
 
-### 56. Screen Collage · Brand Story
+### 59. Screen Collage · Brand Story
 
 <a href="https://media.openaicut.com/covers/585/draft-en-c462a34b250b.jpg"><img src="https://media.openaicut.com/covers/585/draft-en-c462a34b250b.jpg" alt="Screen Collage · Brand Story · Landscape" width="640"></a>
 
@@ -889,7 +925,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 57. Pixel Platformer · Product Introduction
+### 60. Pixel Platformer · Product Introduction
 
 <a href="https://media.openaicut.com/covers/586/quality-en-c2a552d1e0d5.jpg"><img src="https://media.openaicut.com/covers/586/quality-en-c2a552d1e0d5.jpg" alt="Pixel Platformer · Product Introduction · Landscape" width="640"></a>
 
@@ -903,7 +939,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 58. Light and Dark Cuts · Product Promotion
+### 61. Light and Dark Cuts · Product Promotion
 
 <a href="https://media.openaicut.com/covers/587/quality-en-f83b4134ecd2.jpg"><img src="https://media.openaicut.com/covers/587/quality-en-f83b4134ecd2.jpg" alt="Light and Dark Cuts · Product Promotion · Landscape" width="640"></a>
 
@@ -917,7 +953,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 59. Workflow Demo · Product Tutorial
+### 62. Workflow Demo · Product Tutorial
 
 <a href="https://media.openaicut.com/covers/588/quality-en-e3a5eff02623.jpg"><img src="https://media.openaicut.com/covers/588/quality-en-e3a5eff02623.jpg" alt="Workflow Demo · Product Tutorial · Landscape" width="640"></a>
 
@@ -931,7 +967,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 60. Modular Collage · Creator Tools
+### 63. Modular Collage · Creator Tools
 
 <a href="https://media.openaicut.com/covers/589/quality-en-6ea1ad7e2b14.jpg"><img src="https://media.openaicut.com/covers/589/quality-en-6ea1ad7e2b14.jpg" alt="Modular Collage · Creator Tools · Landscape" width="640"></a>
 
@@ -945,7 +981,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 61. Engineering Blueprint · Product Breakdown
+### 64. Engineering Blueprint · Product Breakdown
 
 <a href="https://media.openaicut.com/covers/590/quality-en-06b8a14e9439.jpg"><img src="https://media.openaicut.com/covers/590/quality-en-06b8a14e9439.jpg" alt="Engineering Blueprint · Product Breakdown · Landscape" width="640"></a>
 
@@ -959,7 +995,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 62. Keynote Stage · Product Demo
+### 65. Keynote Stage · Product Demo
 
 <a href="https://media.openaicut.com/covers/591/quality-en-503e2def5c1d.jpg"><img src="https://media.openaicut.com/covers/591/quality-en-503e2def5c1d.jpg" alt="Keynote Stage · Product Demo · Landscape" width="640"></a>
 
@@ -973,7 +1009,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 63. Paper Scroll · Brand Story
+### 66. Paper Scroll · Brand Story
 
 <a href="https://media.openaicut.com/covers/592/quality-en-18c8d7779b34.jpg"><img src="https://media.openaicut.com/covers/592/quality-en-18c8d7779b34.jpg" alt="Paper Scroll · Brand Story · Landscape" width="640"></a>
 
@@ -987,7 +1023,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
-### 64. Collage · Opening Reveal
+### 67. Collage · Opening Reveal
 
 <a href="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg"><img src="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg" alt="Collage · Opening Reveal · Landscape" width="640"></a>
 
@@ -999,7 +1035,7 @@ Demo video：[https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
 
-### 65. Multi-Screen Wall · Layout Transition
+### 68. Multi-Screen Wall · Layout Transition
 
 <a href="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg"><img src="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg" alt="Multi-Screen Wall · Layout Transition · Landscape" width="640"></a>
 
@@ -1011,7 +1047,7 @@ Demo video：[https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
 
-### 66. Four Perspectives · Scrolling Filmstrip
+### 69. Four Perspectives · Scrolling Filmstrip
 
 <a href="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg"><img src="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg" alt="Four Perspectives · Scrolling Filmstrip · Landscape" width="640"></a>
 
@@ -1023,7 +1059,7 @@ Demo video：[https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
 
-### 67. Product Workspace · Brand Outro
+### 70. Product Workspace · Brand Outro
 
 <a href="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg"><img src="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg" alt="Product Workspace · Brand Outro · Landscape" width="640"></a>
 
@@ -1035,7 +1071,7 @@ Demo video：[https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
 
-### 68. DEEP STAGE · Product Spotlight
+### 71. DEEP STAGE · Product Spotlight
 
 <a href="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg"><img src="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg" alt="DEEP STAGE · Product Spotlight · Landscape" width="640"></a>
 
@@ -1047,7 +1083,7 @@ Demo video：[https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
 
-### 69. Multi-Screen Business · Animated Charts
+### 72. Multi-Screen Business · Animated Charts
 
 <a href="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg"><img src="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg" alt="Multi-Screen Business · Animated Charts · Landscape" width="640"></a>
 
@@ -1059,9 +1095,21 @@ Demo video：[https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff1
 
 Download .motion from MotionGit：[https://motiongit.com/@frankye1211/corporate-multiscreen-charts](https://motiongit.com/@frankye1211/corporate-multiscreen-charts)
 
+### 73. 双语科技歌词动效 MV
+
+<a href="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg"><img src="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg" alt="双语科技歌词动效 MV · Landscape" width="640"></a>
+
+固定约194秒的双语科技歌词MV模板，包含逐字歌词、多画面拼接、科技标题和声音频谱动效。Windows、Python与FFmpeg运行；使用者须自备音频、双语歌词和41段不同视频。
+
+#640432 · Landscape · 16:9 · 1280 × 720 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4](https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv](https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv)
+
 ## Photo & visual
 
-### 70. Halftone Dots · Portrait Title
+### 74. Halftone Dots · Portrait Title
 
 <a href="https://media.openaicut.com/covers/615/draft-en-c027030f0d20.jpg"><img src="https://media.openaicut.com/covers/615/draft-en-c027030f0d20.jpg" alt="Halftone Dots · Portrait Title · Landscape" width="640"></a>
 
@@ -1075,7 +1123,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 71. Photo Mosaic · Image Reveal
+### 75. Photo Mosaic · Image Reveal
 
 <a href="https://media.openaicut.com/covers/616/draft-en-20ba5db56e87.jpg"><img src="https://media.openaicut.com/covers/616/draft-en-20ba5db56e87.jpg" alt="Photo Mosaic · Image Reveal · Landscape" width="640"></a>
 
@@ -1089,7 +1137,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 72. Geometric Collage · Animated Poster
+### 76. Geometric Collage · Animated Poster
 
 <a href="https://media.openaicut.com/covers/617/draft-en-e7e87af228a4.jpg"><img src="https://media.openaicut.com/covers/617/draft-en-e7e87af228a4.jpg" alt="Geometric Collage · Animated Poster · Landscape" width="640"></a>
 
@@ -1103,7 +1151,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 73. Brush Repainting · Art Photo
+### 77. Brush Repainting · Art Photo
 
 <a href="https://media.openaicut.com/covers/618/draft-en-c0b19b83965b.jpg"><img src="https://media.openaicut.com/covers/618/draft-en-c0b19b83965b.jpg" alt="Brush Repainting · Art Photo · Landscape" width="640"></a>
 
@@ -1117,7 +1165,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 74. Signal Glitch · Photo Transition
+### 78. Signal Glitch · Photo Transition
 
 <a href="https://media.openaicut.com/covers/619/draft-en-c10a40ee5029.jpg"><img src="https://media.openaicut.com/covers/619/draft-en-c10a40ee5029.jpg" alt="Signal Glitch · Photo Transition · Landscape" width="640"></a>
 
@@ -1131,7 +1179,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 75. Double Exposure · Portrait Layers
+### 79. Double Exposure · Portrait Layers
 
 <a href="https://media.openaicut.com/covers/620/draft-en-ad5d04c72768.jpg"><img src="https://media.openaicut.com/covers/620/draft-en-ad5d04c72768.jpg" alt="Double Exposure · Portrait Layers · Landscape" width="640"></a>
 
@@ -1145,7 +1193,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 76. Spatial Gallery · Photo Memories
+### 80. Spatial Gallery · Photo Memories
 
 <a href="https://media.openaicut.com/covers/621/draft-en-eb4372eea087.jpg"><img src="https://media.openaicut.com/covers/621/draft-en-eb4372eea087.jpg" alt="Spatial Gallery · Photo Memories · Landscape" width="640"></a>
 
@@ -1159,7 +1207,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 77. Mirror Kaleidoscope · Photo Motion
+### 81. Mirror Kaleidoscope · Photo Motion
 
 <a href="https://media.openaicut.com/covers/622/draft-en-c3affa5c90fa.jpg"><img src="https://media.openaicut.com/covers/622/draft-en-c3affa5c90fa.jpg" alt="Mirror Kaleidoscope · Photo Motion · Landscape" width="640"></a>
 
@@ -1173,7 +1221,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
-### 78. DeepSeek Whale · Particle Reveal
+### 82. DeepSeek Whale · Particle Reveal
 
 <a href="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg"><img src="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg" alt="DeepSeek Whale · Particle Reveal · Landscape" width="640"></a>
 
@@ -1187,7 +1235,7 @@ Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-wha
 
 Technical documentation：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
 
-### 79. DeepSeek · 3D Particle Morph
+### 83. DeepSeek · 3D Particle Morph
 
 <a href="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg"><img src="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg" alt="DeepSeek · 3D Particle Morph · Landscape" width="640"></a>
 
@@ -1201,7 +1249,7 @@ Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-for
 
 Technical documentation：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
 
-### 80. DeepSeek · Particle Typography
+### 84. DeepSeek · Particle Typography
 
 <a href="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg"><img src="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg" alt="DeepSeek · Particle Typography · Landscape" width="640"></a>
 
@@ -1215,7 +1263,7 @@ Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-wor
 
 Technical documentation：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
-### 81. Light Ribbon · Word Reveal
+### 85. Light Ribbon · Word Reveal
 
 <a href="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg"><img src="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg" alt="Light Ribbon · Word Reveal · Landscape" width="640"></a>
 
@@ -1227,7 +1275,7 @@ Demo video：[https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
 
-### 82. Panel Transitions · Wipe Pack
+### 86. Panel Transitions · Wipe Pack
 
 <a href="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg"><img src="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg" alt="Panel Transitions · Wipe Pack · Landscape" width="640"></a>
 
@@ -1239,7 +1287,7 @@ Demo video：[https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
 
-### 83. DEEP STAGE · Cinematic Title Intro
+### 87. DEEP STAGE · Cinematic Title Intro
 
 <a href="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg"><img src="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg" alt="DEEP STAGE · Cinematic Title Intro · Landscape" width="640"></a>
 
@@ -1251,7 +1299,7 @@ Demo video：[https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
 
-### 84. DEEP STAGE · Media Wall
+### 88. DEEP STAGE · Media Wall
 
 <a href="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg"><img src="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg" alt="DEEP STAGE · Media Wall · Landscape" width="640"></a>
 
@@ -1263,7 +1311,7 @@ Demo video：[https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
 
-### 85. DEEP STAGE · Brand Outro
+### 89. DEEP STAGE · Brand Outro
 
 <a href="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg"><img src="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg" alt="DEEP STAGE · Brand Outro · Landscape" width="640"></a>
 
@@ -1275,7 +1323,7 @@ Demo video：[https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
 
-### 86. 3D 吉祥物手把手教程
+### 90. 3D 吉祥物手把手教程
 
 <a href="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg"><img src="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg" alt="3D 吉祥物手把手教程 · Landscape" width="640"></a>
 
@@ -1287,7 +1335,7 @@ Demo video：[https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
 
-### 87. 可爱角色歌词 MV
+### 91. 可爱角色歌词 MV
 
 <a href="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg"><img src="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg" alt="可爱角色歌词 MV · Landscape" width="640"></a>
 
@@ -1298,6 +1346,78 @@ Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutori
 Demo video：[https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4](https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/cute-character-lyric-mv](https://motiongit.com/@chenyutao0417/cute-character-lyric-mv)
+
+### 92. 光的语法
+
+<a href="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg"><img src="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg" alt="光的语法 · Landscape" width="640"></a>
+
+六镜光学短片模板。冷白光谱底、七条色带像频谱仪一样呼吸、透镜光斑推移，适合讲光学、色彩与感知类知识。固定 14 秒，1920x1080。
+
+#442505 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.5
+
+Demo video：[https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4](https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/light-grammar](https://motiongit.com/@chenjunfeng5208/light-grammar)
+
+### 93. 深海时钟
+
+<a href="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg"><img src="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg" alt="深海时钟 · Landscape" width="640"></a>
+
+七镜深海观察日志：光在 200 米处终止、每 10 米增加一个大气压、声音传得更远。冷蓝到近黑的单色系统，适合讲深海、压强与感知边界。固定 16.7 秒，1920x1080。
+
+#319937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4](https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/deep-sea-clock](https://motiongit.com/@chenjunfeng5208/deep-sea-clock)
+
+### 94. 城市脉搏
+
+<a href="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg"><img src="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg" alt="城市脉搏 · Landscape" width="640"></a>
+
+六镜城市夜行：天际线切片、楼体呼吸、交通流与人口曲线。暖橙高对比的城市节奏，适合讲城市、人群与流动。固定 11.3 秒，1920x1080。
+
+#362451 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4](https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/city-pulse](https://motiongit.com/@chenjunfeng5208/city-pulse)
+
+### 95. 种子库
+
+<a href="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg"><img src="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg" alt="种子库 · Landscape" width="640"></a>
+
+五镜标本档案：恒温舱呼吸单元格、编号标本格、光照周期与异地备份。冷色极简的档案秩序，适合讲保存、备份与长期主义。固定 16 秒，1920x1080。
+
+#419411 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4](https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/seed-bank](https://motiongit.com/@chenjunfeng5208/seed-bank)
+
+### 96. 火星农场
+
+<a href="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg"><img src="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg" alt="火星农场 · Landscape" width="640"></a>
+
+六镜等距种植图：火星表土、脉动生长格、水循环与收成预估。锈红与青绿的互补配色，适合讲太空农业与资源闭环。固定 14.2 秒，1920x1080。
+
+#631937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4](https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/mars-farm](https://motiongit.com/@chenjunfeng5208/mars-farm)
+
+### 97. AI 能不能代替人工
+
+<a href="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg"><img src="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg" alt="AI 能不能代替人工 · Landscape" width="640"></a>
+
+七镜论证体短片：先提问，再讲 AI 能做什么、不能做什么、机制怎么拆、边界在哪里，最后给出结论与落版。冷灰底配橙红强调，适合讲 AI 与人的分工。固定 29.5 秒，1920x1080。
+
+#966733 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4](https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/code-is-video](https://motiongit.com/@chenjunfeng5208/code-is-video)
 
 ## How to use
 
