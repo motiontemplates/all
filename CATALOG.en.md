@@ -878,7 +878,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Layered paper reveals interiors, compression and movement. For layers, folds, cross-sections and displacement, with diagram guidance and an optional presenter opening and circular window.
 
-#546070 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#546070 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
