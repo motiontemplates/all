@@ -830,7 +830,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Relations grow along branches and objects move along paths. For hierarchies, branching, local detail and different timescales, with diagram guidance and an optional presenter opening and circular window.
 
-#880856 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#880856 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
@@ -842,7 +842,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Exhibit walls and mechanisms explain shadows, liquid levels, gears, oscillation, frequency division and resonance. The AI assistant selects diagrams; a presenter opening and circular window are optional.
 
-#949192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#949192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
