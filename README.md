@@ -1603,8 +1603,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504
 
 #362451 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：这条片子想讲的主题是什么？把关键数字或结论发我就行。 · 把 6 个镜头的主标题依次换成用户内容，每个建议不超过 12 个汉字。 · 没有文案时使用 presets/demo.json 的演示文案，并在交付时说明是示例内容。 每个镜头下面要不要再加一行补充说明？ · 填入每个镜头的副标题；留空字符串即只显示主标题。 · 没有副标题时全部留空，画面只显示主标题，不影响出片。 镜头主标题 · 按镜头顺序填写 6 个，每个建议不超过 12 个汉字，保留用户原意与数字。 镜头副标题 · 可选，按镜头顺序填写；留空字符串即只显示主标题。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4](https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/city-pulse](https://motiongit.com/@chenjunfeng5208/city-pulse)
