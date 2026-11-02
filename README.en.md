@@ -943,7 +943,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Colored edges, areas and rigid puzzles explain geometric equivalence. The native example uses a right-triangle model, with diagram selection guidance. The page shows an early 23.8667-second style sample.
 
-#118272 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#118272 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 
