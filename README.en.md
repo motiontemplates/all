@@ -899,13 +899,13 @@ Download .motion from MotionGit：[https://motiongit.com/@lxguanyu/dds-decision-
 
 ### 58. 财经解读 · 竖屏信息卡
 
-<a href="https://media.openaicut.com/covers/956/0.1.0-zh-63ece22aa719.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-zh-63ece22aa719.jpg" alt="财经解读 · 竖屏信息卡 · Portrait" width="202"></a>
+<a href="https://media.openaicut.com/covers/956/0.1.0-2c77590d1f15.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-2c77590d1f15.jpg" alt="财经解读 · 竖屏信息卡 · Portrait" width="202"></a>
 
 用深色科技底、数据大字卡和三条方向，把一条财经信息讲成 24 秒竖屏片
 
 #685275 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.0
 
-Demo video：[https://media.openaicut.com/previews/956/0.1.0-zh-d59f54eed92c.mp4](https://media.openaicut.com/previews/956/0.1.0-zh-d59f54eed92c.mp4)
+Demo video：[https://media.openaicut.com/previews/956/0.1.0-08fb1db08631.mp4](https://media.openaicut.com/previews/956/0.1.0-08fb1db08631.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
 
