@@ -424,7 +424,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc6713
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -472,7 +472,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29b
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
+#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.7
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -488,15 +488,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4](https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
-
-技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
 ### 26. 活力海报 · 口播讲解
 
