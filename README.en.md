@@ -515,13 +515,15 @@ Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
 
+Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
+
 ### 27. Tech Console · Narrated Explainer · Portrait
 
 <a href="https://media.openaicut.com/covers/612/2.5.7-en-57e0e5424a51.jpg"><img src="https://media.openaicut.com/covers/612/2.5.7-en-57e0e5424a51.jpg" alt="Tech Console · Narrated Explainer · Portrait" width="202"></a>
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.4
+#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
 
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
