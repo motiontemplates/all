@@ -409,13 +409,15 @@ Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
+
 ### 20. Dark Dimensional Stage · Multi-screen Story
 
 <a href="https://media.openaicut.com/covers/609/draft-en-fa806ee6cabf.jpg"><img src="https://media.openaicut.com/covers/609/draft-en-fa806ee6cabf.jpg" alt="Dark Dimensional Stage · Multi-screen Story · Landscape" width="640"></a>
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.5
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
