@@ -92,7 +92,7 @@ Watch online：[https://motiontemplates.github.io/all/en.html#preview-3d-book](h
 
 Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4](https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4)
 
-## Industry talking-head · Prelaunch
+## Talking-head · Prelaunch
 
 Prelaunch · Watch the full demo and visit the official template page. Feedback is welcome.
 
@@ -386,13 +386,11 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
-
-Technical documentation：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
 ### 20. Dark Dimensional Stage · Multi-screen Story
 

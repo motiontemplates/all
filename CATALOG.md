@@ -92,7 +92,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4](https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4)
 
-## 行业口播 · 预上线
+## 口播 · 预上线
 
 预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。
 
@@ -392,15 +392,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f16.mp4](https://media.openaicut.com/previews/608/draft-zh-927e16779f16.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
-
-技术资料：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
 ### 20. 深色立体 · 多屏展陈
 
