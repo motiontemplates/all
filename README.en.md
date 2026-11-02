@@ -493,13 +493,15 @@ Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 26. Vibrant Poster · Narrated Explainer
 
 <a href="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg"><img src="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg" alt="Vibrant Poster · Narrated Explainer · Landscape" width="640"></a>
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.3
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.4
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 

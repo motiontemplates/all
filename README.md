@@ -513,13 +513,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 26. 活力海报 · 口播讲解
 
 <a href="https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg"><img src="https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg" alt="活力海报 · 口播讲解 · 横屏" width="640"></a>
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
 
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.3
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.4
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
