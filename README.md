@@ -25,7 +25,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**93 个模板 · 12 个预上线模板 · 1 个测试项目 · 107 个 Demo**
+**94 个模板 · 12 个预上线模板 · 1 个测试项目 · 108 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -43,9 +43,9 @@
 
 ## 完整图文清单
 
-93 个模板 · 12 个预上线模板 · 1 个测试项目 · 107 个 Demo
+94 个模板 · 12 个预上线模板 · 1 个测试项目 · 108 个 Demo
 
-93 个模板，107 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+94 个模板，108 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -1275,11 +1275,23 @@ Demo 视频：[▶ https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf79
 
 官网下载 .motion：[https://motiongit.com/@chenjunfeng5208/ai-imagination](https://motiongit.com/@chenjunfeng5208/ai-imagination)
 
+### 95. 点阵肖像 v1
+
+<a href="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg"><img src="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg" alt="点阵肖像 v1 · 横屏" width="640"></a>
+
+三张人像依次化为流动的双色点阵，散开后汇聚成标题的 13 秒横屏开场，适合人物系列片头与活动开场
+
+#933005 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4](https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4)
+
+官网下载 .motion：[https://motiongit.com/@fangcs/dotmatrix-portrait-v1](https://motiongit.com/@fangcs/dotmatrix-portrait-v1)
+
 ## 模板开放测试 · 未上线
 
 第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。
 
-### 95. 3D书 · 阿杜和那个影响了
+### 96. 3D书 · 阿杜和那个影响了
 
 <a href="https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg"><img src="https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg" alt="3D书 · 阿杜和那个影响了 · 横屏" width="640"></a>
 
@@ -1297,7 +1309,7 @@ Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-bat
 
 预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。
 
-### 96. 房产 · 一镜看房
+### 97. 房产 · 一镜看房
 
 <a href="https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg"><img src="https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg" alt="房产 · 一镜看房 · 竖屏" width="202"></a>
 
@@ -1315,7 +1327,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/01m_house-demo-4
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际房源为准
 
-### 97. 财经 · 三笔账
+### 98. 财经 · 三笔账
 
 <a href="https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg"><img src="https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg" alt="财经 · 三笔账 · 竖屏" width="202"></a>
 
@@ -1333,7 +1345,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/02m_finance-demo
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作演示 · 不构成投资建议
 
-### 98. 法律 · 讨薪三步
+### 99. 法律 · 讨薪三步
 
 <a href="https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg"><img src="https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg" alt="法律 · 讨薪三步 · 竖屏" width="202"></a>
 
@@ -1351,7 +1363,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/03m_law-demo-170
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作普法演示 · 不构成法律意见 · 法条与时限待核对
 
-### 99. 医疗健康 · 看懂化验单
+### 100. 医疗健康 · 看懂化验单
 
 <a href="https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg"><img src="https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg" alt="医疗健康 · 看懂化验单 · 竖屏" width="202"></a>
 
@@ -1369,7 +1381,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/04m_health-demo-
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作科普演示 · 不能替代医生诊断 · 相关医学说法待核对
 
-### 100. 教育 · 三种解法
+### 101. 教育 · 三种解法
 
 <a href="https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg"><img src="https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg" alt="教育 · 三种解法 · 竖屏" width="202"></a>
 
@@ -1387,7 +1399,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cd
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
 
-### 101. 电商带货 · 实测四项
+### 102. 电商带货 · 实测四项
 
 <a href="https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg"><img src="https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg" alt="电商带货 · 实测四项 · 竖屏" width="202"></a>
 
@@ -1405,7 +1417,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/06m_shop-demo-72
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 实测类内容演示 · 数据为示意，不代表真实测评结论
 
-### 102. 美妆护肤 · 成分表
+### 103. 美妆护肤 · 成分表
 
 <a href="https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg"><img src="https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg" alt="美妆护肤 · 成分表 · 竖屏" width="202"></a>
 
@@ -1423,7 +1435,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 成分表为示意 · 不替代皮肤科医生建议 · 成分说法待核对
 
-### 103. 美食探店 · 值不值得排
+### 104. 美食探店 · 值不值得排
 
 <a href="https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg"><img src="https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg" alt="美食探店 · 值不值得排 · 竖屏" width="202"></a>
 
@@ -1441,7 +1453,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 个人口味 · 数据为示意
 
-### 104. 汽车 · 四笔账
+### 105. 汽车 · 四笔账
 
 <a href="https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg"><img src="https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg" alt="汽车 · 四笔账 · 竖屏" width="202"></a>
 
@@ -1459,7 +1471,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 示意参数 · 以实际为准
 
-### 105. 数码科技 · 换不换
+### 106. 数码科技 · 换不换
 
 <a href="https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg"><img src="https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg" alt="数码科技 · 换不换 · 竖屏" width="202"></a>
 
@@ -1477,7 +1489,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1a
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际机型为准
 
-### 106. 职场 · 三行汇报
+### 107. 职场 · 三行汇报
 
 <a href="https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg"><img src="https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg" alt="职场 · 三行汇报 · 竖屏" width="202"></a>
 
@@ -1495,7 +1507,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
 
-### 107. 情感 · 对话复盘
+### 108. 情感 · 对话复盘
 
 <a href="https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg"><img src="https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg" alt="情感 · 对话复盘 · 竖屏" width="202"></a>
 

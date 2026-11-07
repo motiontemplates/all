@@ -1,6 +1,6 @@
 # MotionGit illustrated template list
 
-93 templates · 12 prelaunch templates · 1 preview projects · 107 demos
+94 templates · 12 prelaunch templates · 1 preview projects · 108 demos
 
 ## What is .motion?
 
@@ -28,7 +28,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
 
-93 templates, 107 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+94 templates, 108 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -1258,11 +1258,23 @@ Demo video：[https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf795.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/ai-imagination](https://motiongit.com/@chenjunfeng5208/ai-imagination)
 
+### 95. 点阵肖像 v1
+
+![点阵肖像 v1 · Landscape](https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg)
+
+三张人像依次化为流动的双色点阵，散开后汇聚成标题的 13 秒横屏开场，适合人物系列片头与活动开场
+
+#933005 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4](https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@fangcs/dotmatrix-portrait-v1](https://motiongit.com/@fangcs/dotmatrix-portrait-v1)
+
 ## Template previews · Not yet released
 
 Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.
 
-### 95. 3D Book · A Personal Story
+### 96. 3D Book · A Personal Story
 
 ![3D Book · A Personal Story · Landscape](https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg)
 
@@ -1280,7 +1292,7 @@ Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batc
 
 Prelaunch · Watch the full demo and visit the official template page. Feedback is welcome.
 
-### 96. 房产 · 一镜看房
+### 97. 房产 · 一镜看房
 
 ![房产 · 一镜看房 · Portrait](https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg)
 
@@ -1298,7 +1310,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-house
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative data · Check the actual property
 
-### 97. 财经 · 三笔账
+### 98. 财经 · 三笔账
 
 ![财经 · 三笔账 · Portrait](https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg)
 
@@ -1316,7 +1328,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-finan
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Demonstration only · Not investment advice
 
-### 98. 法律 · 讨薪三步
+### 99. 法律 · 讨薪三步
 
 ![法律 · 讨薪三步 · Portrait](https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg)
 
@@ -1334,7 +1346,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-law-w
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Legal education demo only · Not legal advice · Legal references and deadlines need verification
 
-### 99. 医疗健康 · 看懂化验单
+### 100. 医疗健康 · 看懂化验单
 
 ![医疗健康 · 看懂化验单 · Portrait](https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg)
 
@@ -1352,7 +1364,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-healt
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Educational demo only · Not a substitute for medical diagnosis · Medical statements need verification
 
-### 100. 教育 · 三种解法
+### 101. 教育 · 三种解法
 
 ![教育 · 三种解法 · Portrait](https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg)
 
@@ -1370,7 +1382,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-educa
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative teaching example
 
-### 101. 电商带货 · 实测四项
+### 102. 电商带货 · 实测四项
 
 ![电商带货 · 实测四项 · Portrait](https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg)
 
@@ -1388,7 +1400,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-shopp
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative product-review demo · No real-world test conclusions
 
-### 102. 美妆护肤 · 成分表
+### 103. 美妆护肤 · 成分表
 
 ![美妆护肤 · 成分表 · Portrait](https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg)
 
@@ -1406,7 +1418,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-beaut
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative ingredient label · Not dermatological advice · Ingredient claims need verification
 
-### 103. 美食探店 · 值不值得排
+### 104. 美食探店 · 值不值得排
 
 ![美食探店 · 值不值得排 · Portrait](https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg)
 
@@ -1424,7 +1436,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-food-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Personal taste · Illustrative data
 
-### 104. 汽车 · 四笔账
+### 105. 汽车 · 四笔账
 
 ![汽车 · 四笔账 · Portrait](https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg)
 
@@ -1442,7 +1454,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-cars-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative parameters · Check actual costs
 
-### 105. 数码科技 · 换不换
+### 106. 数码科技 · 换不换
 
 ![数码科技 · 换不换 · Portrait](https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg)
 
@@ -1460,7 +1472,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-tech-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative data · Check the actual device
 
-### 106. 职场 · 三行汇报
+### 107. 职场 · 三行汇报
 
 ![职场 · 三行汇报 · Portrait](https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg)
 
@@ -1478,7 +1490,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-work-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative workplace example
 
-### 107. 情感 · 对话复盘
+### 108. 情感 · 对话复盘
 
 ![情感 · 对话复盘 · Portrait](https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg)
 
