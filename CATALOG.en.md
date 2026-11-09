@@ -82,13 +82,11 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.13
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.14
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
-
-Technical documentation：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
