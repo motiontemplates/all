@@ -663,7 +663,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 
 把步骤、关键词和修订留在同一本点阵手账里。适合方法拆解与学习回顾，提供图标图示选择引导；页面为19.95秒早期风格短样。
 
-#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.1
+#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
