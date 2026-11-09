@@ -110,7 +110,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-zh-9086d86d612
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.12
+#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449f.mp4](https://media.openaicut.com/previews/607/draft-zh-613d68ad449f.mp4)
 
@@ -1002,7 +1002,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
-#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.1
+#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4](https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4)
 
