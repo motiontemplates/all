@@ -99,7 +99,7 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.11
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.12
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
