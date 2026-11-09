@@ -127,7 +127,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.10
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.11
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
