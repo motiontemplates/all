@@ -105,6 +105,8 @@ Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
+Technical documentation：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
+
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
 <a href="https://media.openaicut.com/covers/606/draft-en-3c5bd49c76c4.jpg"><img src="https://media.openaicut.com/covers/606/draft-en-3c5bd49c76c4.jpg" alt="Modern Editorial · Narrated Explainer · Portrait" width="202"></a>
@@ -125,7 +127,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.11
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.12
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -661,7 +663,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Keep steps, keywords and revisions in one dot-grid notebook. For methods and learning reviews, with icon and diagram guidance. The page shows an early 19.95-second style sample.
 
-#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
+#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -1017,7 +1019,7 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
