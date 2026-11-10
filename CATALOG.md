@@ -130,6 +130,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f1
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
+技术资料：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
+
 ### 7. 深色立体 · 多屏展陈
 
 ![深色立体 · 多屏展陈 · 横屏](https://media.openaicut.com/covers/609/draft-zh-0b9cc00ce402.jpg)
@@ -198,6 +200,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
+技术资料：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
+
 ### 12. 鲜色角色 · 叙事讲解 · 竖屏
 
 ![鲜色角色 · 叙事讲解 · 竖屏](https://media.openaicut.com/covers/614/draft-zh-3f92eea2b709.jpg)
@@ -209,6 +213,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4](https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
+
+技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
 ### 13. 活力海报 · 口播讲解
 
@@ -222,6 +228,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
+技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
+
 ### 14. 活力海报 · 口播讲解 · 竖屏
 
 ![活力海报 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/624/draft-zh-01638b2220a1.jpg)
@@ -233,6 +241,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 15. 口播宣传动效 10 秒
 
@@ -319,6 +329,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
+
+技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
 ### 22. 卡通讲解风
 
@@ -970,6 +982,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
+技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
+
 ### 73. 双重曝光 · 人像叠影
 
 ![双重曝光 · 人像叠影 · 横屏](https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg)
@@ -995,6 +1009,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4](https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4)
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
+
+技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
 ### 75. 镜像万花筒 · 照片变幻
 
@@ -1049,6 +1065,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
+
+技术资料：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
 ### 79. Light Ribbon Word
 

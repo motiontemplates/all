@@ -130,6 +130,8 @@ Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
+
 ### 7. Dark Dimensional Stage · Multi-screen Story
 
 ![Dark Dimensional Stage · Multi-screen Story · Landscape](https://media.openaicut.com/covers/609/draft-en-fa806ee6cabf.jpg)
@@ -198,6 +200,8 @@ Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
+Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
+
 ### 12. Vivid Characters · Narrative Explainer · Portrait
 
 ![Vivid Characters · Narrative Explainer · Portrait](https://media.openaicut.com/covers/614/draft-en-6ecd87d7835a.jpg)
@@ -209,6 +213,8 @@ Support stories and contextual explanations with vivid colors, character assets 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
+
+Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
 ### 13. Vibrant Poster · Narrated Explainer
 
@@ -222,6 +228,8 @@ Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
+Technical documentation：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
+
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
 
 ![Vibrant Poster · Narrated Explainer · Portrait](https://media.openaicut.com/covers/624/draft-en-7738a754a89b.jpg)
@@ -233,6 +241,8 @@ Support narration with high-contrast posters, bold type, lists and graphic relat
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+Technical documentation：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 15. Narrated Promo · 10-Second Intro
 
@@ -319,6 +329,8 @@ Text characters, a work gallery and theatrical animation. Beta: adaptation to ne
 Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
+
+Technical documentation：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
 ### 22. Hand-Drawn Cartoon Explainer
 
@@ -970,6 +982,8 @@ Demo video：[https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
+Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
+
 ### 73. Double Exposure · Portrait Layers
 
 ![Double Exposure · Portrait Layers · Landscape](https://media.openaicut.com/covers/620/draft-en-ad5d04c72768.jpg)
@@ -995,6 +1009,8 @@ Travel through a dimensional photo gallery with captions, then move into the mai
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
+
+Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
 ### 75. Mirror Kaleidoscope · Photo Motion
 
@@ -1049,6 +1065,8 @@ Particles form four keywords in sequence for concept introductions, feature list
 Demo video：[https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
+
+Technical documentation：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
 ### 79. Light Ribbon · Word Reveal
 
