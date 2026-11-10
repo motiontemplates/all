@@ -88,8 +88,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
-技术资料：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
-
 ### 4. 现代图文 · 口播讲解 · 竖屏
 
 ![现代图文 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/606/draft-zh-ceb203a3fa61.jpg)
@@ -101,8 +99,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd
 Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-zh-9086d86d6129.mp4](https://media.openaicut.com/previews/606/draft-zh-9086d86d6129.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
-
-技术资料：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
 
 ### 5. 纸面透视 · 口播讲解
 
@@ -116,8 +112,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
 
-技术资料：[https://github.com/motiontemplates/358192](https://github.com/motiontemplates/358192)
-
 ### 6. 纸面透视 · 口播讲解 · 竖屏
 
 ![纸面透视 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/608/draft-zh-499f0ea3a15e.jpg)
@@ -130,8 +124,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f1
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
-技术资料：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
-
 ### 7. 深色立体 · 多屏展陈
 
 ![深色立体 · 多屏展陈 · 横屏](https://media.openaicut.com/covers/609/draft-zh-0b9cc00ce402.jpg)
@@ -143,8 +135,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f1
 Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc67131.mp4](https://media.openaicut.com/previews/609/draft-zh-a33d6dc67131.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
-
-技术资料：[https://github.com/motiontemplates/304634](https://github.com/motiontemplates/304634)
 
 ### 8. 深色立体 · 多屏展陈 · 竖屏
 
@@ -170,8 +160,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b14441387
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
 
-技术资料：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
-
 ### 10. 科技控制台 · 口播讲解 · 竖屏
 
 ![科技控制台 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/612/2.5.7-zh-3586eaac0c77.jpg)
@@ -183,8 +171,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b14441387
 Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29ba.mp4](https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29ba.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
-
-技术资料：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
 ### 11. 鲜色角色 · 叙事讲解
 
@@ -210,8 +196,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
-技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
-
 ### 13. 活力海报 · 口播讲解
 
 ![活力海报 · 口播讲解 · 横屏](https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg)
@@ -223,8 +207,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4](https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
-
-技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
 
 ### 14. 活力海报 · 口播讲解 · 竖屏
 
@@ -322,8 +304,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
-技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
-
 ### 22. 卡通讲解风
 
 ![卡通讲解风 · 横屏](https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg)
@@ -335,8 +315,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
-
-技术资料：[https://github.com/motiontemplates/875206](https://github.com/motiontemplates/875206)
 
 ### 23. 牌桌洗牌
 
@@ -436,8 +414,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a
 
 官网下载 .motion：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
 
-技术资料：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
-
 ### 31. 流程与时间线 · FLOW / TIMELINE
 
 ![流程与时间线 · FLOW / TIMELINE · 横屏](https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg)
@@ -473,8 +449,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.m
 Demo 视频：[▶ https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@frankye1211/product-update-story](https://motiongit.com/@frankye1211/product-update-story)
-
-技术资料：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
 
 ### 34. 图解口播与图片展示
 
@@ -706,8 +680,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
 
-技术资料：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
-
 ### 53. 像素闯关 · 产品宣传
 
 ![像素闯关 · 产品宣传 · 横屏](https://media.openaicut.com/covers/586/quality-zh-086e631771b2.jpg)
@@ -719,8 +691,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887ad.mp4](https://media.openaicut.com/previews/586/draft-zh-b8792f9887ad.mp4)
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
-
-技术资料：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
 ### 54. 明暗快切 · 产品宣传
 
@@ -734,8 +704,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
-技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
-
 ### 55. 流程演示 · 产品教程
 
 ![流程演示 · 产品教程 · 横屏](https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg)
@@ -747,8 +715,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4](https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4)
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
-
-技术资料：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
 ### 56. 模块拼贴 · 创作者宣传
 
@@ -762,8 +728,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
 
-技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
-
 ### 57. 工程蓝图 · 产品拆解
 
 ![工程蓝图 · 产品拆解 · 横屏](https://media.openaicut.com/covers/590/quality-zh-d5509b8e4f82.jpg)
@@ -775,8 +739,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4](https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4)
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
-
-技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
 ### 58. 发布会舞台 · 产品演示
 
@@ -790,8 +752,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
 
-技术资料：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
-
 ### 59. 宣纸手卷 · 品牌叙事
 
 ![宣纸手卷 · 品牌叙事 · 横屏](https://media.openaicut.com/covers/592/quality-zh-666ac61ebd83.jpg)
@@ -803,8 +763,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4](https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4)
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
-
-技术资料：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
 ### 60. 拼贴出场 · COLLAGE OPEN
 
@@ -916,8 +874,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
 
-技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
-
 ### 69. 照片马赛克 · 拼图揭幕
 
 ![照片马赛克 · 拼图揭幕 · 横屏](https://media.openaicut.com/covers/616/draft-zh-b95e73a79f9c.jpg)
@@ -929,8 +885,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e9591.mp4](https://media.openaicut.com/previews/616/draft-zh-3c3bc74e9591.mp4)
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
-
-技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
 ### 70. 几何拼贴 · 动态海报
 
@@ -944,8 +898,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
 
-技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
-
 ### 71. 笔触重绘 · 艺术照片
 
 ![笔触重绘 · 艺术照片 · 横屏](https://media.openaicut.com/covers/618/draft-zh-c88f1a5a67a8.jpg)
@@ -957,8 +909,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1e.mp4](https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1e.mp4)
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
-
-技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
 ### 72. 信号故障 · 照片转场
 
