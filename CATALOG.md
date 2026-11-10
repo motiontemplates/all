@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-94 个模板 · 12 个预上线模板 · 1 个测试项目 · 108 个 Demo
+99 个模板 · 12 个预上线模板 · 1 个测试项目 · 113 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-94 个模板，108 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+99 个模板，113 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -36,9 +36,9 @@
 
 GitHub 公开本地版的版本见各条目，与官网个人版独立更新；重复下载公开文件不会升级到官网当前版。需要最新版时优先使用对应官网入口。已有个人包沿用原 Key 增量更新；只有公开包时首次需从官网下载本人个人包，无需复制 Key。旧包和工程保留。
 
-推荐从 MotionGit 官网下载，配套使用素材关联匹配、贴纸、背景音乐、模板自动检查与升级等能力，让素材准备与后续创作更顺畅。具体使用方式以包内指南和本期需求为准。
+Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口，并提供免费背景音乐及免费素材检索。升级版模板仍然 100% 免费开源。请从下方各模板对应的 MotionGit 官网地址下载升级版，官网按账号提供接口访问，防止批量请求滥用。素材接口的免费范围以官网说明为准。
 
-官网下载的 .motion 模板源码同样 100% 开源，代码许可与制作指南随包提供。
+官网下载版支持模板自动检查与升级，具体操作见包内指南。
 
 ## 模板下载体验
 
@@ -198,8 +198,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
-技术资料：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
-
 ### 12. 鲜色角色 · 叙事讲解 · 竖屏
 
 ![鲜色角色 · 叙事讲解 · 竖屏](https://media.openaicut.com/covers/614/draft-zh-3f92eea2b709.jpg)
@@ -239,8 +237,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
-
-技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 15. 口播宣传动效 10 秒
 
@@ -313,8 +309,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.m
 Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
-
-技术资料：[https://github.com/motiontemplates/178707](https://github.com/motiontemplates/178707)
 
 ### 21. 字符剧场
 
@@ -505,8 +499,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec277
 Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm](https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm)
-
-技术资料：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
 
 ### 36. 水墨人物志 · 一个人的故事
 
@@ -980,8 +972,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
-技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
-
 ### 73. 双重曝光 · 人像叠影
 
 ![双重曝光 · 人像叠影 · 横屏](https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg)
@@ -993,8 +983,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b43.mp4](https://media.openaicut.com/previews/620/draft-zh-eb40eb882b43.mp4)
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
-
-技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
 ### 74. 空间画廊 · 回忆相册
 
@@ -1008,8 +996,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
 
-技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
-
 ### 75. 镜像万花筒 · 照片变幻
 
 ![镜像万花筒 · 照片变幻 · 横屏](https://media.openaicut.com/covers/622/draft-zh-f09b29170a66.jpg)
@@ -1021,8 +1007,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a39.mp4](https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a39.mp4)
 
 官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
-
-技术资料：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
 ### 76. DeepSeek 鲸鱼粒子聚合
 
@@ -1036,8 +1020,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-whale-assemble](https://motiongit.com/@thepandaq/deepseek-whale-assemble)
 
-技术资料：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
-
 ### 77. DeepSeek 粒子形变
 
 ![DeepSeek 粒子形变 · 横屏](https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg)
@@ -1050,8 +1032,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
 
-技术资料：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
-
 ### 78. DeepSeek 词语粒子
 
 ![DeepSeek 词语粒子 · 横屏](https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg)
@@ -1063,8 +1043,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
-
-技术资料：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
 ### 79. Light Ribbon Word
 
@@ -1270,11 +1248,71 @@ Demo 视频：[▶ https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.m
 
 官网下载 .motion：[https://motiongit.com/@fangcs/dotmatrix-portrait-v1](https://motiongit.com/@fangcs/dotmatrix-portrait-v1)
 
+### 96. 【子布】黑金文字模板素材
+
+![【子布】黑金文字模板素材 · 横屏](https://media.openaicut.com/covers/971/1.0.0-zh-9a06704db548.jpg)
+
+新版20秒原始动画的固定时间轴模板。使用短关键词、计数、三个来源、汇聚与界面展开表达资料处理过程。
+
+#212706 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/971/1.0.0-zh-38719b24de58.mp4](https://media.openaicut.com/previews/971/1.0.0-zh-38719b24de58.mp4)
+
+官网下载 .motion：[https://motiongit.com/@zibu/vibe-sucai1](https://motiongit.com/@zibu/vibe-sucai1)
+
+### 97. 空间智能 · 数字城市光场模板
+
+![空间智能 · 数字城市光场模板 · 横屏](https://media.openaicut.com/covers/974/1.0.0-zh-3b732ef91f6d.jpg)
+
+9 页抽象发光蓝色数字科技科普片：从空间感知到空间智能，再到共享空间上下文，完整保留 71.8 秒口播、BGM 与动效。
+
+#628185 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4](https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/science-spatial-field-motion](https://motiongit.com/@nxxxxxx/science-spatial-field-motion)
+
+### 98. 07 影子的边缘为什么是虚的 · 半影模板
+
+![07 影子的边缘为什么是虚的 · 半影模板 · 横屏](https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg)
+
+9 页米色纸感科普片：同一根杆的十二种边缘、点光源与盘光源对比、本影/半影几何，以及每远一米软九毫米的半影尺。完整保留 57.2 秒中文口播与混音。
+
+#975 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4](https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/science-shadow-motion](https://motiongit.com/@nxxxxxx/science-shadow-motion)
+
+### 99. 01 火星的日落为什么是蓝的 · 蓝暮模板
+
+![01 火星的日落为什么是蓝的 · 蓝暮模板 · 横屏](https://media.openaicut.com/covers/976/1.0.0-zh-1444772c509d.jpg)
+
+8 页暗底橙沙、蓝色暮光的科普片：火星大气把太阳直射光筛成蓝，沙尘又把蓝光散开；从“太阳是白/黄”到“日落后天空发蓝”的因果链。完整保留 56.6 秒中文口播与混音。
+
+#976 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4](https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/science-mars-sunset-motion](https://motiongit.com/@nxxxxxx/science-mars-sunset-motion)
+
+### 100. 03 夜间声音为什么传得更远 · 逆温层模板
+
+![03 夜间声音为什么传得更远 · 逆温层模板 · 横屏](https://media.openaicut.com/covers/977/1.0.0-zh-cff00659a56b.jpg)
+
+9 页深蓝夜色、青色声线与橙色温度层的科普片：不是夜里更安静，也不是空气变重，而是逆温层让声音向上折射、绕过障碍传得更远。完整保留 58.2 秒中文口播与混音。
+
+#977 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4](https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/science-night-sound-motion](https://motiongit.com/@nxxxxxx/science-night-sound-motion)
+
 ## 模板开放测试 · 未上线
 
 第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。
 
-### 96. 3D书 · 阿杜和那个影响了
+### 101. 3D书 · 阿杜和那个影响了
 
 ![3D书 · 阿杜和那个影响了 · 横屏](https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg)
 
@@ -1292,7 +1330,7 @@ Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-bat
 
 预上线 · 查看完整 Demo 与官网模板页，欢迎提出建议。
 
-### 97. 房产 · 一镜看房
+### 102. 房产 · 一镜看房
 
 ![房产 · 一镜看房 · 竖屏](https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg)
 
@@ -1310,7 +1348,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/01m_house-demo-4
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际房源为准
 
-### 98. 财经 · 三笔账
+### 103. 财经 · 三笔账
 
 ![财经 · 三笔账 · 竖屏](https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg)
 
@@ -1328,7 +1366,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/02m_finance-demo
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作演示 · 不构成投资建议
 
-### 99. 法律 · 讨薪三步
+### 104. 法律 · 讨薪三步
 
 ![法律 · 讨薪三步 · 竖屏](https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg)
 
@@ -1346,7 +1384,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/03m_law-demo-170
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作普法演示 · 不构成法律意见 · 法条与时限待核对
 
-### 100. 医疗健康 · 看懂化验单
+### 105. 医疗健康 · 看懂化验单
 
 ![医疗健康 · 看懂化验单 · 竖屏](https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg)
 
@@ -1364,7 +1402,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/04m_health-demo-
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 仅作科普演示 · 不能替代医生诊断 · 相关医学说法待核对
 
-### 101. 教育 · 三种解法
+### 106. 教育 · 三种解法
 
 ![教育 · 三种解法 · 竖屏](https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg)
 
@@ -1382,7 +1420,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cd
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
 
-### 102. 电商带货 · 实测四项
+### 107. 电商带货 · 实测四项
 
 ![电商带货 · 实测四项 · 竖屏](https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg)
 
@@ -1400,7 +1438,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/06m_shop-demo-72
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 实测类内容演示 · 数据为示意，不代表真实测评结论
 
-### 103. 美妆护肤 · 成分表
+### 108. 美妆护肤 · 成分表
 
 ![美妆护肤 · 成分表 · 竖屏](https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg)
 
@@ -1418,7 +1456,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 成分表为示意 · 不替代皮肤科医生建议 · 成分说法待核对
 
-### 104. 美食探店 · 值不值得排
+### 109. 美食探店 · 值不值得排
 
 ![美食探店 · 值不值得排 · 竖屏](https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg)
 
@@ -1436,7 +1474,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 个人口味 · 数据为示意
 
-### 105. 汽车 · 四笔账
+### 110. 汽车 · 四笔账
 
 ![汽车 · 四笔账 · 竖屏](https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg)
 
@@ -1454,7 +1492,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 示意参数 · 以实际为准
 
-### 106. 数码科技 · 换不换
+### 111. 数码科技 · 换不换
 
 ![数码科技 · 换不换 · 竖屏](https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg)
 
@@ -1472,7 +1510,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1a
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 数据为示意 · 以实际机型为准
 
-### 107. 职场 · 三行汇报
+### 112. 职场 · 三行汇报
 
 ![职场 · 三行汇报 · 竖屏](https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg)
 
@@ -1490,7 +1528,7 @@ Demo 视频：[https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8
 
 示意主播 · AI 生成；配图为 AI 示意图；数据为示意。 演示内容 · 数据为示意
 
-### 108. 情感 · 对话复盘
+### 113. 情感 · 对话复盘
 
 ![情感 · 对话复盘 · 竖屏](https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg)
 
