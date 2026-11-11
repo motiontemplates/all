@@ -263,67 +263,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster
 
 Technical documentation：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
-### 15. Narrated Promo · 10-Second Intro
-
-<a href="https://media.openaicut.com/covers/870/1.0.0-99c20483f4b4.jpg"><img src="https://media.openaicut.com/covers/870/1.0.0-99c20483f4b4.jpg" alt="Narrated Promo · 10-Second Intro · Landscape" width="640"></a>
-
-A 10-second landscape promo combining a number, a large headline and a brand outro for short-video openings or product teasers.
-
-#854836 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4](https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/kouboo-motion](https://motiongit.com/@thepandaq/kouboo-motion)
-
-### 16. 3D Stage · Narrated Video Intro
-
-<a href="https://media.openaicut.com/covers/871/draft-5ad5f68adb8d.jpg"><img src="https://media.openaicut.com/covers/871/draft-5ad5f68adb8d.jpg" alt="3D Stage · Narrated Video Intro · Landscape" width="640"></a>
-
-A 3D opening for a narrated video.
-
-#554769 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4](https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/cool-3d-intro](https://motiongit.com/@thepandaq/cool-3d-intro)
-
-### 17. DEEP STAGE · Presenter Stage
-
-<a href="https://media.openaicut.com/covers/880/1.0.0-53419c8f2925.jpg"><img src="https://media.openaicut.com/covers/880/1.0.0-53419c8f2925.jpg" alt="DEEP STAGE · Presenter Stage · Landscape" width="640"></a>
-
-A portrait presenter window, information screen and chapter screen enter in staggered layers, followed by a lower-third nameplate. A slowly moving camera completes this 14-second explainer scene.
-
-#228996 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4](https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-host-stage](https://motiongit.com/@thepandaq/deep-stage-host-stage)
-
-### 18. DEEP STAGE · Complete Narrated Video
-
-<a href="https://media.openaicut.com/covers/885/1.0.0-10251bc4895b.jpg"><img src="https://media.openaicut.com/covers/885/1.0.0-10251bc4895b.jpg" alt="DEEP STAGE · Complete Narrated Video · Landscape" width="640"></a>
-
-A 46-second narrated-video package: title intro, presenter stage, product spotlight, case study, media wall and brand outro with continuous camera movement. Customize branding, text, presenter details, subtitles and color; an optional sound-effects track is included.
-
-#838778 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4](https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-full-video](https://motiongit.com/@thepandaq/deep-stage-full-video)
-
-### 19. Kit 2 · Portrait Presenter Graphics
-
-<a href="https://media.openaicut.com/covers/890/1.0.0-50bebde67959.jpg"><img src="https://media.openaicut.com/covers/890/1.0.0-50bebde67959.jpg" alt="Kit 2 · Portrait Presenter Graphics" width="202"></a>
-
-Motion graphics for an on-camera presenter: transitions between full-screen, circular and card windows, ten visual metaphors and bilingual captions with orange emphasis. Portrait 1080×1920 at 30fps; the 36.5-second example includes generated sound effects.
-
-#583549 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4](https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit2-koubo-wrap](https://motiongit.com/@chenyutao0417/kit2-koubo-wrap)
-
-### 20. Beyond the Frame
+### 15. Beyond the Frame
 
 <a href="https://media.openaicut.com/covers/896/draft-zh-72bb9b863ff8.jpg"><img src="https://media.openaicut.com/covers/896/draft-zh-72bb9b863ff8.jpg" alt="Beyond the Frame · Portrait" width="270"></a>
 
@@ -337,7 +277,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/break-boundari
 
 Technical documentation：[https://github.com/motiontemplates/178707](https://github.com/motiontemplates/178707)
 
-### 21. Character Theater
+### 16. Character Theater
 
 <a href="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg"><img src="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg" alt="Character Theater · Landscape" width="640"></a>
 
@@ -351,7 +291,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/character-thea
 
 Technical documentation：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
-### 22. Hand-Drawn Cartoon Explainer
+### 17. Hand-Drawn Cartoon Explainer
 
 <a href="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg"><img src="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg" alt="Hand-Drawn Cartoon Explainer · Landscape" width="640"></a>
 
@@ -365,7 +305,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/cartoon-explai
 
 Technical documentation：[https://github.com/motiontemplates/875206](https://github.com/motiontemplates/875206)
 
-### 23. Card Table Shuffle
+### 18. Card Table Shuffle
 
 <a href="https://media.openaicut.com/covers/talking-head/card-table-shuffle-cover-bd4b927b814b04fa.jpg"><img src="https://media.openaicut.com/covers/talking-head/card-table-shuffle-cover-bd4b927b814b04fa.jpg" alt="Card Table Shuffle · Landscape" width="640"></a>
 
@@ -377,31 +317,7 @@ Demo video：[https://media.openaicut.com/previews/talking-head/card-table-shuff
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/card-table-shuffle](https://motiongit.com/@adunext/card-table-shuffle)
 
-### 24. 桌面口播 · Mac 窗口动效
-
-<a href="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg"><img src="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg" alt="桌面口播 · Mac 窗口动效 · Landscape" width="480"></a>
-
-浅色 macOS 桌面风格的真人口播模板：讲者出现在 Mac 摄像头窗口里，每句话按句型自动切换版式与动效——翻牌数字、弹出窗口、印章、荧光笔划重点、流程图、删除线、网格转场等，每种动效配有对应音效；判断句、数据句、风险句等各有专属布局。文字、数据、配色和节奏全部由参数驱动，替换
-
-#607598 · Landscape · 4:3 · 1440 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4](https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@erictan88315/desktop-talking-head](https://motiongit.com/@erictan88315/desktop-talking-head)
-
-### 25. 财经知识解说 · 50 页动效包
-
-<a href="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg"><img src="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg" alt="财经知识解说 · 50 页动效包 · Landscape" width="640"></a>
-
-风格的财经/知识解说动效包：16:9 横屏，50 种动画页面，按句子类型选页、参数驱动。含数字滚动、柱状/折线/占比图表、印章、新闻卡片、打字机金句、地图路线、关系网络、时间线、对比表格、白闪转场等，每页自带音效。示例数据均为虚构。
-
-#126246 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4](https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@erictan88315/finance-explainer-50](https://motiongit.com/@erictan88315/finance-explainer-50)
-
-### 26. Mac Desktop
+### 19. Mac Desktop
 
 <a href="https://media.openaicut.com/covers/talking-head/mac-desktop-cover-b2075567be55d0c0.jpg"><img src="https://media.openaicut.com/covers/talking-head/mac-desktop-cover-b2075567be55d0c0.jpg" alt="Mac Desktop · Landscape" width="480"></a>
 
@@ -413,7 +329,7 @@ Demo video：[https://media.openaicut.com/previews/talking-head/mac-desktop-demo
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/mac-desktop](https://motiongit.com/@adunext/mac-desktop)
 
-### 27. News Desk
+### 20. News Desk
 
 <a href="https://media.openaicut.com/covers/talking-head/news-desk-cover-e04ce33e1294aea0.jpg"><img src="https://media.openaicut.com/covers/talking-head/news-desk-cover-e04ce33e1294aea0.jpg" alt="News Desk · Landscape" width="480"></a>
 
@@ -425,7 +341,7 @@ Demo video：[https://media.openaicut.com/previews/talking-head/news-desk-demo-1
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/news-desk](https://motiongit.com/@adunext/news-desk)
 
-### 28. Camera Mode
+### 21. Camera Mode
 
 <a href="https://media.openaicut.com/covers/talking-head/camera-mode-cover-1b42255a05c7e805.jpg"><img src="https://media.openaicut.com/covers/talking-head/camera-mode-cover-1b42255a05c7e805.jpg" alt="Camera Mode · Portrait" width="270"></a>
 
@@ -437,111 +353,9 @@ Demo video：[https://media.openaicut.com/previews/talking-head/camera-mode-demo
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/camera-mode](https://motiongit.com/@adunext/camera-mode)
 
-### 29. 青柠口播版 46场景动效模板
-
-<a href="https://media.openaicut.com/covers/964/1.0.0-cf0af3e1323b.jpg"><img src="https://media.openaicut.com/covers/964/1.0.0-cf0af3e1323b.jpg" alt="青柠口播版 46场景动效模板 · Portrait" width="202"></a>
-
-荧光绿+深绿竖屏口播动效模板：46个场景（含5个口播专用新场景），每个场景都预留随动效移动的圆角真人口播位，重点句可全屏。按SRT时间轴配置场景，自带转场与音效，1080×1920 60fps。
-
-#776256 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/964/1.0.0-zh-dbeed979c143.mp4](https://media.openaicut.com/previews/964/1.0.0-zh-dbeed979c143.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@erictan88315/green-ecosystem-presenter](https://motiongit.com/@erictan88315/green-ecosystem-presenter)
-
 ## Knowledge explainers
 
-### 30. Price &amp; Volume · Candlestick and Intraday Charts
-
-<a href="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg"><img src="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg" alt="Price &amp; Volume · Candlestick and Intraday Charts · Landscape" width="360"></a>
-
-A standalone chart animation component for financial education, with two daily candlestick sequences and one intraday sequence.
-
-#287792 · Landscape · 1:1 · 1080 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4](https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
-
-Technical documentation：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
-
-### 31. Creative Workflow · Timeline
-
-<a href="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg"><img src="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg" alt="Creative Workflow · Timeline · Landscape" width="640"></a>
-
-Four creative steps—story, storyboard, visuals and finished video—lead into a four-track timeline with a moving playhead and statistics. A 9.8-second sequence for creative tools.
-
-#876 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
-
-### 32. DEEP STAGE · Case Study Dashboard
-
-<a href="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg"><img src="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg" alt="DEEP STAGE · Case Study Dashboard · Landscape" width="640"></a>
-
-A dashboard enters with three animated KPIs, six growing bars and a before-and-after comparison screen. A 13-second scene for case studies and results presentations.
-
-#587362 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4](https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-case-data](https://motiongit.com/@thepandaq/deep-stage-case-data)
-
-### 33. Goals &amp; Evidence · 17 Motion Diagram Types
-
-<a href="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg"><img src="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg" alt="Goals &amp; Evidence · 17 Motion Diagram Types · Landscape" width="640"></a>
-
-Seventeen types of semantic motion diagrams in warm gray, off-white and green, for explainers, product descriptions, metric comparisons and arguments.
-
-#509099 · Landscape · 16:9 · 1280 × 720 · 24 FPS · v0.4.0-rc.5
-
-Demo video：[https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@frankye1211/product-update-story](https://motiongit.com/@frankye1211/product-update-story)
-
-Technical documentation：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
-
-### 34. Soft Gradient · Illustrated Narration
-
-<a href="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg"><img src="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg" alt="Soft Gradient · Illustrated Narration · Landscape" width="640"></a>
-
-A moon-white gradient template for diagrams, narrated explanations, image and video presentations and presenter cards. Includes seven matching food icons in SVG and transparent PNG.
-
-#643842 · Landscape · 16:9 · 1920 × 1080 · 24 FPS · v0.8.1-rc.1
-
-Demo video：[https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4](https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@frankye1211/moonwhite-robot-unified](https://motiongit.com/@frankye1211/moonwhite-robot-unified)
-
-### 35. Kit 1 · Documentary Explainer
-
-<a href="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg"><img src="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg" alt="Kit 1 · Documentary Explainer · Landscape" width="640"></a>
-
-A documentary-style short told through visuals and bilingual captions, without narration. Replace the key words and captions. Landscape 1920×1080 at 30fps; the 20-second example includes generated music and sound effects.
-
-#233154 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm](https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm)
-
-Technical documentation：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
-
-### 36. Ink Biography · A Life in Characters
-
-<a href="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg"><img src="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg" alt="Ink Biography · A Life in Characters · Landscape" width="640"></a>
-
-Chinese characters play historical figures in an ink animation that tells a life story with psychological interpretation. Change dialogue, idiom labels, places, years, annotations and scenes. Landscape 1920×1080 at 30fps; the 2-minute-48-second example includes generated sound effects.
-
-#360840 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/892/1.0.0-318a114e1c66.mp4](https://media.openaicut.com/previews/892/1.0.0-318a114e1c66.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/ink-saga](https://motiongit.com/@chenyutao0417/ink-saga)
-
-### 37. Swiss Grid · Knowledge Explainer
+### 22. Swiss Grid · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/900/2.5.3-zh-a83d8415095a.jpg"><img src="https://media.openaicut.com/covers/900/2.5.3-zh-a83d8415095a.jpg" alt="Swiss Grid · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -553,7 +367,7 @@ Demo video：[https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
 
-### 38. Clay Lab · Knowledge Explainer
+### 23. Clay Lab · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/901/2.5.3-zh-2a04b4956c40.jpg"><img src="https://media.openaicut.com/covers/901/2.5.3-zh-2a04b4956c40.jpg" alt="Clay Lab · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -565,7 +379,7 @@ Demo video：[https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
 
-### 39. Chalkboard · Knowledge Explainer
+### 24. Chalkboard · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/902/2.5.3-zh-382331a3ae0a.jpg"><img src="https://media.openaicut.com/covers/902/2.5.3-zh-382331a3ae0a.jpg" alt="Chalkboard · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -577,7 +391,7 @@ Demo video：[https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
 
-### 40. Growing Mind Map · Knowledge Explainer
+### 25. Growing Mind Map · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/903/2.5.3-zh-7299d5905b6d.jpg"><img src="https://media.openaicut.com/covers/903/2.5.3-zh-7299d5905b6d.jpg" alt="Growing Mind Map · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -589,7 +403,7 @@ Demo video：[https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
 
-### 41. Museum Timeline · Knowledge Explainer
+### 26. Museum Timeline · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/904/2.5.3-zh-309919c56a02.jpg"><img src="https://media.openaicut.com/covers/904/2.5.3-zh-309919c56a02.jpg" alt="Museum Timeline · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -601,7 +415,7 @@ Demo video：[https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
 
-### 42. Glowing Lightboard · Knowledge Explainer
+### 27. Glowing Lightboard · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/905/2.5.3-zh-f2c7c211a3fb.jpg"><img src="https://media.openaicut.com/covers/905/2.5.3-zh-f2c7c211a3fb.jpg" alt="Glowing Lightboard · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -613,7 +427,7 @@ Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
 
-### 43. Isometric Systems · Knowledge Explainer
+### 28. Isometric Systems · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/906/2.5.3-zh-211781250201.jpg"><img src="https://media.openaicut.com/covers/906/2.5.3-zh-211781250201.jpg" alt="Isometric Systems · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -625,7 +439,7 @@ Demo video：[https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
 
-### 44. Layered Papercut · Knowledge Explainer
+### 29. Layered Papercut · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/907/2.5.3-zh-cf3c4dad6c15.jpg"><img src="https://media.openaicut.com/covers/907/2.5.3-zh-cf3c4dad6c15.jpg" alt="Layered Papercut · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -637,7 +451,7 @@ Demo video：[https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
 
-### 45. Metro Network · Knowledge Explainer
+### 30. Metro Network · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/908/2.5.3-zh-d0159cc738f3.jpg"><img src="https://media.openaicut.com/covers/908/2.5.3-zh-d0159cc738f3.jpg" alt="Metro Network · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -649,7 +463,7 @@ Demo video：[https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
 
-### 46. Two-Color Risograph · Knowledge Explainer
+### 31. Two-Color Risograph · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/909/2.5.3-zh-a00889e59aec.jpg"><img src="https://media.openaicut.com/covers/909/2.5.3-zh-a00889e59aec.jpg" alt="Two-Color Risograph · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -661,7 +475,7 @@ Demo video：[https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
 
-### 47. Dot-Grid Notes · Knowledge Explainer
+### 32. Dot-Grid Notes · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/910/2.5.3-zh-f998fa61d29d.jpg"><img src="https://media.openaicut.com/covers/910/2.5.3-zh-f998fa61d29d.jpg" alt="Dot-Grid Notes · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -673,7 +487,7 @@ Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
 
-### 48. Color Geometry · Knowledge Explainer
+### 33. Color Geometry · Knowledge Explainer
 
 <a href="https://media.openaicut.com/covers/911/2.5.3-zh-8b47943f7398.jpg"><img src="https://media.openaicut.com/covers/911/2.5.3-zh-8b47943f7398.jpg" alt="Color Geometry · Knowledge Explainer · Landscape" width="640"></a>
 
@@ -685,45 +499,9 @@ Demo video：[https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
-### 49. Decision Chart Theater
-
-<a href="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg"><img src="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg" alt="Decision Chart Theater · Landscape" width="640"></a>
-
-Dark-canvas data explainer: a number ledger, vector charts that build element by element while the camera pushes in, one big-number verdict, iris-out. Six shot types driven by parameters; duration follows content. The demo is rendered by this template (97.6s, 30fps).
-
-#991091 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
-
-Demo video：[https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4](https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@lxguanyu/dds-decision-keynote](https://motiongit.com/@lxguanyu/dds-decision-keynote)
-
-### 50. 财经解读 · 竖屏信息卡
-
-<a href="https://media.openaicut.com/covers/956/0.1.0-dd0788d0ae06.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-dd0788d0ae06.jpg" alt="财经解读 · 竖屏信息卡 · Portrait" width="202"></a>
-
-用深色科技底、数据大字卡和三条方向，把一条财经信息讲成 24 秒竖屏片
-
-#685275 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.0
-
-Demo video：[https://media.openaicut.com/previews/956/0.1.0-cf0a0e9c7a2e.mp4](https://media.openaicut.com/previews/956/0.1.0-cf0a0e9c7a2e.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
-
-### 51. 科技办公类解说 · AI Office Explainer Kit
-
-<a href="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg"><img src="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg" alt="科技办公类解说 · AI Office Explainer Kit · Landscape" width="640"></a>
-
-AI/科技/办公类知识解说图形包：30 种场景（13 种参考重建 + 17 种原创同风格），按句子类型自动选场景，支持叠化转场（缩放模糊/擦除/翻转/白闪等）、程序化音效、真人口播帧序列接入。全部图形代码绘制，演示数据为虚构示例。1920×1080 / 30fps。
-
-#613979 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v0.3.0
-
-Demo video：[https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4](https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@erictan88315/ai-office-kit](https://motiongit.com/@erictan88315/ai-office-kit)
-
 ## Brand & product
 
-### 52. Screen Collage · Brand Story
+### 34. Screen Collage · Brand Story
 
 <a href="https://media.openaicut.com/covers/585/draft-en-c462a34b250b.jpg"><img src="https://media.openaicut.com/covers/585/draft-en-c462a34b250b.jpg" alt="Screen Collage · Brand Story · Landscape" width="640"></a>
 
@@ -737,7 +515,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 53. Pixel Platformer · Product Introduction
+### 35. Pixel Platformer · Product Introduction
 
 <a href="https://media.openaicut.com/covers/586/quality-en-c2a552d1e0d5.jpg"><img src="https://media.openaicut.com/covers/586/quality-en-c2a552d1e0d5.jpg" alt="Pixel Platformer · Product Introduction · Landscape" width="640"></a>
 
@@ -751,7 +529,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 54. Light and Dark Cuts · Product Promotion
+### 36. Light and Dark Cuts · Product Promotion
 
 <a href="https://media.openaicut.com/covers/587/quality-en-f83b4134ecd2.jpg"><img src="https://media.openaicut.com/covers/587/quality-en-f83b4134ecd2.jpg" alt="Light and Dark Cuts · Product Promotion · Landscape" width="640"></a>
 
@@ -765,7 +543,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 55. Workflow Demo · Product Tutorial
+### 37. Workflow Demo · Product Tutorial
 
 <a href="https://media.openaicut.com/covers/588/quality-en-e3a5eff02623.jpg"><img src="https://media.openaicut.com/covers/588/quality-en-e3a5eff02623.jpg" alt="Workflow Demo · Product Tutorial · Landscape" width="640"></a>
 
@@ -779,7 +557,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 56. Modular Collage · Creator Tools
+### 38. Modular Collage · Creator Tools
 
 <a href="https://media.openaicut.com/covers/589/quality-en-6ea1ad7e2b14.jpg"><img src="https://media.openaicut.com/covers/589/quality-en-6ea1ad7e2b14.jpg" alt="Modular Collage · Creator Tools · Landscape" width="640"></a>
 
@@ -793,7 +571,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 57. Engineering Blueprint · Product Breakdown
+### 39. Engineering Blueprint · Product Breakdown
 
 <a href="https://media.openaicut.com/covers/590/quality-en-06b8a14e9439.jpg"><img src="https://media.openaicut.com/covers/590/quality-en-06b8a14e9439.jpg" alt="Engineering Blueprint · Product Breakdown · Landscape" width="640"></a>
 
@@ -807,7 +585,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 58. Keynote Stage · Product Demo
+### 40. Keynote Stage · Product Demo
 
 <a href="https://media.openaicut.com/covers/591/quality-en-503e2def5c1d.jpg"><img src="https://media.openaicut.com/covers/591/quality-en-503e2def5c1d.jpg" alt="Keynote Stage · Product Demo · Landscape" width="640"></a>
 
@@ -821,7 +599,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 59. Paper Scroll · Brand Story
+### 41. Paper Scroll · Brand Story
 
 <a href="https://media.openaicut.com/covers/592/quality-en-18c8d7779b34.jpg"><img src="https://media.openaicut.com/covers/592/quality-en-18c8d7779b34.jpg" alt="Paper Scroll · Brand Story · Landscape" width="640"></a>
 
@@ -835,117 +613,9 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
-### 60. Collage · Opening Reveal
-
-<a href="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg"><img src="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg" alt="Collage · Opening Reveal · Landscape" width="640"></a>
-
-An 8.5-second opening: nine creative samples fly into a collage wall, followed by a statement panel. Customize the brand, opening number, accent color and two-line headline.
-
-#873 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4](https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
-
-### 61. Multi-Screen Wall · Layout Transition
-
-<a href="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg"><img src="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg" alt="Multi-Screen Wall · Layout Transition · Landscape" width="640"></a>
-
-A panel transition reveals a multi-screen collage, then a split layout showing four perspectives on one idea. An 8.6-second sequence with editable branding, number, accent color and headline.
-
-#874 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4](https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
-
-### 62. Four Perspectives · Scrolling Filmstrip
-
-<a href="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg"><img src="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg" alt="Four Perspectives · Scrolling Filmstrip · Landscape" width="640"></a>
-
-A four-view split layout changes into a horizontally scrolling filmstrip of sunset footage and creative samples. An 8.2-second sequence for multi-shot and portfolio presentations.
-
-#875 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4](https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
-
-### 63. Product Workspace · Brand Outro
-
-<a href="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg"><img src="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg" alt="Product Workspace · Brand Outro · Landscape" width="640"></a>
-
-A panel transition reveals a linked storyboard, canvas, color and timeline workspace, followed by an ink-colored transition into the logo, brand message and call to action. Duration: 14.4 seconds.
-
-#877 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4](https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
-
-### 64. DEEP STAGE · Product Spotlight
-
-<a href="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg"><img src="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg" alt="DEEP STAGE · Product Spotlight · Landscape" width="640"></a>
-
-A product screen moves closer as three specification panels emerge from 3D space and numbers count up. Includes a small presenter window. A 12-second scene for product features and specifications.
-
-#648878 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
-
-### 65. Multi-Screen Business · Animated Charts
-
-<a href="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg"><img src="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg" alt="Multi-Screen Business · Animated Charts · Landscape" width="640"></a>
-
-A fixed 20-second landscape business video with rearranging screens for teams, comparisons, trends, composition and calls to action.
-
-#640261 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-candidate
-
-Demo video：[https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4](https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@frankye1211/corporate-multiscreen-charts](https://motiongit.com/@frankye1211/corporate-multiscreen-charts)
-
-### 66. 双语科技歌词动效 MV
-
-<a href="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg"><img src="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg" alt="双语科技歌词动效 MV · Landscape" width="640"></a>
-
-固定约194秒的双语科技歌词MV模板，包含逐字歌词、多画面拼接、科技标题和声音频谱动效。Windows、Python与FFmpeg运行；使用者须自备音频、双语歌词和41段不同视频。
-
-#640432 · Landscape · 16:9 · 1280 × 720 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4](https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv](https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv)
-
-### 67. AI自动剪辑真的来了
-
-<a href="https://media.openaicut.com/covers/966/1.0.0-zh-ad13e3c51d1f.jpg"><img src="https://media.openaicut.com/covers/966/1.0.0-zh-ad13e3c51d1f.jpg" alt="AI自动剪辑真的来了 · Landscape" width="640"></a>
-
-33秒真实智能体剪辑过程展示：素材筛选、OpenFilm对话与时间线操作、成片播放和MG标注。无旁白，音乐与现成音效配合画面节奏。支持替换文案、六色色板、媒体和混音。
-
-#982226 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/966/1.0.0-zh-1b0079fe50d2.mp4](https://media.openaicut.com/previews/966/1.0.0-zh-1b0079fe50d2.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/ai-auto-edit-mg](https://motiongit.com/@chenjunfeng5208/ai-auto-edit-mg)
-
-### 68. Miss you 赛博像素 · 蓝白半入耳耳机产品宣传模板
-
-<a href="https://media.openaicut.com/covers/978/1.0.0-en-fbecfa61532b.jpg"><img src="https://media.openaicut.com/covers/978/1.0.0-en-fbecfa61532b.jpg" alt="Miss you 赛博像素 · 蓝白半入耳耳机产品宣传模板 · Landscape" width="640"></a>
-
-45 秒九页赛博朋克＋像素风的蓝白半入耳蓝牙耳机产品宣传：降噪、音质、AI 同传、30 小时续航、无线充电五项功能逐页落成画面读数，英文口播＋中文字幕，收尾不出价格。
-
-#868354 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4](https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/missyou-cyber-pixel](https://motiongit.com/@nxxxxxx/missyou-cyber-pixel)
-
 ## Photo & visual
 
-### 69. Halftone Dots · Portrait Title
+### 42. Halftone Dots · Portrait Title
 
 <a href="https://media.openaicut.com/covers/615/draft-en-c027030f0d20.jpg"><img src="https://media.openaicut.com/covers/615/draft-en-c027030f0d20.jpg" alt="Halftone Dots · Portrait Title · Landscape" width="640"></a>
 
@@ -959,7 +629,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 70. Photo Mosaic · Image Reveal
+### 43. Photo Mosaic · Image Reveal
 
 <a href="https://media.openaicut.com/covers/616/draft-en-20ba5db56e87.jpg"><img src="https://media.openaicut.com/covers/616/draft-en-20ba5db56e87.jpg" alt="Photo Mosaic · Image Reveal · Landscape" width="640"></a>
 
@@ -973,7 +643,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 71. Geometric Collage · Animated Poster
+### 44. Geometric Collage · Animated Poster
 
 <a href="https://media.openaicut.com/covers/617/draft-en-e7e87af228a4.jpg"><img src="https://media.openaicut.com/covers/617/draft-en-e7e87af228a4.jpg" alt="Geometric Collage · Animated Poster · Landscape" width="640"></a>
 
@@ -987,7 +657,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 72. Brush Repainting · Art Photo
+### 45. Brush Repainting · Art Photo
 
 <a href="https://media.openaicut.com/covers/618/draft-en-c0b19b83965b.jpg"><img src="https://media.openaicut.com/covers/618/draft-en-c0b19b83965b.jpg" alt="Brush Repainting · Art Photo · Landscape" width="640"></a>
 
@@ -1001,7 +671,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 73. Signal Glitch · Photo Transition
+### 46. Signal Glitch · Photo Transition
 
 <a href="https://media.openaicut.com/covers/619/draft-en-c10a40ee5029.jpg"><img src="https://media.openaicut.com/covers/619/draft-en-c10a40ee5029.jpg" alt="Signal Glitch · Photo Transition · Landscape" width="640"></a>
 
@@ -1015,7 +685,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 74. Double Exposure · Portrait Layers
+### 47. Double Exposure · Portrait Layers
 
 <a href="https://media.openaicut.com/covers/620/draft-en-ad5d04c72768.jpg"><img src="https://media.openaicut.com/covers/620/draft-en-ad5d04c72768.jpg" alt="Double Exposure · Portrait Layers · Landscape" width="640"></a>
 
@@ -1029,7 +699,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 75. Spatial Gallery · Photo Memories
+### 48. Spatial Gallery · Photo Memories
 
 <a href="https://media.openaicut.com/covers/621/draft-en-eb4372eea087.jpg"><img src="https://media.openaicut.com/covers/621/draft-en-eb4372eea087.jpg" alt="Spatial Gallery · Photo Memories · Landscape" width="640"></a>
 
@@ -1043,7 +713,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 76. Mirror Kaleidoscope · Photo Motion
+### 49. Mirror Kaleidoscope · Photo Motion
 
 <a href="https://media.openaicut.com/covers/622/draft-en-c3affa5c90fa.jpg"><img src="https://media.openaicut.com/covers/622/draft-en-c3affa5c90fa.jpg" alt="Mirror Kaleidoscope · Photo Motion · Landscape" width="640"></a>
 
@@ -1057,317 +727,11 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
-### 77. DeepSeek Whale · Particle Reveal
-
-<a href="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg"><img src="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg" alt="DeepSeek Whale · Particle Reveal · Landscape" width="640"></a>
-
-Scattered particles assemble into the DeepSeek whale logo for intros, brand reveals and chapter transitions.
-
-#404937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
-
-Demo video：[https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4](https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-whale-assemble](https://motiongit.com/@thepandaq/deepseek-whale-assemble)
-
-Technical documentation：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
-
-### 78. DeepSeek · 3D Particle Morph
-
-<a href="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg"><img src="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg" alt="DeepSeek · 3D Particle Morph · Landscape" width="640"></a>
-
-The same particles morph between four 3D shapes for technology-themed transitions, connected concepts and outros.
-
-#380710 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
-
-Demo video：[https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
-
-Technical documentation：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
-
-### 79. DeepSeek · Particle Typography
-
-<a href="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg"><img src="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg" alt="DeepSeek · Particle Typography · Landscape" width="640"></a>
-
-Particles form four keywords in sequence for concept introductions, feature lists and opening slogans.
-
-#941301 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
-
-Demo video：[https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
-
-Technical documentation：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
-
-### 80. Light Ribbon · Word Reveal
-
-<a href="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg"><img src="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg" alt="Light Ribbon · Word Reveal · Landscape" width="640"></a>
-
-Flowing light ribbons gather into a word: particles form the letters, a light sweep passes, then the word dissolves back into ribbons.
-
-#872 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4](https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
-
-### 81. Panel Transitions · Wipe Pack
-
-<a href="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg"><img src="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg" alt="Panel Transitions · Wipe Pack · Landscape" width="640"></a>
-
-Four panel transitions: closing vertical bars, descending horizontal bars, paper-colored vertical bars and ink-colored vertical bars. An 8-second pack for scene and chapter transitions.
-
-#878 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
-
-### 82. DEEP STAGE · Cinematic Title Intro
-
-<a href="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg"><img src="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg" alt="DEEP STAGE · Cinematic Title Intro · Landscape" width="640"></a>
-
-A dark 3D opening with a glowing horizon, perspective grid, illuminated screen wall and metallic titles. A 10-second intro with editable branding, titles and main color.
-
-#921052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
-
-### 83. DEEP STAGE · Media Wall
-
-<a href="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg"><img src="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg" alt="DEEP STAGE · Media Wall · Landscape" width="640"></a>
-
-Six media panels form a 2×3 wall in 3D space, each with its own depth and rotation. Panels float gently as the camera pulls back. A 10-second scene for media collections and B-roll explanations.
-
-#430770 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4](https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
-
-### 84. DEEP STAGE · Brand Outro
-
-<a href="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg"><img src="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg" alt="DEEP STAGE · Brand Outro · Landscape" width="640"></a>
-
-Screens recede into depth, the logo outline settles, and the brand name, subtitle, specifications and version label appear with a light sweep. An 8-second outro.
-
-#581039 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
-
-### 85. 3D 吉祥物手把手教程
-
-<a href="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg"><img src="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg" alt="3D 吉祥物手把手教程 · Landscape" width="640"></a>
-
-把网页或 App 的一段操作流程（注册、下单、设置等），做成 3D 小宠物带着一步步点、打字、指重点的横屏教程视频
-
-#887145 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4](https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
-
-### 86. 可爱角色歌词 MV
-
-<a href="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg"><img src="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg" alt="可爱角色歌词 MV · Landscape" width="640"></a>
-
-33 秒横屏歌词 MV 完整模板（1920×1080，30fps），可替换歌词、关键词大字与手写纸条。模板默认采用程序绘制的可爱 chibi 角色。中文 Demo 使用此前完成的《碎碎念》完整成片，未重新渲染；Demo 人物沿用原片风格，与模板默认角色风格不同。音频署名：小天；抖
-
-#161069 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
-
-Demo video：[https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4](https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/cute-character-lyric-mv](https://motiongit.com/@chenyutao0417/cute-character-lyric-mv)
-
-### 87. 光的语法
-
-<a href="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg"><img src="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg" alt="光的语法 · Landscape" width="640"></a>
-
-六镜光学短片模板。冷白光谱底、七条色带像频谱仪一样呼吸、透镜光斑推移，适合讲光学、色彩与感知类知识。固定 14 秒，1920x1080。
-
-#442505 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.5
-
-Demo video：[https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4](https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/light-grammar](https://motiongit.com/@chenjunfeng5208/light-grammar)
-
-### 88. 深海时钟
-
-<a href="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg"><img src="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg" alt="深海时钟 · Landscape" width="640"></a>
-
-七镜深海观察日志：光在 200 米处终止、每 10 米增加一个大气压、声音传得更远。冷蓝到近黑的单色系统，适合讲深海、压强与感知边界。固定 16.7 秒，1920x1080。
-
-#319937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4](https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/deep-sea-clock](https://motiongit.com/@chenjunfeng5208/deep-sea-clock)
-
-### 89. 城市脉搏
-
-<a href="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg"><img src="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg" alt="城市脉搏 · Landscape" width="640"></a>
-
-六镜城市夜行：天际线切片、楼体呼吸、交通流与人口曲线。暖橙高对比的城市节奏，适合讲城市、人群与流动。固定 11.3 秒，1920x1080。
-
-#362451 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4](https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/city-pulse](https://motiongit.com/@chenjunfeng5208/city-pulse)
-
-### 90. 种子库
-
-<a href="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg"><img src="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg" alt="种子库 · Landscape" width="640"></a>
-
-五镜标本档案：恒温舱呼吸单元格、编号标本格、光照周期与异地备份。冷色极简的档案秩序，适合讲保存、备份与长期主义。固定 16 秒，1920x1080。
-
-#419411 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4](https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/seed-bank](https://motiongit.com/@chenjunfeng5208/seed-bank)
-
-### 91. 火星农场
-
-<a href="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg"><img src="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg" alt="火星农场 · Landscape" width="640"></a>
-
-六镜等距种植图：火星表土、脉动生长格、水循环与收成预估。锈红与青绿的互补配色，适合讲太空农业与资源闭环。固定 14.2 秒，1920x1080。
-
-#631937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4](https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/mars-farm](https://motiongit.com/@chenjunfeng5208/mars-farm)
-
-### 92. AI 能不能代替人工
-
-<a href="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg"><img src="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg" alt="AI 能不能代替人工 · Landscape" width="640"></a>
-
-七镜论证体短片：先提问，再讲 AI 能做什么、不能做什么、机制怎么拆、边界在哪里，最后给出结论与落版。冷灰底配橙红强调，适合讲 AI 与人的分工。固定 29.5 秒，1920x1080。
-
-#966733 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4](https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/code-is-video](https://motiongit.com/@chenjunfeng5208/code-is-video)
-
-### 93. OpenFilm · 打开想法
-
-<a href="https://media.openaicut.com/covers/940/1.0.0-zh-4ca8d1e9b26c.jpg"><img src="https://media.openaicut.com/covers/940/1.0.0-zh-4ca8d1e9b26c.jpg" alt="OpenFilm · 打开想法 · Landscape" width="640"></a>
-
-20 镜 / 30 秒。讲一个想法如何变成一支影片：从一句念头，到分镜、到画面、到成片。含主题层（7 色配色 / 字体 / 字重 / 行距 / 缓动可换）、时间轴文件（可改时长）、以及渲染与自检工具。适合讲创作工具、产品流程、从想法到落地。1920x1080。
-
-#324804 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/940/1.0.0-zh-15cb79781117.mp4](https://media.openaicut.com/previews/940/1.0.0-zh-15cb79781117.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/openfilm-solo](https://motiongit.com/@chenjunfeng5208/openfilm-solo)
-
-### 94. Motion × OpenFilm
-
-<a href="https://media.openaicut.com/covers/941/1.0.0-zh-45fef4dddda7.jpg"><img src="https://media.openaicut.com/covers/941/1.0.0-zh-45fef4dddda7.jpg" alt="Motion × OpenFilm · Landscape" width="640"></a>
-
-16 镜 / 24 秒。运动设计语法演示：位移、遮罩、谱带、数字滚动与图形变形。配色、字体、缓动可在主题层替换，时长可由时间轴文件调整。适合讲动效设计、界面转场、节奏与秩序。1920x1080。
-
-#313223 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/941/1.0.0-zh-3662ab650178.mp4](https://media.openaicut.com/previews/941/1.0.0-zh-3662ab650178.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/motion-openfilm](https://motiongit.com/@chenjunfeng5208/motion-openfilm)
-
-### 95. AI × 想象力
-
-<a href="https://media.openaicut.com/covers/942/1.0.0-zh-8c4a868fef82.jpg"><img src="https://media.openaicut.com/covers/942/1.0.0-zh-8c4a868fef82.jpg" alt="AI × 想象力 · Landscape" width="640"></a>
-
-12 镜 / 16 秒。AI 与想象力的短句蒙太奇：快剪、色块、图形呼吸。文案、配色、字体、缓动均可替换，时长可由时间轴文件调整。适合讲 AI、创意、可能性。1920x1080。
-
-#814661 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf795.mp4](https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf795.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/ai-imagination](https://motiongit.com/@chenjunfeng5208/ai-imagination)
-
-### 96. 点阵肖像 v1
-
-<a href="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg"><img src="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg" alt="点阵肖像 v1 · Landscape" width="640"></a>
-
-三张人像依次化为流动的双色点阵，散开后汇聚成标题的 13 秒横屏开场，适合人物系列片头与活动开场
-
-#933005 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4](https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@fangcs/dotmatrix-portrait-v1](https://motiongit.com/@fangcs/dotmatrix-portrait-v1)
-
-### 97. 【子布】黑金文字模板素材
-
-<a href="https://media.openaicut.com/covers/971/1.0.0-0535cb13eda2.jpg"><img src="https://media.openaicut.com/covers/971/1.0.0-0535cb13eda2.jpg" alt="【子布】黑金文字模板素材 · Landscape" width="640"></a>
-
-新版20秒原始动画的固定时间轴模板。使用短关键词、计数、三个来源、汇聚与界面展开表达资料处理过程。
-
-#212706 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/971/1.0.0-aac1b1895cf5.mp4](https://media.openaicut.com/previews/971/1.0.0-aac1b1895cf5.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@zibu/vibe-sucai1](https://motiongit.com/@zibu/vibe-sucai1)
-
-### 98. 空间智能 · 数字城市光场模板
-
-<a href="https://media.openaicut.com/covers/974/1.0.0-zh-3b732ef91f6d.jpg"><img src="https://media.openaicut.com/covers/974/1.0.0-zh-3b732ef91f6d.jpg" alt="空间智能 · 数字城市光场模板 · Landscape" width="640"></a>
-
-9 页抽象发光蓝色数字科技科普片：从空间感知到空间智能，再到共享空间上下文，完整保留 71.8 秒口播、BGM 与动效。
-
-#628185 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4](https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-spatial-field-motion](https://motiongit.com/@nxxxxxx/science-spatial-field-motion)
-
-### 99. 07 影子的边缘为什么是虚的 · 半影模板
-
-<a href="https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg"><img src="https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg" alt="07 影子的边缘为什么是虚的 · 半影模板 · Landscape" width="640"></a>
-
-9 页米色纸感科普片：同一根杆的十二种边缘、点光源与盘光源对比、本影/半影几何，以及每远一米软九毫米的半影尺。完整保留 57.2 秒中文口播与混音。
-
-#975 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4](https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-shadow-motion](https://motiongit.com/@nxxxxxx/science-shadow-motion)
-
-### 100. 01 火星的日落为什么是蓝的 · 蓝暮模板
-
-<a href="https://media.openaicut.com/covers/976/1.0.0-zh-1444772c509d.jpg"><img src="https://media.openaicut.com/covers/976/1.0.0-zh-1444772c509d.jpg" alt="01 火星的日落为什么是蓝的 · 蓝暮模板 · Landscape" width="640"></a>
-
-8 页暗底橙沙、蓝色暮光的科普片：火星大气把太阳直射光筛成蓝，沙尘又把蓝光散开；从“太阳是白/黄”到“日落后天空发蓝”的因果链。完整保留 56.6 秒中文口播与混音。
-
-#976 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4](https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-mars-sunset-motion](https://motiongit.com/@nxxxxxx/science-mars-sunset-motion)
-
-### 101. 03 夜间声音为什么传得更远 · 逆温层模板
-
-<a href="https://media.openaicut.com/covers/977/1.0.0-zh-cff00659a56b.jpg"><img src="https://media.openaicut.com/covers/977/1.0.0-zh-cff00659a56b.jpg" alt="03 夜间声音为什么传得更远 · 逆温层模板 · Landscape" width="640"></a>
-
-9 页深蓝夜色、青色声线与橙色温度层的科普片：不是夜里更安静，也不是空气变重，而是逆温层让声音向上折射、绕过障碍传得更远。完整保留 58.2 秒中文口播与混音。
-
-#977 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
-
-Demo video：[https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4](https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-night-sound-motion](https://motiongit.com/@nxxxxxx/science-night-sound-motion)
-
 ## Template previews · Not yet released
 
 Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.
 
-### 102. 3D Book · A Personal Story
+### 50. 3D Book · A Personal Story
 
 <a href="https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg"><img src="https://motiontemplates.github.io/all/assets/batch-two-3d-book.jpg" alt="3D Book · A Personal Story · Landscape" width="640"></a>
 
@@ -1385,7 +749,7 @@ Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batc
 
 Prelaunch · Watch the full demo and visit the official template page. Feedback is welcome.
 
-### 103. 房产 · 一镜看房
+### 51. 房产 · 一镜看房
 
 <a href="https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg"><img src="https://motiongit.com/media/covers/industry-v7/01m_house-cover-f5d1f920b85d5f8d.jpg" alt="房产 · 一镜看房 · Portrait" width="202"></a>
 
@@ -1403,7 +767,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-house
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative data · Check the actual property
 
-### 104. 财经 · 三笔账
+### 52. 财经 · 三笔账
 
 <a href="https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg"><img src="https://motiongit.com/media/covers/industry-v7/02m_finance-cover-2e70aa6e9246ced0.jpg" alt="财经 · 三笔账 · Portrait" width="202"></a>
 
@@ -1421,7 +785,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-finan
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Demonstration only · Not investment advice
 
-### 105. 法律 · 讨薪三步
+### 53. 法律 · 讨薪三步
 
 <a href="https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg"><img src="https://motiongit.com/media/covers/industry-v7/03m_law-cover-1f40ac422fae1de8.jpg" alt="法律 · 讨薪三步 · Portrait" width="202"></a>
 
@@ -1439,7 +803,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-law-w
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Legal education demo only · Not legal advice · Legal references and deadlines need verification
 
-### 106. 医疗健康 · 看懂化验单
+### 54. 医疗健康 · 看懂化验单
 
 <a href="https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg"><img src="https://motiongit.com/media/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg" alt="医疗健康 · 看懂化验单 · Portrait" width="202"></a>
 
@@ -1457,7 +821,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-healt
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Educational demo only · Not a substitute for medical diagnosis · Medical statements need verification
 
-### 107. 教育 · 三种解法
+### 55. 教育 · 三种解法
 
 <a href="https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg"><img src="https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg" alt="教育 · 三种解法 · Portrait" width="202"></a>
 
@@ -1475,7 +839,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-educa
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative teaching example
 
-### 108. 电商带货 · 实测四项
+### 56. 电商带货 · 实测四项
 
 <a href="https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg"><img src="https://motiongit.com/media/covers/industry-v7/06m_shop-cover-d677d31df87fdad5.jpg" alt="电商带货 · 实测四项 · Portrait" width="202"></a>
 
@@ -1493,7 +857,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-shopp
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative product-review demo · No real-world test conclusions
 
-### 109. 美妆护肤 · 成分表
+### 57. 美妆护肤 · 成分表
 
 <a href="https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg"><img src="https://motiongit.com/media/covers/industry-v7/07m_beauty-cover-08188ef109e5f16d.jpg" alt="美妆护肤 · 成分表 · Portrait" width="202"></a>
 
@@ -1511,7 +875,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-beaut
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative ingredient label · Not dermatological advice · Ingredient claims need verification
 
-### 110. 美食探店 · 值不值得排
+### 58. 美食探店 · 值不值得排
 
 <a href="https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg"><img src="https://motiongit.com/media/covers/industry-v7/08m_food-cover-bf2779dc7ef5b267.jpg" alt="美食探店 · 值不值得排 · Portrait" width="202"></a>
 
@@ -1529,7 +893,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-food-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Personal taste · Illustrative data
 
-### 111. 汽车 · 四笔账
+### 59. 汽车 · 四笔账
 
 <a href="https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg"><img src="https://motiongit.com/media/covers/industry-v7/09m_car-cover-d41c2279427dfdab.jpg" alt="汽车 · 四笔账 · Portrait" width="202"></a>
 
@@ -1547,7 +911,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-cars-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative parameters · Check actual costs
 
-### 112. 数码科技 · 换不换
+### 60. 数码科技 · 换不换
 
 <a href="https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg"><img src="https://motiongit.com/media/covers/industry-v7/10m_tech-cover-fe8f7a4f885ebaed.jpg" alt="数码科技 · 换不换 · Portrait" width="202"></a>
 
@@ -1565,7 +929,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-tech-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative data · Check the actual device
 
-### 113. 职场 · 三行汇报
+### 61. 职场 · 三行汇报
 
 <a href="https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg"><img src="https://motiongit.com/media/covers/industry-v7/11m_work-cover-4c31a66daf1f29d1.jpg" alt="职场 · 三行汇报 · Portrait" width="202"></a>
 
@@ -1583,7 +947,7 @@ Official template and downloads：[https://motiongit.com/@adunext/industry-work-
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative workplace example
 
-### 114. 情感 · 对话复盘
+### 62. 情感 · 对话复盘
 
 <a href="https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg"><img src="https://motiongit.com/media/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg" alt="情感 · 对话复盘 · Portrait" width="202"></a>
 
@@ -1600,6 +964,646 @@ Demo video：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d
 Official template and downloads：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
 
 Illustrative presenter · AI-generated. AI-generated illustrative images. All data is illustrative. Illustrative data · Every relationship is different
+
+## Innovation
+
+**Innovation projects are newly uploaded by MotionGit users. Compatibility and completeness may be limited. Please test them yourself before use.**
+
+### 63. DeepSeek Whale · Particle Reveal
+
+<a href="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg"><img src="https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg" alt="DeepSeek Whale · Particle Reveal · Landscape" width="640"></a>
+
+Scattered particles assemble into the DeepSeek whale logo for intros, brand reveals and chapter transitions.
+
+#404937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo video：[https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4](https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-whale-assemble](https://motiongit.com/@thepandaq/deepseek-whale-assemble)
+
+Technical documentation：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
+
+### 64. DeepSeek · 3D Particle Morph
+
+<a href="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg"><img src="https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg" alt="DeepSeek · 3D Particle Morph · Landscape" width="640"></a>
+
+The same particles morph between four 3D shapes for technology-themed transitions, connected concepts and outros.
+
+#380710 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo video：[https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
+
+Technical documentation：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
+
+### 65. DeepSeek · Particle Typography
+
+<a href="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg"><img src="https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg" alt="DeepSeek · Particle Typography · Landscape" width="640"></a>
+
+Particles form four keywords in sequence for concept introductions, feature lists and opening slogans.
+
+#941301 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo video：[https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
+
+Technical documentation：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
+
+### 66. Price &amp; Volume · Candlestick and Intraday Charts
+
+<a href="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg"><img src="https://media.openaicut.com/covers/869/1.0.0-zh-01708b4a2214.jpg" alt="Price &amp; Volume · Candlestick and Intraday Charts · Landscape" width="360"></a>
+
+A standalone chart animation component for financial education, with two daily candlestick sequences and one intraday sequence.
+
+#287792 · Landscape · 1:1 · 1080 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4](https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
+
+Technical documentation：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
+
+### 67. Narrated Promo · 10-Second Intro
+
+<a href="https://media.openaicut.com/covers/870/1.0.0-99c20483f4b4.jpg"><img src="https://media.openaicut.com/covers/870/1.0.0-99c20483f4b4.jpg" alt="Narrated Promo · 10-Second Intro · Landscape" width="640"></a>
+
+A 10-second landscape promo combining a number, a large headline and a brand outro for short-video openings or product teasers.
+
+#854836 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4](https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/kouboo-motion](https://motiongit.com/@thepandaq/kouboo-motion)
+
+### 68. 3D Stage · Narrated Video Intro
+
+<a href="https://media.openaicut.com/covers/871/draft-5ad5f68adb8d.jpg"><img src="https://media.openaicut.com/covers/871/draft-5ad5f68adb8d.jpg" alt="3D Stage · Narrated Video Intro · Landscape" width="640"></a>
+
+A 3D opening for a narrated video.
+
+#554769 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4](https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/cool-3d-intro](https://motiongit.com/@thepandaq/cool-3d-intro)
+
+### 69. Light Ribbon · Word Reveal
+
+<a href="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg"><img src="https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg" alt="Light Ribbon · Word Reveal · Landscape" width="640"></a>
+
+Flowing light ribbons gather into a word: particles form the letters, a light sweep passes, then the word dissolves back into ribbons.
+
+#872 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4](https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
+
+### 70. Collage · Opening Reveal
+
+<a href="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg"><img src="https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg" alt="Collage · Opening Reveal · Landscape" width="640"></a>
+
+An 8.5-second opening: nine creative samples fly into a collage wall, followed by a statement panel. Customize the brand, opening number, accent color and two-line headline.
+
+#873 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4](https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
+
+### 71. Multi-Screen Wall · Layout Transition
+
+<a href="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg"><img src="https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg" alt="Multi-Screen Wall · Layout Transition · Landscape" width="640"></a>
+
+A panel transition reveals a multi-screen collage, then a split layout showing four perspectives on one idea. An 8.6-second sequence with editable branding, number, accent color and headline.
+
+#874 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4](https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
+
+### 72. Four Perspectives · Scrolling Filmstrip
+
+<a href="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg"><img src="https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg" alt="Four Perspectives · Scrolling Filmstrip · Landscape" width="640"></a>
+
+A four-view split layout changes into a horizontally scrolling filmstrip of sunset footage and creative samples. An 8.2-second sequence for multi-shot and portfolio presentations.
+
+#875 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4](https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
+
+### 73. Creative Workflow · Timeline
+
+<a href="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg"><img src="https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg" alt="Creative Workflow · Timeline · Landscape" width="640"></a>
+
+Four creative steps—story, storyboard, visuals and finished video—lead into a four-track timeline with a moving playhead and statistics. A 9.8-second sequence for creative tools.
+
+#876 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
+
+### 74. Product Workspace · Brand Outro
+
+<a href="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg"><img src="https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg" alt="Product Workspace · Brand Outro · Landscape" width="640"></a>
+
+A panel transition reveals a linked storyboard, canvas, color and timeline workspace, followed by an ink-colored transition into the logo, brand message and call to action. Duration: 14.4 seconds.
+
+#877 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4](https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
+
+### 75. Panel Transitions · Wipe Pack
+
+<a href="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg"><img src="https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg" alt="Panel Transitions · Wipe Pack · Landscape" width="640"></a>
+
+Four panel transitions: closing vertical bars, descending horizontal bars, paper-colored vertical bars and ink-colored vertical bars. An 8-second pack for scene and chapter transitions.
+
+#878 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
+
+### 76. DEEP STAGE · Cinematic Title Intro
+
+<a href="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg"><img src="https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg" alt="DEEP STAGE · Cinematic Title Intro · Landscape" width="640"></a>
+
+A dark 3D opening with a glowing horizon, perspective grid, illuminated screen wall and metallic titles. A 10-second intro with editable branding, titles and main color.
+
+#921052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
+
+### 77. DEEP STAGE · Presenter Stage
+
+<a href="https://media.openaicut.com/covers/880/1.0.0-53419c8f2925.jpg"><img src="https://media.openaicut.com/covers/880/1.0.0-53419c8f2925.jpg" alt="DEEP STAGE · Presenter Stage · Landscape" width="640"></a>
+
+A portrait presenter window, information screen and chapter screen enter in staggered layers, followed by a lower-third nameplate. A slowly moving camera completes this 14-second explainer scene.
+
+#228996 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4](https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-host-stage](https://motiongit.com/@thepandaq/deep-stage-host-stage)
+
+### 78. DEEP STAGE · Product Spotlight
+
+<a href="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg"><img src="https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg" alt="DEEP STAGE · Product Spotlight · Landscape" width="640"></a>
+
+A product screen moves closer as three specification panels emerge from 3D space and numbers count up. Includes a small presenter window. A 12-second scene for product features and specifications.
+
+#648878 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
+
+### 79. DEEP STAGE · Case Study Dashboard
+
+<a href="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg"><img src="https://media.openaicut.com/covers/882/1.0.0-20fa9d055973.jpg" alt="DEEP STAGE · Case Study Dashboard · Landscape" width="640"></a>
+
+A dashboard enters with three animated KPIs, six growing bars and a before-and-after comparison screen. A 13-second scene for case studies and results presentations.
+
+#587362 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4](https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-case-data](https://motiongit.com/@thepandaq/deep-stage-case-data)
+
+### 80. DEEP STAGE · Media Wall
+
+<a href="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg"><img src="https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg" alt="DEEP STAGE · Media Wall · Landscape" width="640"></a>
+
+Six media panels form a 2×3 wall in 3D space, each with its own depth and rotation. Panels float gently as the camera pulls back. A 10-second scene for media collections and B-roll explanations.
+
+#430770 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4](https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
+
+### 81. DEEP STAGE · Brand Outro
+
+<a href="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg"><img src="https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg" alt="DEEP STAGE · Brand Outro · Landscape" width="640"></a>
+
+Screens recede into depth, the logo outline settles, and the brand name, subtitle, specifications and version label appear with a light sweep. An 8-second outro.
+
+#581039 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
+
+### 82. DEEP STAGE · Complete Narrated Video
+
+<a href="https://media.openaicut.com/covers/885/1.0.0-10251bc4895b.jpg"><img src="https://media.openaicut.com/covers/885/1.0.0-10251bc4895b.jpg" alt="DEEP STAGE · Complete Narrated Video · Landscape" width="640"></a>
+
+A 46-second narrated-video package: title intro, presenter stage, product spotlight, case study, media wall and brand outro with continuous camera movement. Customize branding, text, presenter details, subtitles and color; an optional sound-effects track is included.
+
+#838778 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4](https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-full-video](https://motiongit.com/@thepandaq/deep-stage-full-video)
+
+### 83. Goals &amp; Evidence · 17 Motion Diagram Types
+
+<a href="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg"><img src="https://media.openaicut.com/covers/886/0.4.0-rc.4-5ddf2903802d.jpg" alt="Goals &amp; Evidence · 17 Motion Diagram Types · Landscape" width="640"></a>
+
+Seventeen types of semantic motion diagrams in warm gray, off-white and green, for explainers, product descriptions, metric comparisons and arguments.
+
+#509099 · Landscape · 16:9 · 1280 × 720 · 24 FPS · v0.4.0-rc.5
+
+Demo video：[https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@frankye1211/product-update-story](https://motiongit.com/@frankye1211/product-update-story)
+
+Technical documentation：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
+
+### 84. Soft Gradient · Illustrated Narration
+
+<a href="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg"><img src="https://media.openaicut.com/covers/888/0.8.0-rc.2-15b068f72745.jpg" alt="Soft Gradient · Illustrated Narration · Landscape" width="640"></a>
+
+A moon-white gradient template for diagrams, narrated explanations, image and video presentations and presenter cards. Includes seven matching food icons in SVG and transparent PNG.
+
+#643842 · Landscape · 16:9 · 1920 × 1080 · 24 FPS · v0.8.1-rc.1
+
+Demo video：[https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4](https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@frankye1211/moonwhite-robot-unified](https://motiongit.com/@frankye1211/moonwhite-robot-unified)
+
+### 85. Kit 1 · Documentary Explainer
+
+<a href="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg"><img src="https://media.openaicut.com/covers/889/1.0.0-d8681251c776.jpg" alt="Kit 1 · Documentary Explainer · Landscape" width="640"></a>
+
+A documentary-style short told through visuals and bilingual captions, without narration. Replace the key words and captions. Landscape 1920×1080 at 30fps; the 20-second example includes generated music and sound effects.
+
+#233154 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm](https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm)
+
+Technical documentation：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
+
+### 86. Kit 2 · Portrait Presenter Graphics
+
+<a href="https://media.openaicut.com/covers/890/1.0.0-50bebde67959.jpg"><img src="https://media.openaicut.com/covers/890/1.0.0-50bebde67959.jpg" alt="Kit 2 · Portrait Presenter Graphics" width="202"></a>
+
+Motion graphics for an on-camera presenter: transitions between full-screen, circular and card windows, ten visual metaphors and bilingual captions with orange emphasis. Portrait 1080×1920 at 30fps; the 36.5-second example includes generated sound effects.
+
+#583549 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4](https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit2-koubo-wrap](https://motiongit.com/@chenyutao0417/kit2-koubo-wrap)
+
+### 87. Multi-Screen Business · Animated Charts
+
+<a href="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg"><img src="https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg" alt="Multi-Screen Business · Animated Charts · Landscape" width="640"></a>
+
+A fixed 20-second landscape business video with rearranging screens for teams, comparisons, trends, composition and calls to action.
+
+#640261 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-candidate
+
+Demo video：[https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4](https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@frankye1211/corporate-multiscreen-charts](https://motiongit.com/@frankye1211/corporate-multiscreen-charts)
+
+### 88. Ink Biography · A Life in Characters
+
+<a href="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg"><img src="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg" alt="Ink Biography · A Life in Characters · Landscape" width="640"></a>
+
+Chinese characters play historical figures in an ink animation that tells a life story with psychological interpretation. Change dialogue, idiom labels, places, years, annotations and scenes. Landscape 1920×1080 at 30fps; the 2-minute-48-second example includes generated sound effects.
+
+#360840 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/892/1.0.0-318a114e1c66.mp4](https://media.openaicut.com/previews/892/1.0.0-318a114e1c66.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/ink-saga](https://motiongit.com/@chenyutao0417/ink-saga)
+
+### 89. 3D 吉祥物手把手教程
+
+<a href="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg"><img src="https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg" alt="3D 吉祥物手把手教程 · Landscape" width="640"></a>
+
+把网页或 App 的一段操作流程（注册、下单、设置等），做成 3D 小宠物带着一步步点、打字、指重点的横屏教程视频
+
+#887145 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4](https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
+
+### 90. 可爱角色歌词 MV
+
+<a href="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg"><img src="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg" alt="可爱角色歌词 MV · Landscape" width="640"></a>
+
+33 秒横屏歌词 MV 完整模板（1920×1080，30fps），可替换歌词、关键词大字与手写纸条。模板默认采用程序绘制的可爱 chibi 角色。中文 Demo 使用此前完成的《碎碎念》完整成片，未重新渲染；Demo 人物沿用原片风格，与模板默认角色风格不同。音频署名：小天；抖
+
+#161069 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo video：[https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4](https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/cute-character-lyric-mv](https://motiongit.com/@chenyutao0417/cute-character-lyric-mv)
+
+### 91. Decision Chart Theater
+
+<a href="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg"><img src="https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg" alt="Decision Chart Theater · Landscape" width="640"></a>
+
+Dark-canvas data explainer: a number ledger, vector charts that build element by element while the camera pushes in, one big-number verdict, iris-out. Six shot types driven by parameters; duration follows content. The demo is rendered by this template (97.6s, 30fps).
+
+#991091 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo video：[https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4](https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@lxguanyu/dds-decision-keynote](https://motiongit.com/@lxguanyu/dds-decision-keynote)
+
+### 92. 双语科技歌词动效 MV
+
+<a href="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg"><img src="https://media.openaicut.com/covers/932/draft-zh-4b3f5b051ec4.jpg" alt="双语科技歌词动效 MV · Landscape" width="640"></a>
+
+固定约194秒的双语科技歌词MV模板，包含逐字歌词、多画面拼接、科技标题和声音频谱动效。Windows、Python与FFmpeg运行；使用者须自备音频、双语歌词和41段不同视频。
+
+#640432 · Landscape · 16:9 · 1280 × 720 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4](https://media.openaicut.com/previews/932/draft-zh-15f86c1d3675.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv](https://motiongit.com/@chenjunfeng5208/green-light-bilingual-tech-mv)
+
+### 93. 桌面口播 · Mac 窗口动效
+
+<a href="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg"><img src="https://media.openaicut.com/covers/933/1.0.0-zh-ce294f555635.jpg" alt="桌面口播 · Mac 窗口动效 · Landscape" width="480"></a>
+
+浅色 macOS 桌面风格的真人口播模板：讲者出现在 Mac 摄像头窗口里，每句话按句型自动切换版式与动效——翻牌数字、弹出窗口、印章、荧光笔划重点、流程图、删除线、网格转场等，每种动效配有对应音效；判断句、数据句、风险句等各有专属布局。文字、数据、配色和节奏全部由参数驱动，替换
+
+#607598 · Landscape · 4:3 · 1440 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4](https://media.openaicut.com/previews/933/1.0.0-zh-616ff2957b13.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/desktop-talking-head](https://motiongit.com/@erictan88315/desktop-talking-head)
+
+### 94. 光的语法
+
+<a href="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg"><img src="https://media.openaicut.com/covers/934/1.0.5-zh-78b30eaca28b.jpg" alt="光的语法 · Landscape" width="640"></a>
+
+六镜光学短片模板。冷白光谱底、七条色带像频谱仪一样呼吸、透镜光斑推移，适合讲光学、色彩与感知类知识。固定 14 秒，1920x1080。
+
+#442505 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.5
+
+Demo video：[https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4](https://media.openaicut.com/previews/934/1.0.5-zh-1a9201fa21d4.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/light-grammar](https://motiongit.com/@chenjunfeng5208/light-grammar)
+
+### 95. 深海时钟
+
+<a href="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg"><img src="https://media.openaicut.com/covers/935/1.0.0-zh-918534c9724f.jpg" alt="深海时钟 · Landscape" width="640"></a>
+
+七镜深海观察日志：光在 200 米处终止、每 10 米增加一个大气压、声音传得更远。冷蓝到近黑的单色系统，适合讲深海、压强与感知边界。固定 16.7 秒，1920x1080。
+
+#319937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4](https://media.openaicut.com/previews/935/1.0.0-zh-3a4b3bfe504a.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/deep-sea-clock](https://motiongit.com/@chenjunfeng5208/deep-sea-clock)
+
+### 96. 城市脉搏
+
+<a href="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg"><img src="https://media.openaicut.com/covers/936/1.0.0-zh-ca61bd1f0042.jpg" alt="城市脉搏 · Landscape" width="640"></a>
+
+六镜城市夜行：天际线切片、楼体呼吸、交通流与人口曲线。暖橙高对比的城市节奏，适合讲城市、人群与流动。固定 11.3 秒，1920x1080。
+
+#362451 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4](https://media.openaicut.com/previews/936/1.0.0-zh-282f4b90fdf5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/city-pulse](https://motiongit.com/@chenjunfeng5208/city-pulse)
+
+### 97. 种子库
+
+<a href="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg"><img src="https://media.openaicut.com/covers/937/1.0.0-zh-f4642eac1228.jpg" alt="种子库 · Landscape" width="640"></a>
+
+五镜标本档案：恒温舱呼吸单元格、编号标本格、光照周期与异地备份。冷色极简的档案秩序，适合讲保存、备份与长期主义。固定 16 秒，1920x1080。
+
+#419411 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4](https://media.openaicut.com/previews/937/1.0.0-zh-d4a89cf66307.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/seed-bank](https://motiongit.com/@chenjunfeng5208/seed-bank)
+
+### 98. 火星农场
+
+<a href="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg"><img src="https://media.openaicut.com/covers/938/1.0.0-zh-67765770dc26.jpg" alt="火星农场 · Landscape" width="640"></a>
+
+六镜等距种植图：火星表土、脉动生长格、水循环与收成预估。锈红与青绿的互补配色，适合讲太空农业与资源闭环。固定 14.2 秒，1920x1080。
+
+#631937 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4](https://media.openaicut.com/previews/938/1.0.0-zh-850d226af3d7.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/mars-farm](https://motiongit.com/@chenjunfeng5208/mars-farm)
+
+### 99. AI 能不能代替人工
+
+<a href="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg"><img src="https://media.openaicut.com/covers/939/1.0.0-zh-009076f6851a.jpg" alt="AI 能不能代替人工 · Landscape" width="640"></a>
+
+七镜论证体短片：先提问，再讲 AI 能做什么、不能做什么、机制怎么拆、边界在哪里，最后给出结论与落版。冷灰底配橙红强调，适合讲 AI 与人的分工。固定 29.5 秒，1920x1080。
+
+#966733 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4](https://media.openaicut.com/previews/939/1.0.0-zh-c4f14f016b60.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/code-is-video](https://motiongit.com/@chenjunfeng5208/code-is-video)
+
+### 100. OpenFilm · 打开想法
+
+<a href="https://media.openaicut.com/covers/940/1.0.0-zh-4ca8d1e9b26c.jpg"><img src="https://media.openaicut.com/covers/940/1.0.0-zh-4ca8d1e9b26c.jpg" alt="OpenFilm · 打开想法 · Landscape" width="640"></a>
+
+20 镜 / 30 秒。讲一个想法如何变成一支影片：从一句念头，到分镜、到画面、到成片。含主题层（7 色配色 / 字体 / 字重 / 行距 / 缓动可换）、时间轴文件（可改时长）、以及渲染与自检工具。适合讲创作工具、产品流程、从想法到落地。1920x1080。
+
+#324804 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/940/1.0.0-zh-15cb79781117.mp4](https://media.openaicut.com/previews/940/1.0.0-zh-15cb79781117.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/openfilm-solo](https://motiongit.com/@chenjunfeng5208/openfilm-solo)
+
+### 101. Motion × OpenFilm
+
+<a href="https://media.openaicut.com/covers/941/1.0.0-zh-45fef4dddda7.jpg"><img src="https://media.openaicut.com/covers/941/1.0.0-zh-45fef4dddda7.jpg" alt="Motion × OpenFilm · Landscape" width="640"></a>
+
+16 镜 / 24 秒。运动设计语法演示：位移、遮罩、谱带、数字滚动与图形变形。配色、字体、缓动可在主题层替换，时长可由时间轴文件调整。适合讲动效设计、界面转场、节奏与秩序。1920x1080。
+
+#313223 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/941/1.0.0-zh-3662ab650178.mp4](https://media.openaicut.com/previews/941/1.0.0-zh-3662ab650178.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/motion-openfilm](https://motiongit.com/@chenjunfeng5208/motion-openfilm)
+
+### 102. AI × 想象力
+
+<a href="https://media.openaicut.com/covers/942/1.0.0-zh-8c4a868fef82.jpg"><img src="https://media.openaicut.com/covers/942/1.0.0-zh-8c4a868fef82.jpg" alt="AI × 想象力 · Landscape" width="640"></a>
+
+12 镜 / 16 秒。AI 与想象力的短句蒙太奇：快剪、色块、图形呼吸。文案、配色、字体、缓动均可替换，时长可由时间轴文件调整。适合讲 AI、创意、可能性。1920x1080。
+
+#814661 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf795.mp4](https://media.openaicut.com/previews/942/1.0.0-zh-d118c59cf795.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/ai-imagination](https://motiongit.com/@chenjunfeng5208/ai-imagination)
+
+### 103. 财经知识解说 · 50 页动效包
+
+<a href="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg"><img src="https://media.openaicut.com/covers/955/1.0.0-970955b246b3.jpg" alt="财经知识解说 · 50 页动效包 · Landscape" width="640"></a>
+
+风格的财经/知识解说动效包：16:9 横屏，50 种动画页面，按句子类型选页、参数驱动。含数字滚动、柱状/折线/占比图表、印章、新闻卡片、打字机金句、地图路线、关系网络、时间线、对比表格、白闪转场等，每页自带音效。示例数据均为虚构。
+
+#126246 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4](https://media.openaicut.com/previews/955/1.0.0-b48bbfa4b5ea.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/finance-explainer-50](https://motiongit.com/@erictan88315/finance-explainer-50)
+
+### 104. 财经解读 · 竖屏信息卡
+
+<a href="https://media.openaicut.com/covers/956/0.1.0-dd0788d0ae06.jpg"><img src="https://media.openaicut.com/covers/956/0.1.0-dd0788d0ae06.jpg" alt="财经解读 · 竖屏信息卡 · Portrait" width="202"></a>
+
+用深色科技底、数据大字卡和三条方向，把一条财经信息讲成 24 秒竖屏片
+
+#685275 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.0
+
+Demo video：[https://media.openaicut.com/previews/956/0.1.0-cf0a0e9c7a2e.mp4](https://media.openaicut.com/previews/956/0.1.0-cf0a0e9c7a2e.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@guo-factory/finance-cards-zh](https://motiongit.com/@guo-factory/finance-cards-zh)
+
+### 105. 科技办公类解说 · AI Office Explainer Kit
+
+<a href="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg"><img src="https://media.openaicut.com/covers/957/0.3.0-zh-3483d60a8887.jpg" alt="科技办公类解说 · AI Office Explainer Kit · Landscape" width="640"></a>
+
+AI/科技/办公类知识解说图形包：30 种场景（13 种参考重建 + 17 种原创同风格），按句子类型自动选场景，支持叠化转场（缩放模糊/擦除/翻转/白闪等）、程序化音效、真人口播帧序列接入。全部图形代码绘制，演示数据为虚构示例。1920×1080 / 30fps。
+
+#613979 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v0.3.0
+
+Demo video：[https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4](https://media.openaicut.com/previews/957/0.3.0-zh-3d67627220b5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/ai-office-kit](https://motiongit.com/@erictan88315/ai-office-kit)
+
+### 106. 青柠口播版 46场景动效模板
+
+<a href="https://media.openaicut.com/covers/964/1.0.0-cf0af3e1323b.jpg"><img src="https://media.openaicut.com/covers/964/1.0.0-cf0af3e1323b.jpg" alt="青柠口播版 46场景动效模板 · Portrait" width="202"></a>
+
+荧光绿+深绿竖屏口播动效模板：46个场景（含5个口播专用新场景），每个场景都预留随动效移动的圆角真人口播位，重点句可全屏。按SRT时间轴配置场景，自带转场与音效，1080×1920 60fps。
+
+#776256 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/964/1.0.0-zh-dbeed979c143.mp4](https://media.openaicut.com/previews/964/1.0.0-zh-dbeed979c143.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@erictan88315/green-ecosystem-presenter](https://motiongit.com/@erictan88315/green-ecosystem-presenter)
+
+### 107. AI自动剪辑真的来了
+
+<a href="https://media.openaicut.com/covers/966/1.0.0-zh-ad13e3c51d1f.jpg"><img src="https://media.openaicut.com/covers/966/1.0.0-zh-ad13e3c51d1f.jpg" alt="AI自动剪辑真的来了 · Landscape" width="640"></a>
+
+33秒真实智能体剪辑过程展示：素材筛选、OpenFilm对话与时间线操作、成片播放和MG标注。无旁白，音乐与现成音效配合画面节奏。支持替换文案、六色色板、媒体和混音。
+
+#982226 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/966/1.0.0-zh-1b0079fe50d2.mp4](https://media.openaicut.com/previews/966/1.0.0-zh-1b0079fe50d2.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenjunfeng5208/ai-auto-edit-mg](https://motiongit.com/@chenjunfeng5208/ai-auto-edit-mg)
+
+### 108. 点阵肖像 v1
+
+<a href="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg"><img src="https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg" alt="点阵肖像 v1 · Landscape" width="640"></a>
+
+三张人像依次化为流动的双色点阵，散开后汇聚成标题的 13 秒横屏开场，适合人物系列片头与活动开场
+
+#933005 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4](https://media.openaicut.com/previews/968/1.0.0-a409f53e4cae.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@fangcs/dotmatrix-portrait-v1](https://motiongit.com/@fangcs/dotmatrix-portrait-v1)
+
+### 109. 【子布】黑金文字模板素材
+
+<a href="https://media.openaicut.com/covers/971/1.0.0-0535cb13eda2.jpg"><img src="https://media.openaicut.com/covers/971/1.0.0-0535cb13eda2.jpg" alt="【子布】黑金文字模板素材 · Landscape" width="640"></a>
+
+新版20秒原始动画的固定时间轴模板。使用短关键词、计数、三个来源、汇聚与界面展开表达资料处理过程。
+
+#212706 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/971/1.0.0-aac1b1895cf5.mp4](https://media.openaicut.com/previews/971/1.0.0-aac1b1895cf5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@zibu/vibe-sucai1](https://motiongit.com/@zibu/vibe-sucai1)
+
+### 110. 空间智能 · 数字城市光场模板
+
+<a href="https://media.openaicut.com/covers/974/1.0.0-zh-3b732ef91f6d.jpg"><img src="https://media.openaicut.com/covers/974/1.0.0-zh-3b732ef91f6d.jpg" alt="空间智能 · 数字城市光场模板 · Landscape" width="640"></a>
+
+9 页抽象发光蓝色数字科技科普片：从空间感知到空间智能，再到共享空间上下文，完整保留 71.8 秒口播、BGM 与动效。
+
+#628185 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4](https://media.openaicut.com/previews/974/1.0.0-zh-3a9b6ea7c10e.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-spatial-field-motion](https://motiongit.com/@nxxxxxx/science-spatial-field-motion)
+
+### 111. 07 影子的边缘为什么是虚的 · 半影模板
+
+<a href="https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg"><img src="https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg" alt="07 影子的边缘为什么是虚的 · 半影模板 · Landscape" width="640"></a>
+
+9 页米色纸感科普片：同一根杆的十二种边缘、点光源与盘光源对比、本影/半影几何，以及每远一米软九毫米的半影尺。完整保留 57.2 秒中文口播与混音。
+
+#975 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4](https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-shadow-motion](https://motiongit.com/@nxxxxxx/science-shadow-motion)
+
+### 112. 01 火星的日落为什么是蓝的 · 蓝暮模板
+
+<a href="https://media.openaicut.com/covers/976/1.0.0-zh-1444772c509d.jpg"><img src="https://media.openaicut.com/covers/976/1.0.0-zh-1444772c509d.jpg" alt="01 火星的日落为什么是蓝的 · 蓝暮模板 · Landscape" width="640"></a>
+
+8 页暗底橙沙、蓝色暮光的科普片：火星大气把太阳直射光筛成蓝，沙尘又把蓝光散开；从“太阳是白/黄”到“日落后天空发蓝”的因果链。完整保留 56.6 秒中文口播与混音。
+
+#976 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4](https://media.openaicut.com/previews/976/1.0.0-zh-64c361226266.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-mars-sunset-motion](https://motiongit.com/@nxxxxxx/science-mars-sunset-motion)
+
+### 113. 03 夜间声音为什么传得更远 · 逆温层模板
+
+<a href="https://media.openaicut.com/covers/977/1.0.0-zh-cff00659a56b.jpg"><img src="https://media.openaicut.com/covers/977/1.0.0-zh-cff00659a56b.jpg" alt="03 夜间声音为什么传得更远 · 逆温层模板 · Landscape" width="640"></a>
+
+9 页深蓝夜色、青色声线与橙色温度层的科普片：不是夜里更安静，也不是空气变重，而是逆温层让声音向上折射、绕过障碍传得更远。完整保留 58.2 秒中文口播与混音。
+
+#977 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4](https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b61.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-night-sound-motion](https://motiongit.com/@nxxxxxx/science-night-sound-motion)
+
+### 114. Miss you 赛博像素 · 蓝白半入耳耳机产品宣传模板
+
+<a href="https://media.openaicut.com/covers/978/1.0.0-en-fbecfa61532b.jpg"><img src="https://media.openaicut.com/covers/978/1.0.0-en-fbecfa61532b.jpg" alt="Miss you 赛博像素 · 蓝白半入耳耳机产品宣传模板 · Landscape" width="640"></a>
+
+45 秒九页赛博朋克＋像素风的蓝白半入耳蓝牙耳机产品宣传：降噪、音质、AI 同传、30 小时续航、无线充电五项功能逐页落成画面读数，英文口播＋中文字幕，收尾不出价格。
+
+#868354 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4](https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/missyou-cyber-pixel](https://motiongit.com/@nxxxxxx/missyou-cyber-pixel)
 
 ## How to use
 
