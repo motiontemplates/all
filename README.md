@@ -1,5 +1,7 @@
 # MotionGit 模板合集
 
+[English version](README.en.md)
+
 ## .motion 是什么？
 
 .motion 不是 Skill，也不是一段提示词，而是一份完整、可复用的开源视频工程。它保存了视频如何制作：模板的视觉风格、动效库、场景与转场、声音设计，以及让 AI 助手理解和运行工程的制作说明。MP4 是一次制作的结果，.motion 则是可以继续创作的工程本身。
@@ -29,7 +31,7 @@
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
-[在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+[在线播放全部 Demo](https://motiontemplates.github.io/all/)
 
 [MotionGit](https://motiongit.com) · [.motion 格式说明](https://motiongit.com/spec)
 

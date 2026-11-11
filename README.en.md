@@ -1,5 +1,7 @@
 # MotionGit Template Collection
 
+[中文版](README.md)
+
 ## What is .motion?
 
 .motion is a complete, reusable open-source video project, rather than a Skill or a prompt. It preserves how a video is made: its visual style, motion library, scenes, transitions, sound design, and instructions that help an AI assistant understand and run the project. An MP4 is one finished result; a .motion is the project you can keep creating with.
@@ -29,7 +31,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
-[Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+[Watch all demos](https://motiontemplates.github.io/all/en.html)
 
 [MotionGit](https://motiongit.com) · [.motion specification](https://motiongit.com/spec)
 
