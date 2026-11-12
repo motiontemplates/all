@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**101 个模板 · 12 个预上线模板 · 1 个测试项目 · 115 个 Demo**
+**100 个模板 · 12 个预上线模板 · 1 个测试项目 · 114 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-101 个模板 · 12 个预上线模板 · 1 个测试项目 · 115 个 Demo
+100 个模板 · 12 个预上线模板 · 1 个测试项目 · 114 个 Demo
 
-101 个模板，115 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+100 个模板，114 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -1604,18 +1604,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/977/1.0.0-zh-1be1cd5a2b6
 Demo 视频：[▶ https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4](https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4)
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/missyou-cyber-pixel](https://motiongit.com/@nxxxxxx/missyou-cyber-pixel)
-
-### 115. C17 测试标题卡（请忽略）
-
-<a href="https://media.openaicut.com/covers/985/1.0.0-b08f741cdae7.jpg"><img src="https://media.openaicut.com/covers/985/1.0.0-b08f741cdae7.jpg" alt="C17 测试标题卡（请忽略） · 横屏" width="640"></a>
-
-内部流程测试用的 3 秒标题卡，测完即取消发布。
-
-#932555 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo 视频：[▶ https://media.openaicut.com/previews/985/1.0.0-9ccc1d16aa4d.mp4](https://media.openaicut.com/previews/985/1.0.0-9ccc1d16aa4d.mp4)
-
-官网下载 .motion：[https://motiongit.com/@imichaeldu/c17-test-title-card-1112b](https://motiongit.com/@imichaeldu/c17-test-title-card-1112b)
 
 ## 使用教程
 
