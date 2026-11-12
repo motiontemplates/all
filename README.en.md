@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**100 templates · 12 prelaunch templates · 1 preview projects · 114 demos**
+**101 templates · 12 prelaunch templates · 1 preview projects · 115 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-100 templates · 12 prelaunch templates · 1 preview projects · 114 demos
+101 templates · 12 prelaunch templates · 1 preview projects · 115 demos
 
-100 templates, 114 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+101 templates, 115 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -1604,6 +1604,18 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/science-night-
 Demo video：[https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4](https://media.openaicut.com/previews/978/1.0.0-en-f99d9bc0f1ad.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/missyou-cyber-pixel](https://motiongit.com/@nxxxxxx/missyou-cyber-pixel)
+
+### 115. C17 测试标题卡（请忽略）
+
+<a href="https://media.openaicut.com/covers/985/1.0.0-b08f741cdae7.jpg"><img src="https://media.openaicut.com/covers/985/1.0.0-b08f741cdae7.jpg" alt="C17 测试标题卡（请忽略） · Landscape" width="640"></a>
+
+内部流程测试用的 3 秒标题卡，测完即取消发布。
+
+#932555 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/985/1.0.0-9ccc1d16aa4d.mp4](https://media.openaicut.com/previews/985/1.0.0-9ccc1d16aa4d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@imichaeldu/c17-test-title-card-1112b](https://motiongit.com/@imichaeldu/c17-test-title-card-1112b)
 
 ## How to use
 
