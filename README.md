@@ -519,7 +519,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f6
 
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
-#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.1
+#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4](https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4)
 
@@ -533,7 +533,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 
 像素城市、角色闯关和复古游戏音色组成产品介绍，适合数字工具与功能说明。
 
-#252912 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#252912 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887ad.mp4](https://media.openaicut.com/previews/586/draft-zh-b8792f9887ad.mp4)
 
@@ -547,7 +547,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887a
 
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
-#867595 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
+#867595 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5ce.mp4](https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5ce.mp4)
 
@@ -561,7 +561,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 沿着选择模板、提供内容、生成视频的流程讲解产品使用，适合工具教程和上手演示。
 
-#670021 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#670021 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4](https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4)
 
@@ -575,7 +575,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650
 
 以模块拼贴呈现内容、素材和动画的组合关系，适合创作者工具与工作方式介绍。
 
-#452365 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#452365 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a380523.mp4](https://media.openaicut.com/previews/589/draft-zh-4d806a380523.mp4)
 
@@ -589,7 +589,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。
 
-#213827 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#213827 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4](https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4)
 
@@ -603,7 +603,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232
 
 以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。
 
-#667934 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#667934 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a669.mp4](https://media.openaicut.com/previews/591/draft-zh-958b2690a669.mp4)
 
@@ -617,7 +617,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
 
-#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4](https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4)
 
@@ -633,7 +633,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f67
 
 三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。
 
-#381814 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#381814 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38a.mp4](https://media.openaicut.com/previews/615/draft-zh-87b41df4a38a.mp4)
 
@@ -647,7 +647,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 
 多张照片组成主视觉，从局部照片拉远揭示完整马赛克，适合集体回忆与拼图揭幕。
 
-#460349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#460349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e9591.mp4](https://media.openaicut.com/previews/616/draft-zh-3c3bc74e9591.mp4)
 
@@ -661,7 +661,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e959
 
 将四张照片裁成几何形状，在三组包豪斯动态海报中重组，适合活动与视觉主题展示。
 
-#907345 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#907345 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0ba.mp4](https://media.openaicut.com/previews/617/draft-zh-d014a696e0ba.mp4)
 
@@ -675,7 +675,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 
 用三层定向笔触重绘照片，与原图对照后呈现署名标题，适合摄影与艺术展示。
 
-#328828 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#328828 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1e.mp4](https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1e.mp4)
 
@@ -689,7 +689,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1
 
 用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。
 
-#638039 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#638039 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a3.mp4](https://media.openaicut.com/previews/619/draft-zh-567d566f31a3.mp4)
 
@@ -703,7 +703,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。
 
-#800829 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#800829 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b43.mp4](https://media.openaicut.com/previews/620/draft-zh-eb40eb882b43.mp4)
 
@@ -717,7 +717,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
-#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.2
+#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4](https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4)
 
@@ -731,7 +731,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 
 将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。
 
-#551805 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#551805 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a39.mp4](https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a39.mp4)
 

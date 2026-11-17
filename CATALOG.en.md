@@ -500,7 +500,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.1
+#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
@@ -514,7 +514,7 @@ Technical documentation：[https://github.com/motiontemplates/128610](https://gi
 
 Explain a digital product with a pixel city, platform-game actions and retro game sound.
 
-#252912 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#252912 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo video：[https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
 
@@ -528,7 +528,7 @@ Technical documentation：[https://github.com/motiontemplates/252912](https://gi
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
+#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4](https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4)
 
@@ -542,7 +542,7 @@ Technical documentation：[https://github.com/motiontemplates/867595](https://gi
 
 Walk through choosing a template, providing content and producing a video for a product tutorial.
 
-#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
 
 Demo video：[https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
@@ -556,7 +556,7 @@ Technical documentation：[https://github.com/motiontemplates/670021](https://gi
 
 Show how content, assets and animation fit together through modular collages for creator tools.
 
-#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4](https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4)
 
@@ -570,7 +570,7 @@ Technical documentation：[https://github.com/motiontemplates/452365](https://gi
 
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
-#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
 
@@ -584,7 +584,7 @@ Technical documentation：[https://github.com/motiontemplates/213827](https://gi
 
 Present a product on a keynote-style stage with large screens for launches and feature announcements.
 
-#667934 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#667934 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4](https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4)
 
@@ -598,7 +598,7 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
@@ -614,7 +614,7 @@ Technical documentation：[https://github.com/motiontemplates/394243](https://gi
 
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
-#381814 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#381814 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
 
 Demo video：[https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4](https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4)
 
@@ -628,7 +628,7 @@ Technical documentation：[https://github.com/motiontemplates/381814](https://gi
 
 Reveal a photo mosaic by pulling back from individual pictures to the complete image.
 
-#460349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#460349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4](https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4)
 
@@ -642,7 +642,7 @@ Technical documentation：[https://github.com/motiontemplates/460349](https://gi
 
 Recompose four photos as geometric shapes across three Bauhaus-inspired animated posters.
 
-#907345 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#907345 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4](https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4)
 
@@ -656,7 +656,7 @@ Technical documentation：[https://github.com/motiontemplates/907345](https://gi
 
 Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.
 
-#328828 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#328828 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4](https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4)
 
@@ -670,7 +670,7 @@ Technical documentation：[https://github.com/motiontemplates/328828](https://gi
 
 Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.
 
-#638039 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#638039 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4](https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4)
 
@@ -684,7 +684,7 @@ Technical documentation：[https://github.com/motiontemplates/638039](https://gi
 
 Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.
 
-#800829 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#800829 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4](https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4)
 
@@ -698,7 +698,7 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.2
+#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
@@ -712,7 +712,7 @@ Technical documentation：[https://github.com/motiontemplates/743702](https://gi
 
 Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.
 
-#551805 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#551805 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4](https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4)
 
