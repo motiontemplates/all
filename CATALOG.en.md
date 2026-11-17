@@ -1,6 +1,6 @@
 # MotionGit illustrated template list
 
-155 templates · 1 preview projects · 157 demos
+154 templates · 1 preview projects · 156 demos
 
 ## What is .motion?
 
@@ -28,7 +28,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
 
-155 templates, 157 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+154 templates, 156 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -1860,19 +1860,7 @@ Demo video：[https://media.openaicut.com/previews/1202/1.0.0-zh-74ba0c34d5f5.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/burst-wont-save](https://motiongit.com/@nxxxxxx/burst-wont-save)
 
-### 142. 冷铁暖芯 · 算力枢纽苏醒片头
-
-![冷铁暖芯 · 算力枢纽苏醒片头 · Landscape](https://media.openaicut.com/covers/1203/draft-en-2a0c86f8e601.jpg)
-
-冷铁暖芯 · 算力枢纽苏醒片头
-
-#926499 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
-
-Demo video：[https://media.openaicut.com/previews/1203/draft-en-51c0fff6a967.mp4](https://media.openaicut.com/previews/1203/draft-en-51c0fff6a967.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/vl-01-iron-core](https://motiongit.com/@nxxxxxx/vl-01-iron-core)
-
-### 143. 十年，十层 · 层叠结构讲解
+### 142. 十年，十层 · 层叠结构讲解
 
 ![十年，十层 · 层叠结构讲解 · Portrait](https://media.openaicut.com/covers/1204/1.0.0-zh-1ae6e5c8120e.jpg)
 
@@ -1884,7 +1872,7 @@ Demo video：[https://media.openaicut.com/previews/1204/1.0.0-zh-d7fe26fb80ed.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/ten-layers-structure-30s](https://motiongit.com/@nxxxxxx/ten-layers-structure-30s)
 
-### 144. 赣州 · 一镜到底 · 城市横移
+### 143. 赣州 · 一镜到底 · 城市横移
 
 ![赣州 · 一镜到底 · 城市横移 · Portrait](https://media.openaicut.com/covers/1205/1.0.0-zh-d9fe629247db.jpg)
 
@@ -1896,7 +1884,7 @@ Demo video：[https://media.openaicut.com/previews/1205/1.0.0-zh-7527022b2acc.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/ganzhou-one-take-40s](https://motiongit.com/@nxxxxxx/ganzhou-one-take-40s)
 
-### 145. 三十四省双景 · 一镜到底（3:4 / 119s）
+### 144. 三十四省双景 · 一镜到底（3:4 / 119s）
 
 ![三十四省双景 · 一镜到底（3:4 / 119s） · Portrait](https://media.openaicut.com/covers/1207/1.0.0-zh-2b8dfc1ed39e.jpg)
 
@@ -1908,7 +1896,7 @@ Demo video：[https://media.openaicut.com/previews/1207/1.0.0-zh-fdd04a4541c2.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/provinces-one-take-119s](https://motiongit.com/@nxxxxxx/provinces-one-take-119s)
 
-### 146. 澄野 Halo One · 产品说明三集
+### 145. 澄野 Halo One · 产品说明三集
 
 ![澄野 Halo One · 产品说明三集 · Portrait](https://media.openaicut.com/covers/1208/1.0.0-zh-d29b38bf420b.jpg)
 
@@ -1920,7 +1908,7 @@ Demo video：[https://media.openaicut.com/previews/1208/1.0.0-zh-3860ddfb096b.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/halo-one-series](https://motiongit.com/@nxxxxxx/halo-one-series)
 
-### 147. PortaPress 便携咖啡机 · 横版产品宣发
+### 146. PortaPress 便携咖啡机 · 横版产品宣发
 
 ![PortaPress 便携咖啡机 · 横版产品宣发 · Landscape](https://media.openaicut.com/covers/1209/draft-c86159881cad.jpg)
 
@@ -1932,7 +1920,7 @@ Demo video：[https://media.openaicut.com/previews/1209/draft-148a948b40a1.mp4](
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/portapress-promo-landscape](https://motiongit.com/@nxxxxxx/portapress-promo-landscape)
 
-### 148. PortaPress 便携咖啡机 · 竖版产品宣发
+### 147. PortaPress 便携咖啡机 · 竖版产品宣发
 
 ![PortaPress 便携咖啡机 · 竖版产品宣发 · Portrait](https://media.openaicut.com/covers/1210/draft-56628278ba9c.jpg)
 
@@ -1944,7 +1932,7 @@ Demo video：[https://media.openaicut.com/previews/1210/draft-a2ff3adb5af0.mp4](
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/portapress-promo-portrait](https://motiongit.com/@nxxxxxx/portapress-promo-portrait)
 
-### 149. VoltX 户外储能电源 · 横版产品宣发
+### 148. VoltX 户外储能电源 · 横版产品宣发
 
 ![VoltX 户外储能电源 · 横版产品宣发 · Landscape](https://media.openaicut.com/covers/1211/draft-01a4785ff370.jpg)
 
@@ -1956,7 +1944,7 @@ Demo video：[https://media.openaicut.com/previews/1211/draft-bda307a2233c.mp4](
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/voltx-promo-landscape](https://motiongit.com/@nxxxxxx/voltx-promo-landscape)
 
-### 150. 一条线，九种活法 · One Line, Nine Lives
+### 149. 一条线，九种活法 · One Line, Nine Lives
 
 ![一条线，九种活法 · One Line, Nine Lives · Landscape](https://media.openaicut.com/covers/1213/1.0.0-zh-532501f1d799.jpg)
 
@@ -1968,7 +1956,7 @@ Demo video：[https://media.openaicut.com/previews/1213/1.0.0-zh-184556ec3803.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/one-line-nine-lives](https://motiongit.com/@nxxxxxx/one-line-nine-lives)
 
-### 151. 星际迁徙-流放者
+### 150. 星际迁徙-流放者
 
 ![星际迁徙-流放者 · Landscape](https://media.openaicut.com/covers/1214/1.1.0-zh-f2c5632112ad.jpg)
 
@@ -1980,7 +1968,7 @@ Demo video：[https://media.openaicut.com/previews/1214/1.1.0-zh-1007590d8f56.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/star-migration-exiles](https://motiongit.com/@nxxxxxx/star-migration-exiles)
 
-### 152. 智能恒温随行杯 · MG 产品宣发片
+### 151. 智能恒温随行杯 · MG 产品宣发片
 
 ![智能恒温随行杯 · MG 产品宣发片 · Landscape](https://media.openaicut.com/covers/1215/1.0.0-zh-2104173898b5.jpg)
 
@@ -1992,7 +1980,7 @@ Demo video：[https://media.openaicut.com/previews/1215/1.0.0-zh-baeb87c57bbc.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/aurora-mug-product-promo](https://motiongit.com/@nxxxxxx/aurora-mug-product-promo)
 
-### 153. 水墨书法标题卡
+### 152. 水墨书法标题卡
 
 ![水墨书法标题卡 · Landscape](https://media.openaicut.com/covers/1216/1.0.2-zh-b36a4028dfb2.jpg)
 
@@ -2004,7 +1992,7 @@ Demo video：[https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd546f.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/ink-brush-title](https://motiongit.com/@fangcs/ink-brush-title)
 
-### 154. 卡通涂鸦片头
+### 153. 卡通涂鸦片头
 
 ![卡通涂鸦片头 · Landscape](https://media.openaicut.com/covers/1217/1.0.2-zh-be3662718ecc.jpg)
 
@@ -2016,7 +2004,7 @@ Demo video：[https://media.openaicut.com/previews/1217/1.0.2-zh-0c6417ea46e7.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/cartoon-scribble-open](https://motiongit.com/@fangcs/cartoon-scribble-open)
 
-### 155. 最后一盏灯
+### 154. 最后一盏灯
 
 ![最后一盏灯 · Landscape](https://media.openaicut.com/covers/1218/draft-zh-7cc26b70ecf4.jpg)
 
@@ -2028,7 +2016,7 @@ Demo video：[https://media.openaicut.com/previews/1218/draft-zh-97100268ac9d.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/last-lamp](https://motiongit.com/@nxxxxxx/last-lamp)
 
-### 156. 竖排姓名身份卡
+### 155. 竖排姓名身份卡
 
 ![竖排姓名身份卡 · Portrait](https://media.openaicut.com/covers/1219/1.0.0-zh-edad6d7f60f4.jpg)
 
@@ -2040,7 +2028,7 @@ Demo video：[https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6f2.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/name-plaque-card](https://motiongit.com/@fangcs/name-plaque-card)
 
-### 157. 深色 · 知识口播与流程图
+### 156. 深色 · 知识口播与流程图
 
 ![深色 · 知识口播与流程图 · Landscape](https://media.openaicut.com/covers/1220/1.0.0-zh-fcd9dbebd9e0.jpg)
 
