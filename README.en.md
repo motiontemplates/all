@@ -83,9 +83,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.5
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.6
 
-Official Chinese portrait v0.2.44-alpha.5; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.44-alpha.6; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -177,6 +177,8 @@ Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
+
 ### 9. Tech Console · Narrated Explainer
 
 <a href="https://media.openaicut.com/covers/611/2.5.7-en-d9ebf8703b0e.jpg"><img src="https://media.openaicut.com/covers/611/2.5.7-en-d9ebf8703b0e.jpg" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
@@ -188,6 +190,8 @@ Support technical and data explanations with a console layout and purple glass-l
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
+
+Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
 ### 10. Tech Console · Narrated Explainer · Portrait
 
@@ -201,6 +205,8 @@ Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
+
 ### 11. Vivid Characters · Narrative Explainer
 
 <a href="https://media.openaicut.com/covers/613/draft-en-e6af4d6ff02e.jpg"><img src="https://media.openaicut.com/covers/613/draft-en-e6af4d6ff02e.jpg" alt="Vivid Characters · Narrative Explainer · Landscape" width="640"></a>
@@ -212,6 +218,8 @@ Support stories and contextual explanations with vivid colors, character assets 
 Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
+
+Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
 ### 12. Vivid Characters · Narrative Explainer · Portrait
 
@@ -225,13 +233,15 @@ Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 13. Vibrant Poster · Narrated Explainer
 
 <a href="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg"><img src="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg" alt="Vibrant Poster · Narrated Explainer · Landscape" width="640"></a>
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.5
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
@@ -245,7 +255,7 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 

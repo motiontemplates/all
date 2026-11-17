@@ -64,9 +64,9 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
-#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.5
+#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.6
 
-官网中文竖屏 v0.2.44-alpha.5；GitHub 开源包 v0.2.7-open-beta（16:9）。
+官网中文竖屏 v0.2.44-alpha.6；GitHub 开源包 v0.2.7-open-beta（16:9）。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -158,6 +158,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-zh-3200b44b281
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
 
+技术资料：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
+
 ### 9. 科技控制台 · 口播讲解
 
 ![科技控制台 · 口播讲解 · 横屏](https://media.openaicut.com/covers/611/2.5.7-zh-8e20f0acb55c.jpg)
@@ -169,6 +171,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-zh-3200b44b281
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b144413879.mp4](https://media.openaicut.com/previews/611/2.5.7-zh-96b144413879.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
+
+技术资料：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
 ### 10. 科技控制台 · 口播讲解 · 竖屏
 
@@ -182,6 +186,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29b
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
 
+技术资料：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
+
 ### 11. 鲜色角色 · 叙事讲解
 
 ![鲜色角色 · 叙事讲解 · 横屏](https://media.openaicut.com/covers/613/draft-zh-23a19c51650d.jpg)
@@ -193,6 +199,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29b
 Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098e.mp4](https://media.openaicut.com/previews/613/draft-zh-9454c905098e.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
+
+技术资料：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
 ### 12. 鲜色角色 · 叙事讲解 · 竖屏
 
@@ -206,13 +214,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 13. 活力海报 · 口播讲解
 
 ![活力海报 · 口播讲解 · 横屏](https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg)
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
 
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.5
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4](https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4)
 
@@ -226,7 +236,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.7
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
