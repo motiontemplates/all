@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**153 个模板 · 1 个测试项目 · 155 个 Demo**
+**157 个模板 · 1 个测试项目 · 159 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-153 个模板 · 1 个测试项目 · 155 个 Demo
+157 个模板 · 1 个测试项目 · 159 个 Demo
 
-153 个模板，155 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+157 个模板，159 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2046,6 +2046,54 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1218/draft-zh-97100268ac
 Demo 视频：[▶ https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6f2.mp4](https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6f2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/name-plaque-card](https://motiongit.com/@fangcs/name-plaque-card)
+
+### 156. 片尾关注卡
+
+<a href="https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg"><img src="https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg" alt="片尾关注卡 · 横屏" width="640"></a>
+
+3 秒横屏片尾关注卡片段：圆环描出、关注按钮弹入、品牌名与引导语胶囊依次就位，环上光点持续公转、按钮轻轻呼吸、胶囊周期泛光，配轻快入场音效，透明背景可叠加到任意视频结尾。
+
+#844614 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4](https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4)
+
+官网下载 .motion：[https://motiongit.com/@fangcs/end-card-cta](https://motiongit.com/@fangcs/end-card-cta)
+
+### 157. 机械键盘 · MG 产品宣发片
+
+<a href="https://media.openaicut.com/covers/1222/1.0.1-zh-ae1e3d72a44a.jpg"><img src="https://media.openaicut.com/covers/1222/1.0.1-zh-ae1e3d72a44a.jpg" alt="机械键盘 · MG 产品宣发片 · 横屏" width="640"></a>
+
+30 秒横屏机械键盘 MG 产品宣发片：开场标题、键帽微距、整机亮相、旋钮/暖光/透光特写、双手敲击、RGB 扫光、三图快切到品牌定格；纯原生 HTML/CSS/JS/SVG，可替换品牌名、英文标与 slogan。
+
+#778807 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1222/1.0.1-zh-3d8b9c49877e.mp4](https://media.openaicut.com/previews/1222/1.0.1-zh-3d8b9c49877e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/mech-keyboard-mg-promo](https://motiongit.com/@nxxxxxx/mech-keyboard-mg-promo)
+
+### 158. 夜城霓虹光雨 · 城市航拍
+
+<a href="https://media.openaicut.com/covers/1223/1.0.0-ed153f5734a9.jpg"><img src="https://media.openaicut.com/covers/1223/1.0.0-ed153f5734a9.jpg" alt="夜城霓虹光雨 · 城市航拍 · 横屏" width="640"></a>
+
+15 秒 16:9 的夜景城市航拍霓虹光雨片：真实航拍底片 + 三层垂直光雨 + RGB 分离、扫描条与故障撕裂，胶片颗粒与泛光收尾。底片已烘进包内，只能调风格参数，适合赛博/科技调性的片头与垫场。
+
+#561366 · 横屏 · 16:9 · 1920 × 1080 · 25 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1223/1.0.0-f07c30491b45.mp4](https://media.openaicut.com/previews/1223/1.0.0-f07c30491b45.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/neon-rain-night-aerial](https://motiongit.com/@nxxxxxx/neon-rain-night-aerial)
+
+### 159. 数字科技城 · 线框都市
+
+<a href="https://media.openaicut.com/covers/1224/draft-9e2503e26c49.jpg"><img src="https://media.openaicut.com/covers/1224/draft-9e2503e26c49.jpg" alt="数字科技城 · 线框都市 · 横屏" width="640"></a>
+
+青蓝与洋红双色描线的 2.5D 线框科技城 MG 短片：低机位穿街、侧向跟拍、仰拍楼廊、中枢节点网络、俯冲穿楼峡谷，末镜后拉落定立体英文标题。16:9，18 秒，纯铺底科技氛围电子 BGM，无人声无字幕。
+
+#868868 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4](https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/tech-city-wireframe](https://motiongit.com/@nxxxxxx/tech-city-wireframe)
 
 ## 使用教程
 
