@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**154 个模板 · 1 个测试项目 · 156 个 Demo**
+**153 个模板 · 1 个测试项目 · 155 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-154 个模板 · 1 个测试项目 · 156 个 Demo
+153 个模板 · 1 个测试项目 · 155 个 Demo
 
-154 个模板，156 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+153 个模板，155 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2046,18 +2046,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1218/draft-zh-97100268ac
 Demo 视频：[▶ https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6f2.mp4](https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6f2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/name-plaque-card](https://motiongit.com/@fangcs/name-plaque-card)
-
-### 156. 深色 · 知识口播与流程图
-
-<a href="https://media.openaicut.com/covers/1220/1.0.0-zh-fcd9dbebd9e0.jpg"><img src="https://media.openaicut.com/covers/1220/1.0.0-zh-fcd9dbebd9e0.jpg" alt="深色 · 知识口播与流程图 · 横屏" width="640"></a>
-
-16:9知识口播、左右信息卡、人物画中画、背景虚化与流程图；展示方法根据93.3秒参考重建。默认人物和背景是明确标记的原创程序演示。
-
-#559948 · 横屏 · 16:9 · 1280 × 720 · 30 FPS · v1.0.0
-
-Demo 视频：[▶ https://media.openaicut.com/previews/1220/1.0.0-zh-b45cb37e7533.mp4](https://media.openaicut.com/previews/1220/1.0.0-zh-b45cb37e7533.mp4)
-
-官网下载 .motion：[https://motiongit.com/@wakazhangjiahuang/navy-gold-talking-head](https://motiongit.com/@wakazhangjiahuang/navy-gold-talking-head)
 
 ## 使用教程
 
