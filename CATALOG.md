@@ -900,7 +900,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/12m_love-dem
 
 Demo 视频：[▶ https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4](https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4)
 
-官网下载 .motion：[https://motiongit.com/@imichaeldu/september](https://motiongit.com/@imichaeldu/september)
+官网下载 .motion：[https://motiongit.com/@adunext/september](https://motiongit.com/@adunext/september)
 
 ## 模板开放测试 · 未上线
 

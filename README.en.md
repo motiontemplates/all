@@ -919,7 +919,7 @@ Technical documentation：[https://github.com/motiontemplates/926144](https://gi
 
 Demo video：[https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4](https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4)
 
-Download .motion from MotionGit：[https://motiongit.com/@imichaeldu/september](https://motiongit.com/@imichaeldu/september)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/september](https://motiongit.com/@adunext/september)
 
 ## Template previews · Not yet released
 
