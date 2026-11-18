@@ -892,13 +892,13 @@ Technical documentation：[https://github.com/motiontemplates/926144](https://gi
 
 ### 63. September
 
-![September · Landscape](https://media.openaicut.com/covers/986/2.2.4-ebf4b6a1ec52.jpg)
+![September · Landscape](https://media.openaicut.com/covers/986/2.2.4-716207baed0a.jpg)
 
 一天或一趟旅行的手机/相机素材 + 用户自己讲的几句故事 → 约 100 秒（102–103 秒）、有故事线也有卡点的旅行 VLOG，横竖屏都行。
 
 #589709 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v2.2.4
 
-Demo video：[https://media.openaicut.com/previews/986/2.2.4-27365b3b49ed.mp4](https://media.openaicut.com/previews/986/2.2.4-27365b3b49ed.mp4)
+Demo video：[https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4](https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@imichaeldu/september](https://motiongit.com/@imichaeldu/september)
 
@@ -2032,7 +2032,7 @@ Download .motion from MotionGit：[https://motiongit.com/@fangcs/name-plaque-car
 
 ![片尾关注卡 · Landscape](https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg)
 
-3 秒方形（1:1）片尾关注卡：圆环进度描出、品牌名上浮、胶囊 CTA 回弹落下；入场后外圈彗星光点持续公转、关注钮轻微呼吸、CTA 周期泛光，收尾段始终有动感。适合方形 / 竖屏社交视频结尾的关注 / 订阅引导与账号品牌露出，也可叠加到横屏视频片尾留白区；成品为透明背景片段，可
+3 秒方形（1:1）片尾关注卡：圆环描出、品牌名上浮、胶囊 CTA 回弹落下；彗星光点持续公转、按钮轻呼吸、胶囊周期泛光。适合方形/竖屏视频结尾关注引导，也可叠加横屏片尾留白区，透明背景可叠加任意画面。
 
 #844614 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
