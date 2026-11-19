@@ -107,6 +107,8 @@ Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
+Technical documentation：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
+
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
 <a href="https://media.openaicut.com/covers/606/draft-en-3c5bd49c76c4.jpg"><img src="https://media.openaicut.com/covers/606/draft-en-3c5bd49c76c4.jpg" alt="Modern Editorial · Narrated Explainer · Portrait" width="202"></a>

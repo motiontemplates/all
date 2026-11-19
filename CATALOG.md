@@ -88,6 +88,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
+技术资料：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
+
 ### 4. 现代图文 · 口播讲解 · 竖屏
 
 ![现代图文 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/606/draft-zh-ceb203a3fa61.jpg)
