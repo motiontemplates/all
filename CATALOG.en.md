@@ -270,6 +270,8 @@ Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
+Technical documentation：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
+
 ### 17. Hand-Drawn Cartoon Explainer
 
 ![Hand-Drawn Cartoon Explainer · Landscape](https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg)

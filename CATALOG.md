@@ -270,6 +270,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
+技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
+
 ### 17. 卡通讲解风
 
 ![卡通讲解风 · 横屏](https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg)
