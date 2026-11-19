@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-157 个模板 · 1 个测试项目 · 159 个 Demo
+155 个模板 · 1 个测试项目 · 157 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-157 个模板，159 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+155 个模板，157 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -1956,19 +1956,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1213/1.0.0-zh-184556ec38
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/one-line-nine-lives](https://motiongit.com/@nxxxxxx/one-line-nine-lives)
 
-### 150. 星际迁徙-流放者
-
-![星际迁徙-流放者 · 横屏](https://media.openaicut.com/covers/1214/1.1.0-zh-f2c5632112ad.jpg)
-
-16:9 横屏、32 秒、8 镜的深空史诗伪纪录片风格 Canvas 动画。深蓝紫星空下，带粉紫光环的巨行星悬于雾海山脉之上，一支星际巡游编队（一艘旗舰加三纵列小飞船）从左向右横贯，地面观者剪影立于岩顶仰望，队伍最终走向雾海深处。行星表层缓慢自转、星环有绕环流光，弯月呼吸辉光，五
-
-#146901 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
-
-Demo 视频：[▶ https://media.openaicut.com/previews/1214/1.1.0-zh-1007590d8f56.mp4](https://media.openaicut.com/previews/1214/1.1.0-zh-1007590d8f56.mp4)
-
-官网下载 .motion：[https://motiongit.com/@nxxxxxx/star-migration-exiles](https://motiongit.com/@nxxxxxx/star-migration-exiles)
-
-### 151. 智能恒温随行杯 · MG 产品宣发片
+### 150. 智能恒温随行杯 · MG 产品宣发片
 
 ![智能恒温随行杯 · MG 产品宣发片 · 横屏](https://media.openaicut.com/covers/1215/1.0.0-zh-2104173898b5.jpg)
 
@@ -1980,7 +1968,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1215/1.0.0-zh-baeb87c57b
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/aurora-mug-product-promo](https://motiongit.com/@nxxxxxx/aurora-mug-product-promo)
 
-### 152. 水墨书法标题卡
+### 151. 水墨书法标题卡
 
 ![水墨书法标题卡 · 横屏](https://media.openaicut.com/covers/1216/1.0.2-zh-b36a4028dfb2.jpg)
 
@@ -1992,7 +1980,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd54
 
 官网下载 .motion：[https://motiongit.com/@fangcs/ink-brush-title](https://motiongit.com/@fangcs/ink-brush-title)
 
-### 153. 卡通涂鸦片头
+### 152. 卡通涂鸦片头
 
 ![卡通涂鸦片头 · 横屏](https://media.openaicut.com/covers/1217/1.0.2-zh-be3662718ecc.jpg)
 
@@ -2004,19 +1992,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1217/1.0.2-zh-0c6417ea46
 
 官网下载 .motion：[https://motiongit.com/@fangcs/cartoon-scribble-open](https://motiongit.com/@fangcs/cartoon-scribble-open)
 
-### 154. 最后一盏灯
-
-![最后一盏灯 · 横屏](https://media.openaicut.com/covers/1218/draft-zh-7cc26b70ecf4.jpg)
-
-琥珀废土上的独行叙事短片：一名旅者在黄昏戈壁驻足拾起一枚半埋的发光信物，盒盖开启内透暖光；他捧光凝视、回望漫长沙路，入夜后天地沉入墨蓝，唯留提灯与掌心两点暖光，最终携光走向夜色深处。12 镜 40 秒，16:9，含中文讲解字幕与史诗氛围配乐；双轨交叉叠化衔接，含缓推缓拉运镜、行走
-
-#458615 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-Demo 视频：[▶ https://media.openaicut.com/previews/1218/draft-zh-97100268ac9d.mp4](https://media.openaicut.com/previews/1218/draft-zh-97100268ac9d.mp4)
-
-官网下载 .motion：[https://motiongit.com/@nxxxxxx/last-lamp](https://motiongit.com/@nxxxxxx/last-lamp)
-
-### 155. 竖排姓名身份卡
+### 153. 竖排姓名身份卡
 
 ![竖排姓名身份卡 · 竖屏](https://media.openaicut.com/covers/1219/1.0.0-zh-edad6d7f60f4.jpg)
 
@@ -2028,7 +2004,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6
 
 官网下载 .motion：[https://motiongit.com/@fangcs/name-plaque-card](https://motiongit.com/@fangcs/name-plaque-card)
 
-### 156. 片尾关注卡
+### 154. 片尾关注卡
 
 ![片尾关注卡 · 横屏](https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg)
 
@@ -2040,7 +2016,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1
 
 官网下载 .motion：[https://motiongit.com/@fangcs/end-card-cta](https://motiongit.com/@fangcs/end-card-cta)
 
-### 157. 机械键盘 · MG 产品宣发片
+### 155. 机械键盘 · MG 产品宣发片
 
 ![机械键盘 · MG 产品宣发片 · 横屏](https://media.openaicut.com/covers/1222/1.0.1-zh-ae1e3d72a44a.jpg)
 
@@ -2052,7 +2028,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1222/1.0.1-zh-3d8b9c4987
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/mech-keyboard-mg-promo](https://motiongit.com/@nxxxxxx/mech-keyboard-mg-promo)
 
-### 158. 夜城霓虹光雨 · 城市航拍
+### 156. 夜城霓虹光雨 · 城市航拍
 
 ![夜城霓虹光雨 · 城市航拍 · 横屏](https://media.openaicut.com/covers/1223/1.0.0-ed153f5734a9.jpg)
 
@@ -2064,7 +2040,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1223/1.0.0-f07c30491b45.
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/neon-rain-night-aerial](https://motiongit.com/@nxxxxxx/neon-rain-night-aerial)
 
-### 159. 数字科技城 · 线框都市
+### 157. 数字科技城 · 线框都市
 
 ![数字科技城 · 线框都市 · 横屏](https://media.openaicut.com/covers/1224/draft-9e2503e26c49.jpg)
 
