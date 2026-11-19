@@ -101,13 +101,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.20
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.21
 
 Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd9.mp4](https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd9.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
-
-技术资料：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
 
 ### 4. 现代图文 · 口播讲解 · 竖屏
 
@@ -227,7 +225,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.15
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.16
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4](https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4)
 
