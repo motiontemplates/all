@@ -250,7 +250,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cd
 
 纸面画框、破框转场与彩蛋动效。内测版，新文案适配仍在完善。
 
-#178707 · 竖屏 · 3:4 · 1440 × 1920 · 60 FPS · v0.1.1-alpha.2
+#178707 · 竖屏 · 3:4 · 1440 × 1920 · 60 FPS · v0.1.3-alpha.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
@@ -264,13 +264,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 
 字符角色、作品墙与剧场式动画。内测版，新文案适配仍在完善。
 
-#148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
+#148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
-
-技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
 ### 17. 卡通讲解风
 
@@ -278,7 +276,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 
 手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。
 
-#875206 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
+#875206 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.2-alpha.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 

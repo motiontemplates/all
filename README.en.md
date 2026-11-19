@@ -269,7 +269,7 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 Paper frames, frame-breaking transitions and playful hidden details. Beta: adaptation to new scripts is still being improved.
 
-#178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.1-alpha.2
+#178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.3-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
@@ -283,13 +283,11 @@ Technical documentation：[https://github.com/motiontemplates/178707](https://gi
 
 Text characters, a work gallery and theatrical animation. Beta: adaptation to new scripts is still being improved.
 
-#148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
+#148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
-
-Technical documentation：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
 
 ### 17. Hand-Drawn Cartoon Explainer
 
@@ -297,7 +295,7 @@ Technical documentation：[https://github.com/motiontemplates/148294](https://gi
 
 Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.
 
-#875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
+#875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.2-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
