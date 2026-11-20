@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**155 templates · 1 preview projects · 157 demos**
+**164 templates · 1 preview projects · 166 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-155 templates · 1 preview projects · 157 demos
+164 templates · 1 preview projects · 166 demos
 
-155 templates, 157 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+164 templates, 166 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -2025,13 +2025,13 @@ Download .motion from MotionGit：[https://motiongit.com/@fangcs/name-plaque-car
 
 ### 154. 片尾关注卡
 
-<a href="https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg"><img src="https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg" alt="片尾关注卡 · Landscape" width="640"></a>
+<a href="https://media.openaicut.com/covers/1221/1.1.0-89134b4393cf.jpg"><img src="https://media.openaicut.com/covers/1221/1.1.0-89134b4393cf.jpg" alt="片尾关注卡 · Landscape" width="360"></a>
 
 3 秒方形（1:1）片尾关注卡：圆环描出、品牌名上浮、胶囊 CTA 回弹落下；彗星光点持续公转、按钮轻呼吸、胶囊周期泛光。适合方形/竖屏视频结尾关注引导，也可叠加横屏片尾留白区，透明背景可叠加任意画面。
 
-#844614 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+#844614 · Landscape · 1:1 · 1080 × 1080 · 30 FPS · v1.1.0
 
-Demo video：[https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4](https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4)
+Demo video：[https://media.openaicut.com/previews/1221/1.1.0-bcba34d19003.mp4](https://media.openaicut.com/previews/1221/1.1.0-bcba34d19003.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/end-card-cta](https://motiongit.com/@fangcs/end-card-cta)
 
@@ -2070,6 +2070,116 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/neon-rain-nigh
 Demo video：[https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4](https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/tech-city-wireframe](https://motiongit.com/@nxxxxxx/tech-city-wireframe)
+
+### 158. 霓虹雨城 Neon Rain City
+
+<a href="https://media.openaicut.com/covers/1225/1.0.0-b3ec6c8497ed.jpg"><img src="https://media.openaicut.com/covers/1225/1.0.0-b3ec6c8497ed.jpg" alt="霓虹雨城 Neon Rain City · Landscape" width="640"></a>
+
+12 秒雨夜科技都市氛围片：无人机穿过高密度楼群、湿沥青大道与积水倒影，青色描边 + 金色内透 + 雨丝 + Bloom 的冷调赛博影像。
+
+#463716 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1225/1.0.0-a9598b19de45.mp4](https://media.openaicut.com/previews/1225/1.0.0-a9598b19de45.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/neon-rain-city](https://motiongit.com/@nxxxxxx/neon-rain-city)
+
+### 159. 手作粗陶杯 · 暖系手作产品片
+
+<a href="https://media.openaicut.com/covers/1226/draft-zh-868dea1ae6c3.jpg"><img src="https://media.openaicut.com/covers/1226/draft-zh-868dea1ae6c3.jpg" alt="手作粗陶杯 · 暖系手作产品片 · Portrait" width="202"></a>
+
+30 秒竖屏 9:16 暖系手作产品片。一团泥经一双手慢慢成型，按「泥→型→痕→器→用」十二镜推进：微距推近与缓速横移、上移讲解字幕与暖光落款。文案、图片、口播均可替换，适合手作陶器、木器、织物、餐厨器物等慢手艺类社媒短片。
+
+#123873 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1226/draft-zh-06b938d29272.mp4](https://media.openaicut.com/previews/1226/draft-zh-06b938d29272.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/handmade-ceramic-vessel](https://motiongit.com/@nxxxxxx/handmade-ceramic-vessel)
+
+### 160. PulseFit 运动手环 · 横版产品宣发
+
+<a href="https://media.openaicut.com/covers/1227/draft-zh-a62842a129f6.jpg"><img src="https://media.openaicut.com/covers/1227/draft-zh-a62842a129f6.jpg" alt="PulseFit 运动手环 · 横版产品宣发 · Landscape" width="640"></a>
+
+PulseFit 运动手环 · 横版产品宣发
+
+#838852 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo video：[https://media.openaicut.com/previews/1227/draft-zh-35e3500915d2.mp4](https://media.openaicut.com/previews/1227/draft-zh-35e3500915d2.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/pulsefit-promo-landscape](https://motiongit.com/@nxxxxxx/pulsefit-promo-landscape)
+
+### 161. 电路城 Circuit City
+
+<a href="https://media.openaicut.com/covers/1231/1.0.0-zh-0479c24a4e95.jpg"><img src="https://media.openaicut.com/covers/1231/1.0.0-zh-0479c24a4e95.jpg" alt="电路城 Circuit City · Landscape" width="640"></a>
+
+一镜到底的赛博电路城：相机从城外贴地高速冲入，楼群随飞行由地面生长，穿越三件悬浮数码产品各做一次 180° 半环绕，最后沿街心拉升回望城市，上空浮现品牌字标。
+
+#453519 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1231/1.0.0-zh-08a114c4a3aa.mp4](https://media.openaicut.com/previews/1231/1.0.0-zh-08a114c4a3aa.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/circuit-city](https://motiongit.com/@nxxxxxx/circuit-city)
+
+### 162. 3D Product Stage · Swappable Products
+
+<a href="https://media.openaicut.com/covers/1232/1.0.0-71b791ac1b9b.jpg"><img src="https://media.openaicut.com/covers/1232/1.0.0-71b791ac1b9b.jpg" alt="3D Product Stage · Swappable Products · Landscape" width="640"></a>
+
+3D Product Stage · Swappable Products
+
+#494943 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1232/1.0.0-7c15e6f43db7.mp4](https://media.openaicut.com/previews/1232/1.0.0-7c15e6f43db7.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/product-stage-3d](https://motiongit.com/@nxxxxxx/product-stage-3d)
+
+Technical documentation：[https://github.com/motiontemplates/494943](https://github.com/motiontemplates/494943)
+
+### 163. 真人分析
+
+<a href="https://media.openaicut.com/covers/1233/1.0.0-56a66ed3cd9d.jpg"><img src="https://media.openaicut.com/covers/1233/1.0.0-56a66ed3cd9d.jpg" alt="真人分析 · Landscape" width="640"></a>
+
+横屏真人分析与课堂复盘。以真人原声为主，按台词调入近景、同屏讲解、原表演示、静音补镜、反应贴纸与片尾提问。
+
+#574943 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1233/1.0.0-f49d0f4fa25b.mp4](https://media.openaicut.com/previews/1233/1.0.0-f49d0f4fa25b.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@pudgedog2018/real-person-analysis](https://motiongit.com/@pudgedog2018/real-person-analysis)
+
+### 164. 潮玩风运动鞋产品宣传模板（竖屏 30s）
+
+<a href="https://media.openaicut.com/covers/1234/1.0.0-793ad6801a67.jpg"><img src="https://media.openaicut.com/covers/1234/1.0.0-793ad6801a67.jpg" alt="潮玩风运动鞋产品宣传模板（竖屏 30s） · Portrait" width="202"></a>
+
+竖屏 9:16 潮玩撞色风运动鞋产品宣传短片，13 镜快切：开场主视觉、卖点贴纸、细节特写、配色展示、片尾 CTA。产品图、品牌 Logo、各镜文案与配色圆点均可在集中参数处独立替换，改参即可换片，无需改动动效代码。
+
+#508245 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1234/1.0.0-f38a9e0efb54.mp4](https://media.openaicut.com/previews/1234/1.0.0-f38a9e0efb54.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/sneaker-promo-toy-mg](https://motiongit.com/@nxxxxxx/sneaker-promo-toy-mg)
+
+### 165. 浅蓝口播对照11.20
+
+<a href="https://media.openaicut.com/covers/1235/1.0.0-e42207c6536e.jpg"><img src="https://media.openaicut.com/covers/1235/1.0.0-e42207c6536e.jpg" alt="浅蓝口播对照11.20 · Portrait" width="202"></a>
+
+浅蓝竖屏口播包装，把一个问题、两种做法、场景变化、逐项影响和一句建议串起来。
+
+#507012 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1235/1.0.0-963ce9e71eb8.mp4](https://media.openaicut.com/previews/1235/1.0.0-963ce9e71eb8.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@liuyue/light-blue-talking-head](https://motiongit.com/@liuyue/light-blue-talking-head)
+
+### 166. 拍摄手记：幕后到成片
+
+<a href="https://media.openaicut.com/covers/1237/1.0.0-c45e9e505de8.jpg"><img src="https://media.openaicut.com/covers/1237/1.0.0-c45e9e505de8.jpg" alt="拍摄手记：幕后到成片 · Portrait" width="202"></a>
+
+用第一人称视角花絮和成片，组成的一条视频，记录了从幕后到成片的一个过程
+
+#946818 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4](https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@webbFu/photo-diary-reveal](https://motiongit.com/@webbFu/photo-diary-reveal)
 
 ## How to use
 

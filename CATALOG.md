@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-155 个模板 · 1 个测试项目 · 157 个 Demo
+164 个模板 · 1 个测试项目 · 166 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-155 个模板，157 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+164 个模板，166 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2006,13 +2006,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6
 
 ### 154. 片尾关注卡
 
-![片尾关注卡 · 横屏](https://media.openaicut.com/covers/1221/1.0.0-zh-a042dfa1f760.jpg)
+![片尾关注卡 · 横屏](https://media.openaicut.com/covers/1221/1.1.0-zh-6b1547f2b51c.jpg)
 
 3 秒方形（1:1）片尾关注卡：圆环描出、品牌名上浮、胶囊 CTA 回弹落下；彗星光点持续公转、按钮轻呼吸、胶囊周期泛光。适合方形/竖屏视频结尾关注引导，也可叠加横屏片尾留白区，透明背景可叠加任意画面。
 
-#844614 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+#844614 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.1.0
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4](https://media.openaicut.com/previews/1221/1.0.0-zh-59ef6808d1b0.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1221/1.1.0-zh-ab2440c9c7e9.mp4](https://media.openaicut.com/previews/1221/1.1.0-zh-ab2440c9c7e9.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/end-card-cta](https://motiongit.com/@fangcs/end-card-cta)
 
@@ -2051,6 +2051,116 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1223/1.0.0-f07c30491b45.
 Demo 视频：[▶ https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4](https://media.openaicut.com/previews/1224/draft-5c517fee9e57.mp4)
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/tech-city-wireframe](https://motiongit.com/@nxxxxxx/tech-city-wireframe)
+
+### 158. 霓虹雨城 Neon Rain City
+
+![霓虹雨城 Neon Rain City · 横屏](https://media.openaicut.com/covers/1225/1.0.0-b3ec6c8497ed.jpg)
+
+12 秒雨夜科技都市氛围片：无人机穿过高密度楼群、湿沥青大道与积水倒影，青色描边 + 金色内透 + 雨丝 + Bloom 的冷调赛博影像。
+
+#463716 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1225/1.0.0-a9598b19de45.mp4](https://media.openaicut.com/previews/1225/1.0.0-a9598b19de45.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/neon-rain-city](https://motiongit.com/@nxxxxxx/neon-rain-city)
+
+### 159. 手作粗陶杯 · 暖系手作产品片
+
+![手作粗陶杯 · 暖系手作产品片 · 竖屏](https://media.openaicut.com/covers/1226/draft-zh-868dea1ae6c3.jpg)
+
+30 秒竖屏 9:16 暖系手作产品片。一团泥经一双手慢慢成型，按「泥→型→痕→器→用」十二镜推进：微距推近与缓速横移、上移讲解字幕与暖光落款。文案、图片、口播均可替换，适合手作陶器、木器、织物、餐厨器物等慢手艺类社媒短片。
+
+#123873 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1226/draft-zh-06b938d29272.mp4](https://media.openaicut.com/previews/1226/draft-zh-06b938d29272.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/handmade-ceramic-vessel](https://motiongit.com/@nxxxxxx/handmade-ceramic-vessel)
+
+### 160. PulseFit 运动手环 · 横版产品宣发
+
+![PulseFit 运动手环 · 横版产品宣发 · 横屏](https://media.openaicut.com/covers/1227/draft-zh-a62842a129f6.jpg)
+
+PulseFit 运动手环 · 横版产品宣发
+
+#838852 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1227/draft-zh-35e3500915d2.mp4](https://media.openaicut.com/previews/1227/draft-zh-35e3500915d2.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/pulsefit-promo-landscape](https://motiongit.com/@nxxxxxx/pulsefit-promo-landscape)
+
+### 161. 电路城 Circuit City
+
+![电路城 Circuit City · 横屏](https://media.openaicut.com/covers/1231/1.0.0-zh-0479c24a4e95.jpg)
+
+一镜到底的赛博电路城：相机从城外贴地高速冲入，楼群随飞行由地面生长，穿越三件悬浮数码产品各做一次 180° 半环绕，最后沿街心拉升回望城市，上空浮现品牌字标。
+
+#453519 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1231/1.0.0-zh-08a114c4a3aa.mp4](https://media.openaicut.com/previews/1231/1.0.0-zh-08a114c4a3aa.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/circuit-city](https://motiongit.com/@nxxxxxx/circuit-city)
+
+### 162. 3D 产品舞台 · 产品可替换 | Product Stage
+
+![3D 产品舞台 · 产品可替换 | Product Stage · 横屏](https://media.openaicut.com/covers/1232/1.0.0-71b791ac1b9b.jpg)
+
+3D 产品舞台 · 产品可替换 | Product Stage
+
+#494943 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1232/1.0.0-7c15e6f43db7.mp4](https://media.openaicut.com/previews/1232/1.0.0-7c15e6f43db7.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/product-stage-3d](https://motiongit.com/@nxxxxxx/product-stage-3d)
+
+技术资料：[https://github.com/motiontemplates/494943](https://github.com/motiontemplates/494943)
+
+### 163. 真人分析
+
+![真人分析 · 横屏](https://media.openaicut.com/covers/1233/1.0.0-zh-dbed7c7bf851.jpg)
+
+横屏真人分析与课堂复盘。以真人原声为主，按台词调入近景、同屏讲解、原表演示、静音补镜、反应贴纸与片尾提问。
+
+#574943 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1233/1.0.0-zh-6bf1c8257534.mp4](https://media.openaicut.com/previews/1233/1.0.0-zh-6bf1c8257534.mp4)
+
+官网下载 .motion：[https://motiongit.com/@pudgedog2018/real-person-analysis](https://motiongit.com/@pudgedog2018/real-person-analysis)
+
+### 164. 潮玩风运动鞋产品宣传模板（竖屏 30s）
+
+![潮玩风运动鞋产品宣传模板（竖屏 30s）](https://media.openaicut.com/covers/1234/1.0.0-793ad6801a67.jpg)
+
+竖屏 9:16 潮玩撞色风运动鞋产品宣传短片，13 镜快切：开场主视觉、卖点贴纸、细节特写、配色展示、片尾 CTA。产品图、品牌 Logo、各镜文案与配色圆点均可在集中参数处独立替换，改参即可换片，无需改动动效代码。
+
+#508245 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1234/1.0.0-f38a9e0efb54.mp4](https://media.openaicut.com/previews/1234/1.0.0-f38a9e0efb54.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/sneaker-promo-toy-mg](https://motiongit.com/@nxxxxxx/sneaker-promo-toy-mg)
+
+### 165. 浅蓝口播对照11.20
+
+![浅蓝口播对照11.20 · 竖屏](https://media.openaicut.com/covers/1235/1.0.0-e42207c6536e.jpg)
+
+浅蓝竖屏口播包装，把一个问题、两种做法、场景变化、逐项影响和一句建议串起来。
+
+#507012 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1235/1.0.0-963ce9e71eb8.mp4](https://media.openaicut.com/previews/1235/1.0.0-963ce9e71eb8.mp4)
+
+官网下载 .motion：[https://motiongit.com/@liuyue/light-blue-talking-head](https://motiongit.com/@liuyue/light-blue-talking-head)
+
+### 166. 拍摄手记：幕后到成片
+
+![拍摄手记：幕后到成片 · 竖屏](https://media.openaicut.com/covers/1237/1.0.0-c45e9e505de8.jpg)
+
+用第一人称视角花絮和成片，组成的一条视频，记录了从幕后到成片的一个过程
+
+#946818 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4](https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4)
+
+官网下载 .motion：[https://motiongit.com/@webbFu/photo-diary-reveal](https://motiongit.com/@webbFu/photo-diary-reveal)
 
 ## 使用教程
 
