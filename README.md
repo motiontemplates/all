@@ -911,13 +911,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/12m_love-dem
 
 ### 63. September
 
-<a href="https://media.openaicut.com/covers/986/2.2.4-716207baed0a.jpg"><img src="https://media.openaicut.com/covers/986/2.2.4-716207baed0a.jpg" alt="September · 横屏" width="640"></a>
+<a href="https://media.openaicut.com/covers/986/2.2.6-2050b8725fee.jpg"><img src="https://media.openaicut.com/covers/986/2.2.6-2050b8725fee.jpg" alt="September · 横屏" width="640"></a>
 
 一天或一趟旅行的手机/相机素材 + 用户自己讲的几句故事 → 约 100 秒（102–103 秒）、有故事线也有卡点的旅行 VLOG，横竖屏都行。
 
-#589709 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v2.2.4
+#589709 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v2.2.6
 
-Demo 视频：[▶ https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4](https://media.openaicut.com/previews/986/2.2.4-94f3897372b6.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/986/2.2.6-a4e600265558.mp4](https://media.openaicut.com/previews/986/2.2.6-a4e600265558.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/september](https://motiongit.com/@adunext/september)
 
