@@ -359,7 +359,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/camera-mode](h
 
 以自由画布、便签和协作式图文展示口播内容，适合自媒体观点与方法讲解。
 
-#576599 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.0-alpha.3
+#576599 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.0-alpha.4
 
 Demo video：[https://media.openaicut.com/previews/996/draft-zh-2b5d7fe19f2f.mp4](https://media.openaicut.com/previews/996/draft-zh-2b5d7fe19f2f.mp4)
 
