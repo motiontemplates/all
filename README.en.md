@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**164 templates · 1 preview projects · 166 demos**
+**167 templates · 1 preview projects · 169 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-164 templates · 1 preview projects · 166 demos
+167 templates · 1 preview projects · 169 demos
 
-164 templates, 166 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+167 templates, 169 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -1989,13 +1989,13 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/aurora-mug-pro
 
 ### 151. 水墨书法标题卡
 
-<a href="https://media.openaicut.com/covers/1216/1.0.2-zh-b36a4028dfb2.jpg"><img src="https://media.openaicut.com/covers/1216/1.0.2-zh-b36a4028dfb2.jpg" alt="水墨书法标题卡 · Landscape" width="640"></a>
+<a href="https://media.openaicut.com/covers/1216/1.0.3-e4f47a3da859.jpg"><img src="https://media.openaicut.com/covers/1216/1.0.3-e4f47a3da859.jpg" alt="水墨书法标题卡 · Landscape" width="640"></a>
 
 3 秒国风水墨书法标题片段：墨笔横扫入场、书法大字遮罩渐显、朱砂细线与随形印章落款，透明背景可直接叠加到任意画面，自带画卷展开式环境声。
 
-#112052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.2
+#112052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.3
 
-Demo video：[https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd546f.mp4](https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd546f.mp4)
+Demo video：[https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4](https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/ink-brush-title](https://motiongit.com/@fangcs/ink-brush-title)
 
@@ -2029,7 +2029,7 @@ Download .motion from MotionGit：[https://motiongit.com/@fangcs/name-plaque-car
 
 3 秒方形（1:1）片尾关注卡：圆环描出、品牌名上浮、胶囊 CTA 回弹落下；彗星光点持续公转、按钮轻呼吸、胶囊周期泛光。适合方形/竖屏视频结尾关注引导，也可叠加横屏片尾留白区，透明背景可叠加任意画面。
 
-#844614 · Landscape · 1:1 · 1080 × 1080 · 30 FPS · v1.1.0
+#844614 · Landscape · 1:1 · 1080 × 1080 · 30 FPS · v1.1.1
 
 Demo video：[https://media.openaicut.com/previews/1221/1.1.0-bcba34d19003.mp4](https://media.openaicut.com/previews/1221/1.1.0-bcba34d19003.mp4)
 
@@ -2180,6 +2180,42 @@ Download .motion from MotionGit：[https://motiongit.com/@liuyue/light-blue-talk
 Demo video：[https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4](https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@webbFu/photo-diary-reveal](https://motiongit.com/@webbFu/photo-diary-reveal)
+
+### 167. 潮玩盲盒角色宣传模板（竖屏 24s）
+
+<a href="https://media.openaicut.com/covers/1238/1.0.0-zh-cb895cea797e.jpg"><img src="https://media.openaicut.com/covers/1238/1.0.0-zh-cb895cea797e.jpg" alt="潮玩盲盒角色宣传模板（竖屏 24s） · Portrait" width="202"></a>
+
+活泼黏土玩具风潮玩盲盒角色阵容短片模板：12 镜 9:16 竖屏，马卡龙撞色加深可可描边。可替换品牌名、Logo、四个角色图与名称、强调色、落版系列名、按钮文案与 slogan。
+
+#454400 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1238/1.0.0-zh-49cd287197dc.mp4](https://media.openaicut.com/previews/1238/1.0.0-zh-49cd287197dc.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/blind-box-cute-club-mg](https://motiongit.com/@nxxxxxx/blind-box-cute-club-mg)
+
+### 168. 机械键盘霓虹工业风宣传模板（横屏 16s）
+
+<a href="https://media.openaicut.com/covers/1239/1.0.0-zh-10a9ace60932.jpg"><img src="https://media.openaicut.com/covers/1239/1.0.0-zh-10a9ace60932.jpg" alt="机械键盘霓虹工业风宣传模板（横屏 16s） · Landscape" width="640"></a>
+
+暗色科技霓虹切光机械键盘产品宣传模板：5 镜 16:9 横屏，整板浮现、斜侧推近、轴体拆解、敲击回弹与落版 CTA。可替换品牌名、Logo、主/次强调色、系列名、按钮文案与 slogan。
+
+#481428 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1239/1.0.0-zh-150630d18f1c.mp4](https://media.openaicut.com/previews/1239/1.0.0-zh-150630d18f1c.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/mechanical-keyboard-neon-mg](https://motiongit.com/@nxxxxxx/mechanical-keyboard-neon-mg)
+
+### 169. 时光碎片 · 回忆画廊
+
+<a href="https://media.openaicut.com/covers/1241/1.0.0-zh-49b71ca42772.jpg"><img src="https://media.openaicut.com/covers/1241/1.0.0-zh-49b71ca42772.jpg" alt="时光碎片 · 回忆画廊 · Landscape" width="640"></a>
+
+35mm 胶片与撕纸拼贴质感的 30 秒回忆画廊：14 个镜头串起旧照片、车窗外、海浪、雨夜与十月，53 个图片位、3 段视频和全套文案都可替换。
+
+#948462 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4](https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/time-fragments-gallery](https://motiongit.com/@nxxxxxx/time-fragments-gallery)
 
 ## How to use
 

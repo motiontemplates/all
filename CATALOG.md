@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-164 个模板 · 1 个测试项目 · 166 个 Demo
+167 个模板 · 1 个测试项目 · 169 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-164 个模板，166 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+167 个模板，169 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -1974,7 +1974,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1215/1.0.0-zh-baeb87c57b
 
 3 秒国风水墨书法标题片段：墨笔横扫入场、书法大字遮罩渐显、朱砂细线与随形印章落款，透明背景可直接叠加到任意画面，自带画卷展开式环境声。
 
-#112052 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.2
+#112052 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd546f.mp4](https://media.openaicut.com/previews/1216/1.0.2-zh-676005cd546f.mp4)
 
@@ -2010,7 +2010,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1219/1.0.0-zh-696d0835d6
 
 3 秒方形（1:1）片尾关注卡：圆环描出、品牌名上浮、胶囊 CTA 回弹落下；彗星光点持续公转、按钮轻呼吸、胶囊周期泛光。适合方形/竖屏视频结尾关注引导，也可叠加横屏片尾留白区，透明背景可叠加任意画面。
 
-#844614 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.1.0
+#844614 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.1.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/1221/1.1.0-zh-ab2440c9c7e9.mp4](https://media.openaicut.com/previews/1221/1.1.0-zh-ab2440c9c7e9.mp4)
 
@@ -2161,6 +2161,42 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1235/1.0.0-963ce9e71eb8.
 Demo 视频：[▶ https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4](https://media.openaicut.com/previews/1237/1.0.0-ddf24825bb2d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@webbFu/photo-diary-reveal](https://motiongit.com/@webbFu/photo-diary-reveal)
+
+### 167. 潮玩盲盒角色宣传模板（竖屏 24s）
+
+![潮玩盲盒角色宣传模板（竖屏 24s）](https://media.openaicut.com/covers/1238/1.0.0-zh-cb895cea797e.jpg)
+
+活泼黏土玩具风潮玩盲盒角色阵容短片模板：12 镜 9:16 竖屏，马卡龙撞色加深可可描边。可替换品牌名、Logo、四个角色图与名称、强调色、落版系列名、按钮文案与 slogan。
+
+#454400 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1238/1.0.0-zh-49cd287197dc.mp4](https://media.openaicut.com/previews/1238/1.0.0-zh-49cd287197dc.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/blind-box-cute-club-mg](https://motiongit.com/@nxxxxxx/blind-box-cute-club-mg)
+
+### 168. 机械键盘霓虹工业风宣传模板（横屏 16s）
+
+![机械键盘霓虹工业风宣传模板（横屏 16s）](https://media.openaicut.com/covers/1239/1.0.0-zh-10a9ace60932.jpg)
+
+暗色科技霓虹切光机械键盘产品宣传模板：5 镜 16:9 横屏，整板浮现、斜侧推近、轴体拆解、敲击回弹与落版 CTA。可替换品牌名、Logo、主/次强调色、系列名、按钮文案与 slogan。
+
+#481428 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1239/1.0.0-zh-150630d18f1c.mp4](https://media.openaicut.com/previews/1239/1.0.0-zh-150630d18f1c.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/mechanical-keyboard-neon-mg](https://motiongit.com/@nxxxxxx/mechanical-keyboard-neon-mg)
+
+### 169. 时光碎片 · 回忆画廊
+
+![时光碎片 · 回忆画廊 · 横屏](https://media.openaicut.com/covers/1241/1.0.0-zh-49b71ca42772.jpg)
+
+35mm 胶片与撕纸拼贴质感的 30 秒回忆画廊：14 个镜头串起旧照片、车窗外、海浪、雨夜与十月，53 个图片位、3 段视频和全套文案都可替换。
+
+#948462 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4](https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/time-fragments-gallery](https://motiongit.com/@nxxxxxx/time-fragments-gallery)
 
 ## 使用教程
 
