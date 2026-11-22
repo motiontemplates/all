@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**167 templates · 1 preview projects · 169 demos**
+**172 templates · 1 preview projects · 174 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-167 templates · 1 preview projects · 169 demos
+172 templates · 1 preview projects · 174 demos
 
-167 templates, 169 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+172 templates, 174 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -2216,6 +2216,66 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/mechanical-key
 Demo video：[https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4](https://media.openaicut.com/previews/1241/1.0.0-zh-97548371f11a.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/time-fragments-gallery](https://motiongit.com/@nxxxxxx/time-fragments-gallery)
+
+### 170. 器形 · 多屏拼贴数码产品
+
+<a href="https://media.openaicut.com/covers/1242/1.0.1-zh-a0ce626056c7.jpg"><img src="https://media.openaicut.com/covers/1242/1.0.1-zh-a0ce626056c7.jpg" alt="器形 · 多屏拼贴数码产品 · Landscape" width="640"></a>
+
+深石墨舞台上的 45 秒数码产品片：包豪斯巨字网格、孟菲斯碎形撞色、低多边形线框与粒子流体，23 个可组合镜头，斜切分屏、圆形产品窗、叠卡、八件产品环绕轨道与三个实拍视频窗。可替换标题、短词、副标题与 23 条中文字幕，替换产品图即可复用。
+
+#600322 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo video：[https://media.openaicut.com/previews/1242/1.0.1-zh-2f2e41083621.mp4](https://media.openaicut.com/previews/1242/1.0.1-zh-2f2e41083621.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/qixing-objects-in-geometry](https://motiongit.com/@nxxxxxx/qixing-objects-in-geometry)
+
+### 171. PIGMENT ROOM / 颜料室 · 护肤彩妆概念片
+
+<a href="https://media.openaicut.com/covers/1243/1.0.1-9ce419507871.jpg"><img src="https://media.openaicut.com/covers/1243/1.0.1-9ce419507871.jpg" alt="PIGMENT ROOM / 颜料室 · 护肤彩妆概念片 · Portrait" width="202"></a>
+
+PIGMENT ROOM / 颜料室 · 护肤彩妆概念片
+
+#953747 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.1
+
+Demo video：[https://media.openaicut.com/previews/1243/1.0.1-d4adeaaa6ab5.mp4](https://media.openaicut.com/previews/1243/1.0.1-d4adeaaa6ab5.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/pigment-room](https://motiongit.com/@nxxxxxx/pigment-room)
+
+### 172. 鞋履档案 · 多屏拼贴 30s
+
+<a href="https://media.openaicut.com/covers/1244/1.0.0-9c208798f521.jpg"><img src="https://media.openaicut.com/covers/1244/1.0.0-9c208798f521.jpg" alt="鞋履档案 · 多屏拼贴 30s · Landscape" width="640"></a>
+
+30 秒 1920×1080 多屏拼贴模板：10 个镜头把同一品类的 6 个世代编号排成一条路，包豪斯几何色块、孟菲斯斜纹与描边、波普高对比图墙、厚涂撕边照片与实拍视频窗交替。只替换主标题、英文副标题与十条字幕，即可换成任意鞋款或产品线。
+
+#607644 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1244/1.0.0-46d889e20b72.mp4](https://media.openaicut.com/previews/1244/1.0.0-46d889e20b72.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/soles-archive-collage](https://motiongit.com/@nxxxxxx/soles-archive-collage)
+
+### 173. 棱镜脉冲 / PRISM PULSE
+
+<a href="https://media.openaicut.com/covers/1245/1.0.0-zh-2a7da7d8568f.jpg"><img src="https://media.openaicut.com/covers/1245/1.0.0-zh-2a7da7d8568f.jpg" alt="棱镜脉冲 / PRISM PULSE · Landscape" width="640"></a>
+
+45 秒横屏数码产品合集：多屏拼贴、包豪斯巨字、蒸汽波落日、赛博网格、低多边形线框、MG 动效和粒子流体。20 个镜头覆盖 8 类产品，每类一组产品镜 + 细节镜。
+
+#1245 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1245/1.0.0-zh-4466aa391590.mp4](https://media.openaicut.com/previews/1245/1.0.0-zh-4466aa391590.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/prism-pulse](https://motiongit.com/@nxxxxxx/prism-pulse)
+
+### 174. 背包档案 · 多屏拼贴 30s
+
+<a href="https://media.openaicut.com/covers/1246/1.0.0-zh-2475d7dddfd7.jpg"><img src="https://media.openaicut.com/covers/1246/1.0.0-zh-2475d7dddfd7.jpg" alt="背包档案 · 多屏拼贴 30s · Landscape" width="640"></a>
+
+10 镜 30s 横版产品档案片：包豪斯几何 + 孟菲斯碎屑 + 波普半调 + 粗野主义硬边，全部镜头由 step() 硬跳驱动，标题、档案条目与数据均可替换。
+
+#554700 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4](https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/backpack-archive-collage](https://motiongit.com/@nxxxxxx/backpack-archive-collage)
 
 ## How to use
 
