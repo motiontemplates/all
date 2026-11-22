@@ -905,6 +905,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/12m_love-dem
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
 
+技术资料：[https://github.com/motiontemplates/926144](https://github.com/motiontemplates/926144)
+
 ## 生活与叙事
 
 ### 63. September

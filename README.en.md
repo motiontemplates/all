@@ -905,6 +905,8 @@ Demo video：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
 
+Technical documentation：[https://github.com/motiontemplates/926144](https://github.com/motiontemplates/926144)
+
 ## Life & stories
 
 ### 63. September
