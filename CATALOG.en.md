@@ -1970,13 +1970,13 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/aurora-mug-pro
 
 ### 151. 水墨书法标题卡
 
-![水墨书法标题卡 · Landscape](https://media.openaicut.com/covers/1216/1.0.3-e4f47a3da859.jpg)
+![水墨书法标题卡 · Landscape](https://media.openaicut.com/covers/1216/1.0.4-55dc51dfabb2.jpg)
 
 3 秒国风水墨书法标题片段：墨笔横扫入场、书法大字遮罩渐显、朱砂细线与随形印章落款，透明背景可直接叠加到任意画面，自带画卷展开式环境声。
 
 #112052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.4
 
-Demo video：[https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4](https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4)
+Demo video：[https://media.openaicut.com/previews/1216/1.0.4-a0e3b58fcb4f.mp4](https://media.openaicut.com/previews/1216/1.0.4-a0e3b58fcb4f.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@fangcs/ink-brush-title](https://motiongit.com/@fangcs/ink-brush-title)
 

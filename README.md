@@ -1989,13 +1989,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1215/1.0.0-zh-baeb87c57b
 
 ### 151. 水墨书法标题卡
 
-<a href="https://media.openaicut.com/covers/1216/1.0.4-zh-12162045a0f0.jpg"><img src="https://media.openaicut.com/covers/1216/1.0.4-zh-12162045a0f0.jpg" alt="水墨书法标题卡 · 横屏" width="640"></a>
+<a href="https://media.openaicut.com/covers/1216/1.0.4-zh-6edcbe1a2f44.jpg"><img src="https://media.openaicut.com/covers/1216/1.0.4-zh-6edcbe1a2f44.jpg" alt="水墨书法标题卡 · 横屏" width="640"></a>
 
 3 秒国风水墨书法标题片段：墨笔横扫入场、书法大字遮罩渐显、朱砂细线与随形印章落款，透明背景可直接叠加到任意画面，自带画卷展开式环境声。
 
 #112052 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.4
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1216/1.0.4-zh-45cd3fb2aafc.mp4](https://media.openaicut.com/previews/1216/1.0.4-zh-45cd3fb2aafc.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1216/1.0.4-zh-46d64f694389.mp4](https://media.openaicut.com/previews/1216/1.0.4-zh-46d64f694389.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/ink-brush-title](https://motiongit.com/@fangcs/ink-brush-title)
 
