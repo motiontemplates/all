@@ -747,7 +747,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a3
 
 户型 · 采光 · 通勤 · 价格 四张图。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#527696 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#527696 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4](https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4)
 
@@ -761,7 +761,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/01m_house-de
 
 收益 · 回撤 · 时间。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#262246 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#262246 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4](https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4)
 
@@ -775,13 +775,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/02m_finance-
 
 攒证据 · 选途径 · 盯时效。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#198702 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#198702 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4](https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-law-wage-claim](https://motiongit.com/@adunext/industry-law-wage-claim)
-
-技术资料：[https://github.com/motiontemplates/198702](https://github.com/motiontemplates/198702)
 
 ### 54. 医疗健康 · 看懂化验单
 
@@ -789,7 +787,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/03m_law-demo
 
 数值 · 风险 · 日常。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#219571 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#219571 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4](https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4)
 
@@ -803,7 +801,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/04m_health-d
 
 假设法 · 抬脚法 · 列方程。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#958774 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#958774 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4](https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4)
 
@@ -817,7 +815,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/05m_edu-demo
 
 保温 · 密封 · 材质 · 价格。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#318803 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#318803 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4](https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4)
 
@@ -831,7 +829,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/06m_shop-dem
 
 成分表 · 浓度 · 怎么用。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#679890 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#679890 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4](https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4)
 
@@ -845,7 +843,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/07m_beauty-d
 
 排队 · 价格 · 味道 · 环境。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#615613 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#615613 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4](https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4)
 
@@ -857,7 +855,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/08m_food-dem
 
 能源 · 保养 · 保险 · 残值。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#479134 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#479134 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4](https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4)
 
@@ -871,7 +869,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/09m_car-demo
 
 性能 · 电池 · 系统 · 算账。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#163978 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#163978 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4](https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4)
 
@@ -885,13 +883,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/10m_tech-dem
 
 为什么听不懂 · 一个结构 · 三个场景。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#731728 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#731728 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4](https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-work-three-line-report](https://motiongit.com/@adunext/industry-work-three-line-report)
-
-技术资料：[https://github.com/motiontemplates/731728](https://github.com/motiontemplates/731728)
 
 ### 62. 情感 · 对话复盘
 
@@ -899,13 +895,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/11m_work-dem
 
 看数据 · 辨信号 · 学会问。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#926144 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.2
+#926144 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4](https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
-
-技术资料：[https://github.com/motiontemplates/926144](https://github.com/motiontemplates/926144)
 
 ## 生活与叙事
 
