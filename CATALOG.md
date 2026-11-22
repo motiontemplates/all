@@ -264,7 +264,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 
 字符角色、作品墙与剧场式动画。内测版，新文案适配仍在完善。
 
-#148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
+#148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 

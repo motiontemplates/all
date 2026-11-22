@@ -283,7 +283,7 @@ Technical documentation：[https://github.com/motiontemplates/178707](https://gi
 
 Text characters, a work gallery and theatrical animation. Beta: adaptation to new scripts is still being improved.
 
-#148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.1
+#148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
