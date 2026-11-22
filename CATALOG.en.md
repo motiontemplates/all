@@ -474,7 +474,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Keep steps, keywords and revisions in one dot-grid notebook. For methods and learning reviews, with icon and diagram guidance. The page shows an early 19.95-second style sample.
 
-#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.2
+#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.4
 
 Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -728,7 +728,7 @@ Technical documentation：[https://github.com/motiontemplates/551805](https://gi
 
 Layout · Light · Commute · Price. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#527696 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#527696 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4](https://media.openaicut.com/previews/industry-v7/01m_house-demo-4f74cf3b94f742ca.mp4)
 
@@ -742,7 +742,7 @@ Technical documentation：[https://github.com/motiontemplates/527696](https://gi
 
 Returns · Drawdown · Time. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#262246 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#262246 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4](https://media.openaicut.com/previews/industry-v7/02m_finance-demo-ef26c7e5bb85c420.mp4)
 
@@ -756,7 +756,7 @@ Technical documentation：[https://github.com/motiontemplates/262246](https://gi
 
 Collect evidence · Explore options · Check deadlines. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#198702 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#198702 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4](https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700935c6a63e90b.mp4)
 
@@ -770,7 +770,7 @@ Technical documentation：[https://github.com/motiontemplates/198702](https://gi
 
 Numbers · Risk · Daily habits. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#219571 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#219571 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4](https://media.openaicut.com/previews/industry-v7/04m_health-demo-8b584aca37a6b2cf.mp4)
 
@@ -784,7 +784,7 @@ Technical documentation：[https://github.com/motiontemplates/219571](https://gi
 
 Assumptions · Visual reasoning · Equations. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#958774 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#958774 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4](https://media.openaicut.com/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4)
 
@@ -798,7 +798,7 @@ Technical documentation：[https://github.com/motiontemplates/958774](https://gi
 
 Insulation · Seal · Material · Price. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#318803 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#318803 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4](https://media.openaicut.com/previews/industry-v7/06m_shop-demo-720dbe6eb802f498.mp4)
 
@@ -812,7 +812,7 @@ Technical documentation：[https://github.com/motiontemplates/318803](https://gi
 
 Ingredients · Concentration · Use. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#679890 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#679890 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4](https://media.openaicut.com/previews/industry-v7/07m_beauty-demo-c648791dc9fbea97.mp4)
 
@@ -826,7 +826,7 @@ Technical documentation：[https://github.com/motiontemplates/679890](https://gi
 
 Queue · Price · Taste · Atmosphere. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#615613 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#615613 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4](https://media.openaicut.com/previews/industry-v7/08m_food-demo-ee6b62330cc0c559.mp4)
 
@@ -838,7 +838,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/industry-food-
 
 Energy · Maintenance · Insurance · Resale. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#479134 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#479134 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4](https://media.openaicut.com/previews/industry-v7/09m_car-demo-c26fd0966dd10ea9.mp4)
 
@@ -852,7 +852,7 @@ Technical documentation：[https://github.com/motiontemplates/479134](https://gi
 
 Performance · Battery · System · Cost. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#163978 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#163978 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4](https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4)
 
@@ -866,7 +866,7 @@ Technical documentation：[https://github.com/motiontemplates/163978](https://gi
 
 Find the point · Build a structure · Apply it. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#731728 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#731728 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4](https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8ee1e5c0ef39a36.mp4)
 
@@ -880,7 +880,7 @@ Technical documentation：[https://github.com/motiontemplates/731728](https://gi
 
 Observe patterns · Interpret signals · Ask clearly. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#926144 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.3
+#926144 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4](https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4)
 
