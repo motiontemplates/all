@@ -762,6 +762,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/03m_law-demo
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-law-wage-claim](https://motiongit.com/@adunext/industry-law-wage-claim)
 
+技术资料：[https://github.com/motiontemplates/198702](https://github.com/motiontemplates/198702)
+
 ### 54. 医疗健康 · 看懂化验单
 
 ![医疗健康 · 看懂化验单 · 竖屏](https://media.openaicut.com/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg)
@@ -870,6 +872,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/11m_work-dem
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-work-three-line-report](https://motiongit.com/@adunext/industry-work-three-line-report)
 
+技术资料：[https://github.com/motiontemplates/731728](https://github.com/motiontemplates/731728)
+
 ### 62. 情感 · 对话复盘
 
 ![情感 · 对话复盘 · 竖屏](https://media.openaicut.com/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg)
@@ -881,6 +885,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/11m_work-dem
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4](https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
+
+技术资料：[https://github.com/motiontemplates/926144](https://github.com/motiontemplates/926144)
 
 ## 生活与叙事
 

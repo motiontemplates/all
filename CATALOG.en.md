@@ -762,6 +762,8 @@ Demo video：[https://media.openaicut.com/previews/industry-v7/03m_law-demo-1700
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/industry-law-wage-claim](https://motiongit.com/@adunext/industry-law-wage-claim)
 
+Technical documentation：[https://github.com/motiontemplates/198702](https://github.com/motiontemplates/198702)
+
 ### 54. Health education · Reading lab reports
 
 ![Health education · Reading lab reports · Portrait](https://media.openaicut.com/covers/industry-v7/04m_health-cover-bc05b335642eac54.jpg)
@@ -870,6 +872,8 @@ Demo video：[https://media.openaicut.com/previews/industry-v7/11m_work-demo-b8e
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/industry-work-three-line-report](https://motiongit.com/@adunext/industry-work-three-line-report)
 
+Technical documentation：[https://github.com/motiontemplates/731728](https://github.com/motiontemplates/731728)
+
 ### 62. Relationships · Reviewing a conversation
 
 ![Relationships · Reviewing a conversation · Portrait](https://media.openaicut.com/covers/industry-v7/12m_love-cover-bc04a5a474970c74.jpg)
@@ -881,6 +885,8 @@ Observe patterns · Interpret signals · Ask clearly. Prelaunch portrait talking
 Demo video：[https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4](https://media.openaicut.com/previews/industry-v7/12m_love-demo-34d2434898ca0e2f.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/industry-relationships-conversation-review](https://motiongit.com/@adunext/industry-relationships-conversation-review)
+
+Technical documentation：[https://github.com/motiontemplates/926144](https://github.com/motiontemplates/926144)
 
 ## Life & stories
 
