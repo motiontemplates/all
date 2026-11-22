@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**172 templates · 1 preview projects · 174 demos**
+**174 templates · 1 preview projects · 176 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-172 templates · 1 preview projects · 174 demos
+174 templates · 1 preview projects · 176 demos
 
-172 templates, 174 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+174 templates, 176 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -267,7 +267,7 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 <a href="https://media.openaicut.com/covers/896/draft-zh-72bb9b863ff8.jpg"><img src="https://media.openaicut.com/covers/896/draft-zh-72bb9b863ff8.jpg" alt="Beyond the Frame · Portrait" width="270"></a>
 
-Paper frames, frame-breaking transitions and playful hidden details. Beta: adaptation to new scripts is still being improved.
+纸面画框、破框转场与彩蛋动效。内测版，新文案适配仍在完善。
 
 #178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.3-alpha.1
 
@@ -281,7 +281,7 @@ Technical documentation：[https://github.com/motiontemplates/178707](https://gi
 
 <a href="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg"><img src="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg" alt="Character Theater · Landscape" width="640"></a>
 
-Text characters, a work gallery and theatrical animation. Beta: adaptation to new scripts is still being improved.
+字符角色、作品墙与剧场式动画。内测版，新文案适配仍在完善。
 
 #148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-alpha.2
 
@@ -295,7 +295,7 @@ Technical documentation：[https://github.com/motiontemplates/148294](https://gi
 
 <a href="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg"><img src="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg" alt="Hand-Drawn Cartoon Explainer · Landscape" width="640"></a>
 
-Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.
+手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。
 
 #875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.2-alpha.1
 
@@ -2276,6 +2276,30 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/prism-pulse](h
 Demo video：[https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4](https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/backpack-archive-collage](https://motiongit.com/@nxxxxxx/backpack-archive-collage)
+
+### 175. 高光时刻 · 获奖短片包装
+
+<a href="https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg"><img src="https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg" alt="高光时刻 · 获奖短片包装 · Portrait" width="202"></a>
+
+为竖屏获奖记录叠加原声颁奖名牌与照片片尾。
+
+#504672 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.mp4](https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@gzlbb/award-highlight-kit](https://motiongit.com/@gzlbb/award-highlight-kit)
+
+### 176. 三口充电头 · 多屏拼贴 30s
+
+<a href="https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg"><img src="https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg" alt="三口充电头 · 多屏拼贴 30s · Landscape" width="640"></a>
+
+30 秒横版多屏拼贴：包豪斯网格 + 孟菲斯碎形 + 波普高饱和，深蓝底与电青/荧光粉信息层，10 镜讲完一只氮化镓充电头的功率、体积、温度与兼容性。填 4 个参数即可换产品。
+
+#232655 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4](https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/tri-port-charger-collage](https://motiongit.com/@nxxxxxx/tri-port-charger-collage)
 
 ## How to use
 

@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-172 个模板 · 1 个测试项目 · 174 个 Demo
+174 个模板 · 1 个测试项目 · 176 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-172 个模板，174 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+174 个模板，176 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2257,6 +2257,30 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1245/1.0.0-zh-4466aa3915
 Demo 视频：[▶ https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4](https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4)
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/backpack-archive-collage](https://motiongit.com/@nxxxxxx/backpack-archive-collage)
+
+### 175. 高光时刻 · 获奖短片包装
+
+![高光时刻 · 获奖短片包装 · 竖屏](https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg)
+
+为竖屏获奖记录叠加原声颁奖名牌与照片片尾。
+
+#504672 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.mp4](https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@gzlbb/award-highlight-kit](https://motiongit.com/@gzlbb/award-highlight-kit)
+
+### 176. 三口充电头 · 多屏拼贴 30s
+
+![三口充电头 · 多屏拼贴 30s · 横屏](https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg)
+
+30 秒横版多屏拼贴：包豪斯网格 + 孟菲斯碎形 + 波普高饱和，深蓝底与电青/荧光粉信息层，10 镜讲完一只氮化镓充电头的功率、体积、温度与兼容性。填 4 个参数即可换产品。
+
+#232655 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4](https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/tri-port-charger-collage](https://motiongit.com/@nxxxxxx/tri-port-charger-collage)
 
 ## 使用教程
 
