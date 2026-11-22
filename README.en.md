@@ -355,7 +355,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/camera-mode](h
 
 ### 22. 自由画布 · 协作叙事
 
-<a href="https://media.openaicut.com/covers/996/draft-zh-eeabf83b4e49.jpg"><img src="https://media.openaicut.com/covers/996/draft-zh-eeabf83b4e49.jpg" alt="自由画布 · 协作叙事 · Portrait" width="202"></a>
+<a href="https://media.openaicut.com/covers/996/0.2.0-alpha.5-zh-9dee7ed216b5.jpg"><img src="https://media.openaicut.com/covers/996/0.2.0-alpha.5-zh-9dee7ed216b5.jpg" alt="自由画布 · 协作叙事 · Portrait" width="202"></a>
 
 以自由画布、便签和协作式图文展示口播内容，适合自媒体观点与方法讲解。
 
