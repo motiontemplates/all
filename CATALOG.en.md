@@ -64,9 +64,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.6
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.8
 
-Official Chinese portrait v0.2.44-alpha.6; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.44-alpha.8; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 

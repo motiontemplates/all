@@ -83,9 +83,9 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
-#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.6
+#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.8
 
-官网中文竖屏 v0.2.44-alpha.6；GitHub 开源包 v0.2.7-open-beta（16:9）。
+官网中文竖屏 v0.2.44-alpha.8；GitHub 开源包 v0.2.7-open-beta（16:9）。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
