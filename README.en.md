@@ -1993,7 +1993,7 @@ Download .motion from MotionGit：[https://motiongit.com/@nxxxxxx/aurora-mug-pro
 
 3 秒国风水墨书法标题片段：墨笔横扫入场、书法大字遮罩渐显、朱砂细线与随形印章落款，透明背景可直接叠加到任意画面，自带画卷展开式环境声。
 
-#112052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.3
+#112052 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.4
 
 Demo video：[https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4](https://media.openaicut.com/previews/1216/1.0.3-65493d3ff1c9.mp4)
 
