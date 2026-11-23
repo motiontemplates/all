@@ -698,7 +698,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
-#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
+#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.4
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4](https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4)
 

@@ -698,7 +698,7 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
+#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.4
 
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
