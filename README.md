@@ -241,7 +241,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
 
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.6
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4](https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4)
 
@@ -255,7 +255,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.8
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.9
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
