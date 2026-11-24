@@ -493,7 +493,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 
 把步骤、关键词和修订留在同一本点阵手账里。适合方法拆解与学习回顾，提供图标图示选择引导；页面为19.95秒早期风格短样。
 
-#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.4
+#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -2327,13 +2327,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1252/1.0.0-93a21e9b21e0.
 
 ### 179. 线稿故事
 
-<a href="https://media.openaicut.com/covers/1254/0.2.3-d6afc20ccc5d.jpg"><img src="https://media.openaicut.com/covers/1254/0.2.3-d6afc20ccc5d.jpg" alt="线稿故事 · 横屏" width="640"></a>
+<a href="https://media.openaicut.com/covers/1254/0.2.3-2687c84884fe.jpg"><img src="https://media.openaicut.com/covers/1254/0.2.3-2687c84884fe.jpg" alt="线稿故事 · 横屏" width="640"></a>
 
 把已有内容变成一支有人愿意看完的线描故事短片：一根金线逐笔生长，画到哪旁白说到哪，不必照固定分镜。适合开场、流程说明、故事叙述与品牌片段落。
 
 #560983 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v0.2.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1254/0.2.3-2a388f6d497d.mp4](https://media.openaicut.com/previews/1254/0.2.3-2a388f6d497d.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1254/0.2.3-df2772fd6ca5.mp4](https://media.openaicut.com/previews/1254/0.2.3-df2772fd6ca5.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/0109010001-line-story](https://motiongit.com/@fangcs/0109010001-line-story)
 
