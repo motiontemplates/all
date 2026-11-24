@@ -500,7 +500,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f6
 
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
-#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
+#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4](https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4)
 
@@ -542,7 +542,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 沿着选择模板、提供内容、生成视频的流程讲解产品使用，适合工具教程和上手演示。
 
-#670021 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#670021 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4](https://media.openaicut.com/previews/588/draft-zh-ca08bac0650e.mp4)
 
@@ -570,7 +570,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。
 
-#213827 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#213827 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4](https://media.openaicut.com/previews/590/draft-zh-308a5a69232f.mp4)
 
@@ -698,7 +698,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
-#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.4
+#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4](https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff3.mp4)
 

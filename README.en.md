@@ -519,7 +519,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
+#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
@@ -561,7 +561,7 @@ Technical documentation：[https://github.com/motiontemplates/867595](https://gi
 
 Walk through choosing a template, providing content and producing a video for a product tutorial.
 
-#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
+#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
@@ -589,7 +589,7 @@ Technical documentation：[https://github.com/motiontemplates/452365](https://gi
 
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
-#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
 
@@ -717,7 +717,7 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.4
+#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.5
 
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
