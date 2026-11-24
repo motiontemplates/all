@@ -214,6 +214,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 13. 活力海报 · 口播讲解
 
 ![活力海报 · 口播讲解 · 横屏](https://media.openaicut.com/covers/623/draft-zh-6b4b2398b532.jpg)
@@ -226,6 +228,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
+技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
+
 ### 14. 活力海报 · 口播讲解 · 竖屏
 
 ![活力海报 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/624/draft-zh-01638b2220a1.jpg)
@@ -237,6 +241,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 15. 突破边界
 

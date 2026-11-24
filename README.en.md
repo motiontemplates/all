@@ -233,6 +233,8 @@ Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 13. Vibrant Poster · Narrated Explainer
 
 <a href="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg"><img src="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg" alt="Vibrant Poster · Narrated Explainer · Landscape" width="640"></a>
@@ -245,6 +247,8 @@ Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
+Technical documentation：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
+
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
 
 <a href="https://media.openaicut.com/covers/624/draft-en-7738a754a89b.jpg"><img src="https://media.openaicut.com/covers/624/draft-en-7738a754a89b.jpg" alt="Vibrant Poster · Narrated Explainer · Portrait" width="202"></a>
@@ -256,6 +260,8 @@ Support narration with high-contrast posters, bold type, lists and graphic relat
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+Technical documentation：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 15. Beyond the Frame
 
