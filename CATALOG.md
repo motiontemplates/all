@@ -1478,7 +1478,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/966/1.0.0-zh-1b0079fe50d
 
 ### 110. 点阵肖像
 
-![点阵肖像 · 横屏](https://media.openaicut.com/covers/968/1.0.0-de1b30ca39ed.jpg)
+![点阵肖像 · 横屏](https://media.openaicut.com/covers/968/1.5.0-a8440eedce33.jpg)
 
 三张人像化为流动的双色网点、散开再汇聚成标题的横屏开场；可配口播、配乐、镜头音效与字幕
 
@@ -1670,7 +1670,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1001/1.0.1-en-9cb8c4a6b4
 
 ### 126. 暗场极客知识口播
 
-![暗场极客知识口播 · 横屏](https://media.openaicut.com/covers/1002/1.0.1-zh-c35bd5f5c8d5.jpg)
+![暗场极客知识口播 · 横屏](https://media.openaicut.com/covers/1002/1.3.1-26e2f2497470.jpg)
 
 暗场科技风知识口播模板：脚本自动映射镜头，可按口播定长，接配乐音效与 SRT 字幕，成片无署名无时码
 
@@ -1982,7 +1982,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1216/1.0.4-zh-46d64f6943
 
 ### 152. 卡通涂鸦片头
 
-![卡通涂鸦片头 · 横屏](https://media.openaicut.com/covers/1217/1.0.2-zh-be3662718ecc.jpg)
+![卡通涂鸦片头 · 横屏](https://media.openaicut.com/covers/1217/1.0.2-d716a999d465.jpg)
 
 5 秒卡通手绘风片头片段：黄色涂鸦笔刷生长、彩色手写标题逐字弹入，配枫叶、蝴蝶、相机、叶枝手绘装饰与轻快镜头音效，透明背景可叠加到任意视频开头。
 
@@ -2308,7 +2308,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1252/1.0.0-93a21e9b21e0.
 
 ### 179. 线稿故事
 
-![线稿故事 · 横屏](https://media.openaicut.com/covers/1254/0.2.3-2687c84884fe.jpg)
+![线稿故事 · 横屏](https://media.openaicut.com/covers/1254/0.2.3-d4b0760b3758.jpg)
 
 把已有内容变成一支有人愿意看完的线描故事短片：一根金线逐笔生长，画到哪旁白说到哪，不必照固定分镜。适合开场、流程说明、故事叙述与品牌片段落。
 
