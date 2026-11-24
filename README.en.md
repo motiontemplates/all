@@ -2013,7 +2013,7 @@ Download .motion from MotionGit：[https://motiongit.com/@fangcs/cartoon-scribbl
 
 ### 153. 竖排姓名身份卡
 
-<a href="https://media.openaicut.com/covers/1219/1.0.0-7494872e1c9a.jpg"><img src="https://media.openaicut.com/covers/1219/1.0.0-7494872e1c9a.jpg" alt="竖排姓名身份卡 · Portrait" width="202"></a>
+<a href="https://media.openaicut.com/covers/1219/1.0.0-ac20a3bb8517.jpg"><img src="https://media.openaicut.com/covers/1219/1.0.0-ac20a3bb8517.jpg" alt="竖排姓名身份卡 · Portrait" width="202"></a>
 
 3 秒竖屏中式姓名身份卡片段：双线长框双向描边、竖排姓名逐字落下、身份标签与朱红名章依次就位，配展卷、落字与盖印音效，透明背景可叠加到人物采访、口播与活动介绍画面。
 
@@ -2375,7 +2375,7 @@ Download .motion from MotionGit：[https://motiongit.com/@tianqingyuan/moonlight
 
 ### 183. 3D粒子\_逆转乾坤
 
-<a href="https://media.openaicut.com/covers/1260/0.1.0-142220c8e8a0.jpg"><img src="https://media.openaicut.com/covers/1260/0.1.0-142220c8e8a0.jpg" alt="3D粒子_逆转乾坤 · Portrait" width="202"></a>
+<a href="https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg"><img src="https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg" alt="3D粒子_逆转乾坤 · Portrait" width="202"></a>
 
 暗底粒子图形看一眼就能逆转方向；改字换色即时出片，模板自带设计推荐。15秒竖屏无缝循环。
 
