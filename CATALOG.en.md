@@ -500,7 +500,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
+#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
 
 Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
@@ -556,7 +556,7 @@ Technical documentation：[https://github.com/motiontemplates/670021](https://gi
 
 Show how content, assets and animation fit together through modular collages for creator tools.
 
-#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4](https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4)
 

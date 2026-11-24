@@ -519,7 +519,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f6
 
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
-#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5-alpha.3
+#128610 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4](https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f6.mp4)
 
@@ -575,7 +575,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650
 
 以模块拼贴呈现内容、素材和动画的组合关系，适合创作者工具与工作方式介绍。
 
-#452365 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#452365 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a380523.mp4](https://media.openaicut.com/previews/589/draft-zh-4d806a380523.mp4)
 
