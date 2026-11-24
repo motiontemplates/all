@@ -617,7 +617,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
 
-#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
+#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.8-alpha.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4](https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f671.mp4)
 

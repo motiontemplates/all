@@ -598,7 +598,7 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.7
+#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.8-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
