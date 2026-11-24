@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**174 个模板 · 1 个测试项目 · 176 个 Demo**
+**181 个模板 · 1 个测试项目 · 183 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-174 个模板 · 1 个测试项目 · 176 个 Demo
+181 个模板 · 1 个测试项目 · 183 个 Demo
 
-174 个模板，176 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+181 个模板，183 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2300,6 +2300,90 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.
 Demo 视频：[▶ https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4](https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4)
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/tri-port-charger-collage](https://motiongit.com/@nxxxxxx/tri-port-charger-collage)
+
+### 177. 四章图解 · 提问到对照
+
+<a href="https://media.openaicut.com/covers/1251/1.0.0-933ddca4442d.jpg"><img src="https://media.openaicut.com/covers/1251/1.0.0-933ddca4442d.jpg" alt="四章图解 · 提问到对照 · 竖屏" width="202"></a>
+
+110 秒竖屏图解模板：提问、拆解、方法、对照四章推进，可替换题目、要点、强调色与 22 张图；演示以信件流转为例，无内置声音。
+
+#463260 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1251/1.0.0-cf6952319813.mp4](https://media.openaicut.com/previews/1251/1.0.0-cf6952319813.mp4)
+
+官网下载 .motion：[https://motiongit.com/@yefeiFLY/four-chapter-diagram](https://motiongit.com/@yefeiFLY/four-chapter-diagram)
+
+### 178. MATTER · 物质 — 护肤/化妆品产品片
+
+<a href="https://media.openaicut.com/covers/1252/1.0.0-656b22c60a91.jpg"><img src="https://media.openaicut.com/covers/1252/1.0.0-656b22c60a91.jpg" alt="MATTER · 物质 — 护肤/化妆品产品片 · 横屏" width="640"></a>
+
+黑白硬光、时尚大片、瑞士极简、包豪斯、孟菲斯、粗野主义与粒子流体混在同一条 45 秒护肤/化妆品产品片里。17 个镜头，1920×1080、60fps；可替换品牌名、三行文案与强调色，纯画面，无口播无字幕。
+
+#1252 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1252/1.0.0-93a21e9b21e0.mp4](https://media.openaicut.com/previews/1252/1.0.0-93a21e9b21e0.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/matter-product-film](https://motiongit.com/@nxxxxxx/matter-product-film)
+
+### 179. 线稿故事
+
+<a href="https://media.openaicut.com/covers/1254/0.2.3-d6afc20ccc5d.jpg"><img src="https://media.openaicut.com/covers/1254/0.2.3-d6afc20ccc5d.jpg" alt="线稿故事 · 横屏" width="640"></a>
+
+把已有内容变成一支有人愿意看完的线描故事短片：一根金线逐笔生长，画到哪旁白说到哪，不必照固定分镜。适合开场、流程说明、故事叙述与品牌片段落。
+
+#560983 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v0.2.3
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1254/0.2.3-2a388f6d497d.mp4](https://media.openaicut.com/previews/1254/0.2.3-2a388f6d497d.mp4)
+
+官网下载 .motion：[https://motiongit.com/@fangcs/0109010001-line-story](https://motiongit.com/@fangcs/0109010001-line-story)
+
+### 180. 数字坠落发光可搭配砸地音效 删改局部
+
+<a href="https://media.openaicut.com/covers/1255/1.0.0-a5dd61c675b7.jpg"><img src="https://media.openaicut.com/covers/1255/1.0.0-a5dd61c675b7.jpg" alt="数字坠落发光可搭配砸地音效 删改局部 · 竖屏" width="270"></a>
+
+一串数字带拖影依次坠落，落地轻震、绿光一闪、白烟散开，上方小标题逐字浮现；数字、小标题、颜色、背景、烟雾都能改。keynot 经典特效
+
+#629013 · 竖屏 · 3:4 · 1080 × 1440 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1255/1.0.0-57e0fbb8a44e.mp4](https://media.openaicut.com/previews/1255/1.0.0-57e0fbb8a44e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@zhanglong5122/number-drop-glow](https://motiongit.com/@zhanglong5122/number-drop-glow)
+
+### 181. AROMA · 白屿 — 九种风格语言
+
+<a href="https://media.openaicut.com/covers/1256/1.0.0-zh-f8563cbac436.jpg"><img src="https://media.openaicut.com/covers/1256/1.0.0-zh-f8563cbac436.jpg" alt="AROMA · 白屿 — 九种风格语言 · 横屏" width="640"></a>
+
+一只陶瓷无火香薰，用九种画面语言各说一次：黑白硬光、侘寂、包豪斯、MG 动效、孟菲斯、粗野主义、毛绒质感、双重曝光、赛博朋克。11 个镜头、45 秒、1920×1080／60fps，共用一个九位转塔、一套字体和一套网格，所以九种风格是同一次曝光的不同读数，不是九段拼贴。9 个图片
+
+#966154 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1256/1.0.0-zh-b08603fdc1a7.mp4](https://media.openaicut.com/previews/1256/1.0.0-zh-b08603fdc1a7.mp4)
+
+官网下载 .motion：[https://motiongit.com/@nxxxxxx/aroma-nine-voices](https://motiongit.com/@nxxxxxx/aroma-nine-voices)
+
+### 182. 月光下暧昧 · 歌词 MV
+
+<a href="https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg"><img src="https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg" alt="月光下暧昧 · 歌词 MV · 横屏" width="640"></a>
+
+把《月光下暧昧》这首 citypop 情歌做成 30 秒赛博荧光风歌词 MV，逐字科技字体配合多场景动态背景。
+
+#390461 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1259/1.0.0-77f54c412f14.mp4](https://media.openaicut.com/previews/1259/1.0.0-77f54c412f14.mp4)
+
+官网下载 .motion：[https://motiongit.com/@tianqingyuan/moonlight-lyric-mv](https://motiongit.com/@tianqingyuan/moonlight-lyric-mv)
+
+### 183. 3D粒子\_逆转乾坤
+
+<a href="https://media.openaicut.com/covers/1260/0.1.0-d3d256f277e5.jpg"><img src="https://media.openaicut.com/covers/1260/0.1.0-d3d256f277e5.jpg" alt="3D粒子_逆转乾坤 · 竖屏" width="202"></a>
+
+暗底粒子图形看一眼就能逆转方向；改字换色即时出片，模板自带设计推荐。15秒竖屏无缝循环。
+
+#492712 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v0.1.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.mp4](https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.mp4)
+
+官网下载 .motion：[https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion](https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion)
 
 ## 使用教程
 
