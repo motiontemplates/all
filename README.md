@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**181 个模板 · 1 个测试项目 · 183 个 Demo**
+**196 个模板 · 1 个测试项目 · 198 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-181 个模板 · 1 个测试项目 · 183 个 Demo
+196 个模板 · 1 个测试项目 · 198 个 Demo
 
-181 个模板，183 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+196 个模板，198 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2384,6 +2384,186 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1259/1.0.0-77f54c412f14.
 Demo 视频：[▶ https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.mp4](https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion](https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion)
+
+### 184. 葱油拌面手记
+
+<a href="https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg"><img src="https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg" alt="葱油拌面手记 · 竖屏" width="202"></a>
+
+把一道菜拆成食材、火候和拌匀收尾，适合面馆或厨房账号。
+
+#733673 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1267/0.1.0-alpha.2-zh-9fa811d9578b.mp4](https://media.openaicut.com/previews/1267/0.1.0-alpha.2-zh-9fa811d9578b.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles](https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles)
+
+### 185. 沿河散步路线图
+
+<a href="https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg"><img src="https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg" alt="沿河散步路线图 · 竖屏" width="202"></a>
+
+用三站步行示意讲清出发地、沿途停留和终点。示例为虚构街区。
+
+#937594 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1268/0.1.0-alpha.2-zh-ae42e31ed8c6.mp4](https://media.openaicut.com/previews/1268/0.1.0-alpha.2-zh-ae42e31ed8c6.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk](https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk)
+
+### 186. 半平米玄关图纸
+
+<a href="https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg"><img src="https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg" alt="半平米玄关图纸 · 竖屏" width="202"></a>
+
+用柜体正立面分清暂放、随手挂和日常取用，适合小户型改造。
+
+#488381 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1269/0.1.0-alpha.2-zh-957ad4c24057.mp4](https://media.openaicut.com/previews/1269/0.1.0-alpha.2-zh-957ad4c24057.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan](https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan)
+
+### 187. 通勤耳机试听台
+
+<a href="https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg"><img src="https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg" alt="通勤耳机试听台 · 竖屏" width="202"></a>
+
+用佩戴、环境声和人声三个体验维度演示数码试用。
+
+#183009 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1270/0.1.0-alpha.2-zh-db23b018d769.mp4](https://media.openaicut.com/previews/1270/0.1.0-alpha.2-zh-db23b018d769.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-earbud-check](https://motiongit.com/@reedphase-5e9a42/dy-earbud-check)
+
+### 188. 橘子挑选小摊
+
+<a href="https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg"><img src="https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg" alt="橘子挑选小摊 · 竖屏" width="202"></a>
+
+用果皮、手感和切面解释鲜果挑选，适合产地摊主和菜市场账号。
+
+#403807 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1271/0.1.0-alpha.2-zh-2e8241eea835.mp4](https://media.openaicut.com/previews/1271/0.1.0-alpha.2-zh-2e8241eea835.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter](https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter)
+
+### 189. 三色通勤衣橱
+
+<a href="https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg"><img src="https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg" alt="三色通勤衣橱 · 竖屏" width="202"></a>
+
+把搭配拆成主色、邻近色和小面积点色，适合穿搭账号和服装店。
+
+#617538 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1272/0.1.0-alpha.2-zh-85931bcc6ae8.mp4](https://media.openaicut.com/previews/1272/0.1.0-alpha.2-zh-85931bcc6ae8.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors](https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors)
+
+### 190. 蓝印花布显影录
+
+<a href="https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg"><img src="https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg" alt="蓝印花布显影录 · 竖屏" width="202"></a>
+
+用型版、上染、去浆三个可视步骤介绍蓝印花布的防染原理。
+
+#497016 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1273/0.1.0-alpha.2-zh-2ef5d21f3a70.mp4](https://media.openaicut.com/previews/1273/0.1.0-alpha.2-zh-2ef5d21f3a70.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-indigo-print](https://motiongit.com/@reedphase-5e9a42/dy-indigo-print)
+
+### 191. 夜跑出门检查单
+
+<a href="https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg"><img src="https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg" alt="夜跑出门检查单 · 竖屏" width="202"></a>
+
+用反光位置、鞋带和路线三格做出门装备检查。
+
+#138951 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1274/0.1.0-alpha.2-zh-177e2be4bbd9.mp4](https://media.openaicut.com/previews/1274/0.1.0-alpha.2-zh-177e2be4bbd9.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit](https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit)
+
+### 192. 周末演出入场券
+
+<a href="https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg"><img src="https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg" alt="周末演出入场券 · 竖屏" width="202"></a>
+
+把活动亮点、场次和入场须知做成一张可动的票根。演出及场地均为虚构示例。
+
+#416365 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1275/0.1.0-alpha.2-zh-1cc81e428397.mp4](https://media.openaicut.com/previews/1275/0.1.0-alpha.2-zh-1cc81e428397.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket](https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket)
+
+### 193. 积木里的几何课
+
+<a href="https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg"><img src="https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg" alt="积木里的几何课 · 竖屏" width="202"></a>
+
+用积木轮廓、拼接和旋转，教家长带孩子做几何观察。
+
+#387233 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-453d7c4249e1.mp4](https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-453d7c4249e1.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks](https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks)
+
+### 194. 讲师的演示台
+
+<a href="https://media.openaicut.com/covers/1277/0.1.0-alpha.2-zh-7d3678f15f4b.jpg"><img src="https://media.openaicut.com/covers/1277/0.1.0-alpha.2-zh-7d3678f15f4b.jpg" alt="讲师的演示台 · 竖屏" width="202"></a>
+
+讲师的演示台用于实操教程的真人口播。
+
+#917851 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1277/0.1.0-alpha.2-zh-9dd58878aa57.mp4](https://media.openaicut.com/previews/1277/0.1.0-alpha.2-zh-9dd58878aa57.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop](https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop)
+
+### 195. 一封读者来信
+
+<a href="https://media.openaicut.com/covers/1278/0.1.0-alpha.2-zh-9ce3c06b97d9.jpg"><img src="https://media.openaicut.com/covers/1278/0.1.0-alpha.2-zh-9ce3c06b97d9.jpg" alt="一封读者来信 · 竖屏" width="202"></a>
+
+一封读者来信用于教育答疑的真人口播。
+
+#483591 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1278/0.1.0-alpha.2-zh-355ffa2f0a8e.mp4](https://media.openaicut.com/previews/1278/0.1.0-alpha.2-zh-355ffa2f0a8e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter](https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter)
+
+### 196. 新品发布主场
+
+<a href="https://media.openaicut.com/covers/1279/0.1.0-alpha.2-zh-aac963846a85.jpg"><img src="https://media.openaicut.com/covers/1279/0.1.0-alpha.2-zh-aac963846a85.jpg" alt="新品发布主场 · 竖屏" width="202"></a>
+
+新品发布主场用于产品发布的真人口播。
+
+#693394 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1279/0.1.0-alpha.2-zh-1f2151c884c1.mp4](https://media.openaicut.com/previews/1279/0.1.0-alpha.2-zh-1f2151c884c1.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch](https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch)
+
+### 197. 两天的拍摄手记
+
+<a href="https://media.openaicut.com/covers/1280/0.1.0-alpha.2-zh-08e1e8ff47ee.jpg"><img src="https://media.openaicut.com/covers/1280/0.1.0-alpha.2-zh-08e1e8ff47ee.jpg" alt="两天的拍摄手记 · 竖屏" width="202"></a>
+
+两天的拍摄手记用于生活叙事的真人口播。
+
+#799148 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1280/0.1.0-alpha.2-zh-e5981bad12b0.mp4](https://media.openaicut.com/previews/1280/0.1.0-alpha.2-zh-e5981bad12b0.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary](https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary)
+
+### 198. 两栏体验报告
+
+<a href="https://media.openaicut.com/covers/1281/0.1.0-alpha.2-zh-eb33f1bf765d.jpg"><img src="https://media.openaicut.com/covers/1281/0.1.0-alpha.2-zh-eb33f1bf765d.jpg" alt="两栏体验报告 · 竖屏" width="202"></a>
+
+两栏体验报告用于数码体验的真人口播。
+
+#820923 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1281/0.1.0-alpha.2-zh-0f8792f10534.mp4](https://media.openaicut.com/previews/1281/0.1.0-alpha.2-zh-0f8792f10534.mp4)
+
+官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict](https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict)
 
 ## 使用教程
 
