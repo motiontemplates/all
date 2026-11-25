@@ -5450,9 +5450,7 @@
           "preview": "https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg"
         }
       },
-      "materials": {
-        "zh": "朱红强调色 · 给十六进制色值，例如 #b23a2f；只换标记色，不改纸感底色与版式。"
-      },
+      "materials": {},
       "demo": "https://media.openaicut.com/previews/975/1.0.0-zh-9ff32ae0745b.mp4",
       "poster": "https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg",
       "preview": "https://media.openaicut.com/covers/975/1.0.0-zh-a3bb2e563659.jpg"
@@ -6602,9 +6600,7 @@
           "preview": "https://media.openaicut.com/covers/1198/1.3.1-759b8e33b0d2.jpg"
         }
       },
-      "materials": {
-        "zh": "有录好的口播就发给我，成片会按它的实际长度收口；没有就只出画面 · 口播人声，决定成片长度；八段形状按同一比例铺满整条口播，按 1.0 权重参与混音 · 无口播时按默认 18 秒或你写的时长出片 有想用的背景音乐就发给我；没有就静音出片 · 整段背景音乐；比成片短会自动循环铺满，按 0.45 权重垫在人声下面 · 没有配乐时只保留口播与音效 需要个别音效点缀就发给我；不需要可跳过 · 整段可用的点缀音效；比成片短时尾部补静音，按 0.7 权重混入 · 没有音效时不影响出片，混音只走人声与配乐 想让第几段的切换有声音，告诉我段序或形状名就行；不指定则不加 · 给每次形状切换单独挂一声音效：绑在第 1–8 段任一段的起点上，也可绑开场或片尾，还能前后微调，改时长后自动跟到新位置 · 不挂镜头音效时，段落切换保持静默 有现成字幕就发 SRT 文件，会直接进画面；没有就不显示字幕 · 字幕逐帧写进画面底部那条半透明字幕条，按时间出现、说完即消失；位置已避开底部文字 · 无字幕时字幕条留空，不占画面 底部文字 · 单行纯文本，中文 2–10 字最合适，最长 24 字符；只在结尾淡入，不承载长句或换行"
-      },
+      "materials": {},
       "demo": "https://media.openaicut.com/previews/1198/1.3.1-524c22d299b9.mp4",
       "poster": "https://media.openaicut.com/covers/1198/1.3.1-759b8e33b0d2.jpg",
       "preview": "https://media.openaicut.com/covers/1198/1.3.1-759b8e33b0d2.jpg"
