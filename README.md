@@ -27,7 +27,7 @@
 
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
-**196 个模板 · 1 个测试项目 · 198 个 Demo**
+**202 个模板 · 1 个测试项目 · 204 个 Demo**
 
 浏览下方单列图文清单：每个画幅独立展示图片、介绍、Demo 和完整下载地址。
 
@@ -45,9 +45,9 @@
 
 ## 完整图文清单
 
-196 个模板 · 1 个测试项目 · 198 个 Demo
+202 个模板 · 1 个测试项目 · 204 个 Demo
 
-196 个模板，198 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+202 个模板，204 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2507,63 +2507,135 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-45
 
 ### 194. 讲师的演示台
 
-<a href="https://media.openaicut.com/covers/1277/0.1.0-alpha.2-zh-7d3678f15f4b.jpg"><img src="https://media.openaicut.com/covers/1277/0.1.0-alpha.2-zh-7d3678f15f4b.jpg" alt="讲师的演示台 · 竖屏" width="202"></a>
+<a href="https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg"><img src="https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg" alt="讲师的演示台 · 竖屏" width="202"></a>
 
 讲师的演示台用于实操教程的真人口播。
 
-#917851 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+#917851 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1277/0.1.0-alpha.2-zh-9dd58878aa57.mp4](https://media.openaicut.com/previews/1277/0.1.0-alpha.2-zh-9dd58878aa57.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1277/0.1.0-alpha.3-zh-f382583b19f3.mp4](https://media.openaicut.com/previews/1277/0.1.0-alpha.3-zh-f382583b19f3.mp4)
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop](https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop)
 
 ### 195. 一封读者来信
 
-<a href="https://media.openaicut.com/covers/1278/0.1.0-alpha.2-zh-9ce3c06b97d9.jpg"><img src="https://media.openaicut.com/covers/1278/0.1.0-alpha.2-zh-9ce3c06b97d9.jpg" alt="一封读者来信 · 竖屏" width="202"></a>
+<a href="https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg"><img src="https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg" alt="一封读者来信 · 竖屏" width="202"></a>
 
 一封读者来信用于教育答疑的真人口播。
 
-#483591 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+#483591 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1278/0.1.0-alpha.2-zh-355ffa2f0a8e.mp4](https://media.openaicut.com/previews/1278/0.1.0-alpha.2-zh-355ffa2f0a8e.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1278/0.1.0-alpha.3-zh-0ac8219e25a0.mp4](https://media.openaicut.com/previews/1278/0.1.0-alpha.3-zh-0ac8219e25a0.mp4)
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter](https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter)
 
 ### 196. 新品发布主场
 
-<a href="https://media.openaicut.com/covers/1279/0.1.0-alpha.2-zh-aac963846a85.jpg"><img src="https://media.openaicut.com/covers/1279/0.1.0-alpha.2-zh-aac963846a85.jpg" alt="新品发布主场 · 竖屏" width="202"></a>
+<a href="https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg"><img src="https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg" alt="新品发布主场 · 竖屏" width="202"></a>
 
 新品发布主场用于产品发布的真人口播。
 
-#693394 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+#693394 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1279/0.1.0-alpha.2-zh-1f2151c884c1.mp4](https://media.openaicut.com/previews/1279/0.1.0-alpha.2-zh-1f2151c884c1.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1279/0.1.0-alpha.3-zh-ec57b436552f.mp4](https://media.openaicut.com/previews/1279/0.1.0-alpha.3-zh-ec57b436552f.mp4)
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch](https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch)
 
 ### 197. 两天的拍摄手记
 
-<a href="https://media.openaicut.com/covers/1280/0.1.0-alpha.2-zh-08e1e8ff47ee.jpg"><img src="https://media.openaicut.com/covers/1280/0.1.0-alpha.2-zh-08e1e8ff47ee.jpg" alt="两天的拍摄手记 · 竖屏" width="202"></a>
+<a href="https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg"><img src="https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg" alt="两天的拍摄手记 · 竖屏" width="202"></a>
 
 两天的拍摄手记用于生活叙事的真人口播。
 
-#799148 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+#799148 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1280/0.1.0-alpha.2-zh-e5981bad12b0.mp4](https://media.openaicut.com/previews/1280/0.1.0-alpha.2-zh-e5981bad12b0.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1280/0.1.0-alpha.3-zh-ab2a176bc1fe.mp4](https://media.openaicut.com/previews/1280/0.1.0-alpha.3-zh-ab2a176bc1fe.mp4)
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary](https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary)
 
 ### 198. 两栏体验报告
 
-<a href="https://media.openaicut.com/covers/1281/0.1.0-alpha.2-zh-eb33f1bf765d.jpg"><img src="https://media.openaicut.com/covers/1281/0.1.0-alpha.2-zh-eb33f1bf765d.jpg" alt="两栏体验报告 · 竖屏" width="202"></a>
+<a href="https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg"><img src="https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg" alt="两栏体验报告 · 竖屏" width="202"></a>
 
 两栏体验报告用于数码体验的真人口播。
 
-#820923 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.2
+#820923 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.3
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1281/0.1.0-alpha.2-zh-0f8792f10534.mp4](https://media.openaicut.com/previews/1281/0.1.0-alpha.2-zh-0f8792f10534.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1281/0.1.0-alpha.3-zh-c1d685e8db18.mp4](https://media.openaicut.com/previews/1281/0.1.0-alpha.3-zh-c1d685e8db18.mp4)
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict](https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict)
+
+### 199. 上新功能看板
+
+<a href="https://media.openaicut.com/covers/1282/0.1.0-alpha.1-zh-ecd457191916.jpg"><img src="https://media.openaicut.com/covers/1282/0.1.0-alpha.1-zh-ecd457191916.jpg" alt="上新功能看板 · 竖屏" width="202"></a>
+
+用三条可替换的数字指标介绍新品、功能和硬件参数。
+
+#991735 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1282/0.1.0-alpha.1-zh-1df0b2157f9d.mp4](https://media.openaicut.com/previews/1282/0.1.0-alpha.1-zh-1df0b2157f9d.mp4)
+
+官网下载 .motion：[https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card](https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card)
+
+### 200. 经纬路线简报
+
+<a href="https://media.openaicut.com/covers/1283/0.1.0-alpha.1-zh-ed5590dac01d.jpg"><img src="https://media.openaicut.com/covers/1283/0.1.0-alpha.1-zh-ed5590dac01d.jpg" alt="经纬路线简报 · 竖屏" width="202"></a>
+
+在球面投影上画出两座城市之间的路线与估算距离，适合旅行或地理解释。
+
+#286972 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1283/0.1.0-alpha.1-zh-b92cbd812f9f.mp4](https://media.openaicut.com/previews/1283/0.1.0-alpha.1-zh-b92cbd812f9f.mp4)
+
+官网下载 .motion：[https://motiongit.com/@route-studio-56a39b/route-world-brief](https://motiongit.com/@route-studio-56a39b/route-world-brief)
+
+### 201. 趋势拆解图
+
+<a href="https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg"><img src="https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg" alt="趋势拆解图 · 竖屏" width="202"></a>
+
+把一组数据的变化画成逐步出现的趋势线，适合知识解释、月报和运营复盘。
+
+#693199 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1284/0.1.0-alpha.1-zh-205e9b9af623.mp4](https://media.openaicut.com/previews/1284/0.1.0-alpha.1-zh-205e9b9af623.mp4)
+
+官网下载 .motion：[https://motiongit.com/@trend-studio-954b51/trend-dispatch](https://motiongit.com/@trend-studio-954b51/trend-dispatch)
+
+### 202. 三道招牌菜
+
+<a href="https://media.openaicut.com/covers/1285/0.1.0-alpha.1-zh-c06f63d00d2a.jpg"><img src="https://media.openaicut.com/covers/1285/0.1.0-alpha.1-zh-c06f63d00d2a.jpg" alt="三道招牌菜 · 竖屏" width="202"></a>
+
+将三道招牌菜分别做成可更换图文的翻页菜单。适合小馆、咖啡店与餐饮新品介绍。
+
+#123176 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1285/0.1.0-alpha.1-zh-8326f47fc6fa.mp4](https://media.openaicut.com/previews/1285/0.1.0-alpha.1-zh-8326f47fc6fa.mp4)
+
+官网下载 .motion：[https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages](https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages)
+
+### 203. 设备巡检读数台
+
+<a href="https://media.openaicut.com/covers/1286/0.1.0-alpha.1-zh-398716b2add8.jpg"><img src="https://media.openaicut.com/covers/1286/0.1.0-alpha.1-zh-398716b2add8.jpg" alt="设备巡检读数台 · 竖屏" width="202"></a>
+
+用逐段归位的指针和读数展示三项巡检记录。适合工厂培训、设备介绍与运维复盘。
+
+#502405 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1286/0.1.0-alpha.1-zh-684edc830ff9.mp4](https://media.openaicut.com/previews/1286/0.1.0-alpha.1-zh-684edc830ff9.mp4)
+
+官网下载 .motion：[https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log](https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log)
+
+### 204. 三步讲清加权平均
+
+<a href="https://media.openaicut.com/covers/1287/0.1.0-alpha.1-zh-268f783c2bab.jpg"><img src="https://media.openaicut.com/covers/1287/0.1.0-alpha.1-zh-268f783c2bab.jpg" alt="三步讲清加权平均 · 竖屏" width="202"></a>
+
+把三个分值拆成读题、列式和结果，数字与公式同步换稿。适合数学微课和知识讲解。
+
+#700808 · 竖屏 · 9:16 · 1080 × 1920 · 24 FPS · v0.1.0-alpha.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1287/0.1.0-alpha.1-zh-fbe9c010dbb0.mp4](https://media.openaicut.com/previews/1287/0.1.0-alpha.1-zh-fbe9c010dbb0.mp4)
+
+官网下载 .motion：[https://motiongit.com/@weighted-studio-504a22/weighted-average-steps](https://motiongit.com/@weighted-studio-504a22/weighted-average-steps)
 
 ## 使用教程
 
