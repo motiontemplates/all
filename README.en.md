@@ -547,13 +547,11 @@ Technical documentation：[https://github.com/motiontemplates/252912](https://gi
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
+#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4](https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
-
-Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
 ### 38. Workflow Demo · Product Tutorial
 

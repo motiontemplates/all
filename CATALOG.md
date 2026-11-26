@@ -528,13 +528,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887a
 
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
-#867595 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.2
+#867595 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6-alpha.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5ce.mp4](https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5ce.mp4)
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
-
-技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
 ### 38. 流程演示 · 产品教程
 
