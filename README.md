@@ -421,7 +421,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea91
 
 以展墙与展品机制串起一段知识历程。适合日影、液位、齿轮、摆动、分频与共振的解释，由AI助手选图示，可选真人开场后圆窗陪讲。
 
-#949192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#949192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
@@ -433,7 +433,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15
 
 在发光线条中看见波形怎样相遇、延时怎样留下残余。适合信号叠加、相位与反馈解释，提供图标图示引导，可选真人开头后缩圆窗。
 
-#803150 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
+#803150 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
@@ -445,7 +445,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c3
 
 用等距剖切把内部结构、物质通路与能量关系分开讲清。适合换热、压缩和能量核算，提供图示选择引导，可选真人开场后缩圆窗。
 
-#106531 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#106531 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
@@ -457,7 +457,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ad
 
 用层叠纸片看见内部、压缩与搬运。适合层序、褶皱、切面和错动的教学解释，提供图标图示选择引导，可选真人开场后缩成圆窗。
 
-#546070 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#546070 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
@@ -469,7 +469,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2
 
 沿着线路追踪占用、停车与队列变化。适合安全间隔、状态读数和有限服务流程的教学表达，配有图标图示引导，可选真人开头后缩圆窗。
 
-#447390 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#447390 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4](https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4)
 
