@@ -534,6 +534,8 @@ Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
+Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
+
 ### 38. Workflow Demo · Product Tutorial
 
 ![Workflow Demo · Product Tutorial · Landscape](https://media.openaicut.com/covers/588/quality-en-e3a5eff02623.jpg)

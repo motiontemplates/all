@@ -534,6 +534,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
+技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
+
 ### 38. 流程演示 · 产品教程
 
 ![流程演示 · 产品教程 · 横屏](https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg)
