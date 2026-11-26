@@ -1,6 +1,6 @@
 # MotionGit illustrated template list
 
-206 templates · 1 preview projects · 208 demos
+209 templates · 1 preview projects · 211 demos
 
 ## What is .motion?
 
@@ -28,7 +28,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
 
-206 templates, 208 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+209 templates, 211 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -2408,7 +2408,7 @@ Download .motion from MotionGit：[https://motiongit.com/@jsjauwyw/viewfinder-bl
 
 竖屏 9:16 版线稿故事：一根发光的金线在暗底上逐笔画出故事，默认六幕「一封信」。幕数与时长随你的内容编排（12–60 秒），自带配乐与环境声，换掉标题与旁白就能讲你自己的故事。适合竖屏故事号、情绪短片与品牌故事。
 
-#900957 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.1
+#900957 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.2.0
 
 Demo video：[https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.mp4](https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.mp4)
 
@@ -2665,6 +2665,42 @@ Download .motion from MotionGit：[https://motiongit.com/@workshop-studio-25158b
 Demo video：[https://media.openaicut.com/previews/1287/0.1.0-alpha.1-zh-fbe9c010dbb0.mp4](https://media.openaicut.com/previews/1287/0.1.0-alpha.1-zh-fbe9c010dbb0.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@weighted-studio-504a22/weighted-average-steps](https://motiongit.com/@weighted-studio-504a22/weighted-average-steps)
+
+### 209. 口播浮层动效卡
+
+![口播浮层动效卡 · Landscape](https://media.openaicut.com/covers/1295/1.0.0-c8ead63a4da9.jpg)
+
+横屏真人口播的透明叠加浮层动效卡，用要点清单栏、步骤推进轴、序号结论卡承接讲解重点，完整让出画面中央人物与底部字幕带。
+
+#1295 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1295/1.0.0-4212e107de4c.mp4](https://media.openaicut.com/previews/1295/1.0.0-4212e107de4c.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@mrz/talking-head-overlay-cards](https://motiongit.com/@mrz/talking-head-overlay-cards)
+
+### 210. 手机相册卡点
+
+![手机相册卡点 · Portrait](https://media.openaicut.com/covers/1307/0.1.3-zh-0ca8d371ad75.jpg)
+
+实体手机沿纵深俯冲开场，白闪后照片铺成拼贴墙，0.5 秒一拍运动卡点、倒放闭环收尾；4:5 竖屏，自带 BGM，换照片即出片。
+
+#731463 · Portrait · 4:5 · 1080 × 1350 · 30 FPS · v0.1.3
+
+Demo video：[https://media.openaicut.com/previews/1307/0.1.3-zh-b5a6f401551d.mp4](https://media.openaicut.com/previews/1307/0.1.3-zh-b5a6f401551d.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@fangcs/0111010001-album-beat](https://motiongit.com/@fangcs/0111010001-album-beat)
+
+### 211. 章节式竖屏图文动效模板（部分提炼草稿）
+
+![章节式竖屏图文动效模板（部分提炼草稿） · Portrait](https://media.openaicut.com/covers/1308/1.0.0-zh-ed069addb788.jpg)
+
+把分章节的讲解编排成 1080x1920 竖屏图文动效，含开场居中、全屏反白要点、分屏数据卡、数字强调与重点脉冲。
+
+#736626 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c6c.mp4](https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c6c.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@huangyiming/chapter-portrait-kit](https://motiongit.com/@huangyiming/chapter-portrait-kit)
 
 ## How to use
 
