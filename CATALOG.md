@@ -354,7 +354,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/996/draft-zh-2b5d7fe19f2
 
 用清晰网格、对象计数和比例变化讲明白“百分比在除什么”。适合分母、权重与统计比较，可由AI助手按本期文稿选择图示，支持可选真人开场。
 
-#257987 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#257987 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
@@ -366,7 +366,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59
 
 把拆分、附着和搬运变成可追踪的黏土实验。适合对象变化与过程解释，由AI助手选择图标和图示，可选真人全屏开头后缩成圆窗。
 
-#517652 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#517652 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
@@ -378,7 +378,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c0143
 
 用粉笔线条把光线、视角与遮挡条件逐步画清。适合轨道、投影和几何原因辨析，提供图标图示选择引导，可选真人开场后圆窗陪讲。
 
-#173723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#173723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
@@ -390,7 +390,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524
 
 让关系沿分支生长，让对象沿路径前进。适合层级、分流、局部放大与不同时间尺度的解释，配有图示选择引导，可选真人开场后缩圆窗。
 
-#880856 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#880856 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
