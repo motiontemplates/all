@@ -481,7 +481,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae0
 
 用双色套印看清复制、增长和基数差异。适合固定增量与固定比例、谱系和指数规则的解释，提供图示选择引导，可选真人开场后圆窗陪讲。
 
-#808349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#808349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
@@ -493,7 +493,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 
 把步骤、关键词和修订留在同一本点阵手账里。适合方法拆解与学习回顾，提供图标图示选择引导；页面为19.95秒早期风格短样。
 
-#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.5
+#968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -505,7 +505,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f693
 
 用彩色边、面积与刚体拼图讲清几何等量关系。原生新稿围绕直角三角形模型，提供图示选择引导；页面为23.8667秒早期风格短样。
 
-#118272 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#118272 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 

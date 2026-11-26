@@ -462,7 +462,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Two-color printing illustrates replication, growth and differences in the starting quantity. For fixed increments versus fixed ratios, lineages and exponential rules, with diagram guidance and an optional presenter opening and circular window.
 
-#808349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#808349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo video：[https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
@@ -474,7 +474,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Keep steps, keywords and revisions in one dot-grid notebook. For methods and learning reviews, with icon and diagram guidance. The page shows an early 19.95-second style sample.
 
-#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.5
+#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4-alpha.7
 
 Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -486,7 +486,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Colored edges, areas and rigid puzzles explain geometric equivalence. The native example uses a right-triangle model, with diagram selection guidance. The page shows an early 23.8667-second style sample.
 
-#118272 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#118272 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo video：[https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 
