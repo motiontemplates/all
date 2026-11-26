@@ -2421,11 +2421,11 @@ Demo video：[https://media.openaicut.com/previews/1265/1.0.0-0ec8df898253.mp4](
 
 Download .motion from MotionGit：[https://motiongit.com/@jsjauwyw/viewfinder-black-gold](https://motiongit.com/@jsjauwyw/viewfinder-black-gold)
 
-### 187. 一根线画出一封信
+### 187. 线稿故事（竖屏）
 
-<a href="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg"><img src="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg" alt="一根线画出一封信 · Portrait" width="202"></a>
+<a href="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg"><img src="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg" alt="线稿故事（竖屏） · Portrait" width="202"></a>
 
-一根金线在暗底上画出六幕故事：门、纸、信封、邮筒、夜路、到家。30 秒竖屏成片，自带旁白与配乐，改掉标题和旁白就能讲你自己的故事。
+竖屏 9:16 版线稿故事：一根发光的金线在暗底上逐笔画出「一封信」的旅程——门、纸、信封、邮筒、夜路、到家。自带旁白、配乐与环境声，换掉标题与旁白就能讲你自己的故事。适合竖屏故事号、情绪短片与品牌故事。
 
 #900957 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.1
 
