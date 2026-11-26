@@ -354,7 +354,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/creator-canvas
 
 Clear grids, object counts and changing proportions explain percentages, denominators, weights and statistical comparisons. The AI assistant selects diagrams for your script; an on-camera opening is optional.
 
-#257987 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#257987 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
@@ -366,7 +366,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Track clay objects as they split, attach and move. For changes in objects and processes, with AI-guided icon and diagram selection. Optional presenter opening that shrinks into a circular window.
 
-#517652 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#517652 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
@@ -378,7 +378,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Chalk lines progressively explain light, viewpoints and occlusion. For orbits, projections and geometric reasoning, with diagram selection guidance and an optional presenter opening and circular window.
 
-#173723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#173723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
@@ -390,7 +390,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Relations grow along branches and objects move along paths. For hierarchies, branching, local detail and different timescales, with diagram guidance and an optional presenter opening and circular window.
 
-#880856 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#880856 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
@@ -402,7 +402,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Exhibit walls and mechanisms explain shadows, liquid levels, gears, oscillation, frequency division and resonance. The AI assistant selects diagrams; a presenter opening and circular window are optional.
 
-#949192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#949192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
@@ -414,7 +414,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Glowing lines reveal how waveforms meet and delays leave residual signals. For signal superposition, phase and feedback, with diagram guidance and an optional presenter opening and circular window.
 
-#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
@@ -426,7 +426,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Isometric cutaways separate internal structure, material pathways and energy relationships. For heat exchange, compression and energy accounting, with diagram guidance and an optional presenter opening and circular window.
 
-#106531 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#106531 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
@@ -438,7 +438,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Layered paper reveals interiors, compression and movement. For layers, folds, cross-sections and displacement, with diagram guidance and an optional presenter opening and circular window.
 
-#546070 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.4
+#546070 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
 
 Demo video：[https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
