@@ -101,7 +101,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.26
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.29
 
 Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd9.mp4](https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd9.mp4)
 
@@ -115,7 +115,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-zh-99e0d21cfdd
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.19
+#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.22
 
 Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-zh-9086d86d6129.mp4](https://media.openaicut.com/previews/606/draft-zh-9086d86d6129.mp4)
 
@@ -143,7 +143,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.19
+#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.22
 
 Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f16.mp4](https://media.openaicut.com/previews/608/draft-zh-927e16779f16.mp4)
 
@@ -157,7 +157,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-zh-927e16779f1
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.17
+#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.20
 
 Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc67131.mp4](https://media.openaicut.com/previews/609/draft-zh-a33d6dc67131.mp4)
 
@@ -171,7 +171,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc6713
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.19
+#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.22
 
 Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-zh-3200b44b2818.mp4](https://media.openaicut.com/previews/610/draft-zh-3200b44b2818.mp4)
 
@@ -185,7 +185,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-zh-3200b44b281
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.20-alpha.18
+#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.20-alpha.21
 
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b144413879.mp4](https://media.openaicut.com/previews/611/2.5.7-zh-96b144413879.mp4)
 
@@ -199,7 +199,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b14441387
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.18
+#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.21
 
 Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29ba.mp4](https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29ba.mp4)
 
@@ -213,7 +213,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-zh-a93efdfb29b
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.18
+#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.21
 
 Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098e.mp4](https://media.openaicut.com/previews/613/draft-zh-9454c905098e.mp4)
 
@@ -227,7 +227,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.19
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.22
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4](https://media.openaicut.com/previews/614/draft-zh-6382724d35a0.mp4)
 
@@ -241,7 +241,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-zh-6382724d35a
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
 
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.8
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.11
 
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4](https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aae.mp4)
 
@@ -255,7 +255,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.10
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4](https://media.openaicut.com/previews/624/draft-zh-11cf23913cdd.mp4)
 
