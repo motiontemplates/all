@@ -27,7 +27,7 @@ Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and 
 
 [Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
 
-**204 templates · 1 preview projects · 206 demos**
+**206 templates · 1 preview projects · 208 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -45,9 +45,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-204 templates · 1 preview projects · 206 demos
+206 templates · 1 preview projects · 208 demos
 
-204 templates, 206 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+206 templates, 208 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -2409,7 +2409,31 @@ Demo video：[https://media.openaicut.com/previews/1262/1.1.0-zh-3bbf1b067f47.mp
 
 Download .motion from MotionGit：[https://motiongit.com/@5509996qi/superc-character-intro](https://motiongit.com/@5509996qi/superc-character-intro)
 
-### 186. 葱油拌面手记
+### 186. 取景镜头·黑金
+
+<a href="https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg"><img src="https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg" alt="取景镜头·黑金 · Portrait" width="270"></a>
+
+3:4 竖屏口播的相机取景镜头：一个镜头页面按句子在片子里放很多次，每次换版式、模式名和文字；口播视频放在镜头下面，从人物框里透出来。
+
+#561401 · Portrait · 3:4 · 1080 × 1440 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/1265/1.0.0-0ec8df898253.mp4](https://media.openaicut.com/previews/1265/1.0.0-0ec8df898253.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@jsjauwyw/viewfinder-black-gold](https://motiongit.com/@jsjauwyw/viewfinder-black-gold)
+
+### 187. 一根线画出一封信
+
+<a href="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg"><img src="https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg" alt="一根线画出一封信 · Portrait" width="202"></a>
+
+一根金线在暗底上画出六幕故事：门、纸、信封、邮筒、夜路、到家。30 秒竖屏成片，自带旁白与配乐，改掉标题和旁白就能讲你自己的故事。
+
+#900957 · Portrait · 9:16 · 1080 × 1920 · 30 FPS · v0.1.1
+
+Demo video：[https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.mp4](https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@fangcs/0109020001-letter-story](https://motiongit.com/@fangcs/0109020001-letter-story)
+
+### 188. 葱油拌面手记
 
 <a href="https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg"><img src="https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg" alt="葱油拌面手记 · Portrait" width="202"></a>
 
@@ -2421,7 +2445,7 @@ Demo video：[https://media.openaicut.com/previews/1267/0.1.0-alpha.2-zh-9fa811d
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles](https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles)
 
-### 187. 沿河散步路线图
+### 189. 沿河散步路线图
 
 <a href="https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg"><img src="https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg" alt="沿河散步路线图 · Portrait" width="202"></a>
 
@@ -2433,7 +2457,7 @@ Demo video：[https://media.openaicut.com/previews/1268/0.1.0-alpha.2-zh-ae42e31
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk](https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk)
 
-### 188. 半平米玄关图纸
+### 190. 半平米玄关图纸
 
 <a href="https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg"><img src="https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg" alt="半平米玄关图纸 · Portrait" width="202"></a>
 
@@ -2445,7 +2469,7 @@ Demo video：[https://media.openaicut.com/previews/1269/0.1.0-alpha.2-zh-957ad4c
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan](https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan)
 
-### 189. 通勤耳机试听台
+### 191. 通勤耳机试听台
 
 <a href="https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg"><img src="https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg" alt="通勤耳机试听台 · Portrait" width="202"></a>
 
@@ -2457,7 +2481,7 @@ Demo video：[https://media.openaicut.com/previews/1270/0.1.0-alpha.2-zh-db23b01
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-earbud-check](https://motiongit.com/@reedphase-5e9a42/dy-earbud-check)
 
-### 190. 橘子挑选小摊
+### 192. 橘子挑选小摊
 
 <a href="https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg"><img src="https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg" alt="橘子挑选小摊 · Portrait" width="202"></a>
 
@@ -2469,7 +2493,7 @@ Demo video：[https://media.openaicut.com/previews/1271/0.1.0-alpha.2-zh-2e8241e
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter](https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter)
 
-### 191. 三色通勤衣橱
+### 193. 三色通勤衣橱
 
 <a href="https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg"><img src="https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg" alt="三色通勤衣橱 · Portrait" width="202"></a>
 
@@ -2481,7 +2505,7 @@ Demo video：[https://media.openaicut.com/previews/1272/0.1.0-alpha.2-zh-85931bc
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors](https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors)
 
-### 192. 蓝印花布显影录
+### 194. 蓝印花布显影录
 
 <a href="https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg"><img src="https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg" alt="蓝印花布显影录 · Portrait" width="202"></a>
 
@@ -2493,7 +2517,7 @@ Demo video：[https://media.openaicut.com/previews/1273/0.1.0-alpha.2-zh-2ef5d21
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-indigo-print](https://motiongit.com/@reedphase-5e9a42/dy-indigo-print)
 
-### 193. 夜跑出门检查单
+### 195. 夜跑出门检查单
 
 <a href="https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg"><img src="https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg" alt="夜跑出门检查单 · Portrait" width="202"></a>
 
@@ -2505,7 +2529,7 @@ Demo video：[https://media.openaicut.com/previews/1274/0.1.0-alpha.2-zh-177e2be
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit](https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit)
 
-### 194. 周末演出入场券
+### 196. 周末演出入场券
 
 <a href="https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg"><img src="https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg" alt="周末演出入场券 · Portrait" width="202"></a>
 
@@ -2517,7 +2541,7 @@ Demo video：[https://media.openaicut.com/previews/1275/0.1.0-alpha.2-zh-1cc81e4
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket](https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket)
 
-### 195. 积木里的几何课
+### 197. 积木里的几何课
 
 <a href="https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg"><img src="https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg" alt="积木里的几何课 · Portrait" width="202"></a>
 
@@ -2529,7 +2553,7 @@ Demo video：[https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-453d7c4
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks](https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks)
 
-### 196. 讲师的演示台
+### 198. 讲师的演示台
 
 <a href="https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg"><img src="https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg" alt="讲师的演示台 · Portrait" width="202"></a>
 
@@ -2541,7 +2565,7 @@ Demo video：[https://media.openaicut.com/previews/1277/0.1.0-alpha.3-zh-f382583
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop](https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop)
 
-### 197. 一封读者来信
+### 199. 一封读者来信
 
 <a href="https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg"><img src="https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg" alt="一封读者来信 · Portrait" width="202"></a>
 
@@ -2553,7 +2577,7 @@ Demo video：[https://media.openaicut.com/previews/1278/0.1.0-alpha.3-zh-0ac8219
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter](https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter)
 
-### 198. 新品发布主场
+### 200. 新品发布主场
 
 <a href="https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg"><img src="https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg" alt="新品发布主场 · Portrait" width="202"></a>
 
@@ -2565,7 +2589,7 @@ Demo video：[https://media.openaicut.com/previews/1279/0.1.0-alpha.3-zh-ec57b43
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch](https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch)
 
-### 199. 两天的拍摄手记
+### 201. 两天的拍摄手记
 
 <a href="https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg"><img src="https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg" alt="两天的拍摄手记 · Portrait" width="202"></a>
 
@@ -2577,7 +2601,7 @@ Demo video：[https://media.openaicut.com/previews/1280/0.1.0-alpha.3-zh-ab2a176
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary](https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary)
 
-### 200. 两栏体验报告
+### 202. 两栏体验报告
 
 <a href="https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg"><img src="https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg" alt="两栏体验报告 · Portrait" width="202"></a>
 
@@ -2589,7 +2613,7 @@ Demo video：[https://media.openaicut.com/previews/1281/0.1.0-alpha.3-zh-c1d685e
 
 Download .motion from MotionGit：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict](https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict)
 
-### 201. 上新功能看板
+### 203. 上新功能看板
 
 <a href="https://media.openaicut.com/covers/1282/0.1.0-alpha.1-zh-ecd457191916.jpg"><img src="https://media.openaicut.com/covers/1282/0.1.0-alpha.1-zh-ecd457191916.jpg" alt="上新功能看板 · Portrait" width="202"></a>
 
@@ -2601,7 +2625,7 @@ Demo video：[https://media.openaicut.com/previews/1282/0.1.0-alpha.1-zh-1df0b21
 
 Download .motion from MotionGit：[https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card](https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card)
 
-### 202. 经纬路线简报
+### 204. 经纬路线简报
 
 <a href="https://media.openaicut.com/covers/1283/0.1.0-alpha.1-zh-ed5590dac01d.jpg"><img src="https://media.openaicut.com/covers/1283/0.1.0-alpha.1-zh-ed5590dac01d.jpg" alt="经纬路线简报 · Portrait" width="202"></a>
 
@@ -2613,7 +2637,7 @@ Demo video：[https://media.openaicut.com/previews/1283/0.1.0-alpha.1-zh-b92cbd8
 
 Download .motion from MotionGit：[https://motiongit.com/@route-studio-56a39b/route-world-brief](https://motiongit.com/@route-studio-56a39b/route-world-brief)
 
-### 203. 趋势拆解图
+### 205. 趋势拆解图
 
 <a href="https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg"><img src="https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg" alt="趋势拆解图 · Portrait" width="202"></a>
 
@@ -2625,7 +2649,7 @@ Demo video：[https://media.openaicut.com/previews/1284/0.1.0-alpha.1-zh-205e9b9
 
 Download .motion from MotionGit：[https://motiongit.com/@trend-studio-954b51/trend-dispatch](https://motiongit.com/@trend-studio-954b51/trend-dispatch)
 
-### 204. 三道招牌菜
+### 206. 三道招牌菜
 
 <a href="https://media.openaicut.com/covers/1285/0.1.0-alpha.1-zh-c06f63d00d2a.jpg"><img src="https://media.openaicut.com/covers/1285/0.1.0-alpha.1-zh-c06f63d00d2a.jpg" alt="三道招牌菜 · Portrait" width="202"></a>
 
@@ -2637,7 +2661,7 @@ Demo video：[https://media.openaicut.com/previews/1285/0.1.0-alpha.1-zh-8326f47
 
 Download .motion from MotionGit：[https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages](https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages)
 
-### 205. 设备巡检读数台
+### 207. 设备巡检读数台
 
 <a href="https://media.openaicut.com/covers/1286/0.1.0-alpha.1-zh-398716b2add8.jpg"><img src="https://media.openaicut.com/covers/1286/0.1.0-alpha.1-zh-398716b2add8.jpg" alt="设备巡检读数台 · Portrait" width="202"></a>
 
@@ -2649,7 +2673,7 @@ Demo video：[https://media.openaicut.com/previews/1286/0.1.0-alpha.1-zh-684edc8
 
 Download .motion from MotionGit：[https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log](https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log)
 
-### 206. 三步讲清加权平均
+### 208. 三步讲清加权平均
 
 <a href="https://media.openaicut.com/covers/1287/0.1.0-alpha.1-zh-268f783c2bab.jpg"><img src="https://media.openaicut.com/covers/1287/0.1.0-alpha.1-zh-268f783c2bab.jpg" alt="三步讲清加权平均 · Portrait" width="202"></a>
 
