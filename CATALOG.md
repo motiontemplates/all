@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-209 个模板 · 1 个测试项目 · 211 个 Demo
+212 个模板 · 1 个测试项目 · 214 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-209 个模板，211 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+212 个模板，214 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2701,6 +2701,42 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1307/0.1.3-zh-b5a6f40155
 Demo 视频：[▶ https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c6c.mp4](https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c6c.mp4)
 
 官网下载 .motion：[https://motiongit.com/@huangyiming/chapter-portrait-kit](https://motiongit.com/@huangyiming/chapter-portrait-kit)
+
+### 212. 产品讲解
+
+![产品讲解 · 竖屏](https://media.openaicut.com/covers/1311/1.0.0-6a941f7c66ca.jpg)
+
+竖屏（1080×1920）旅行攻略、出行指南类口播的整片动效：11 种镜头组按一张镜头表排在口播上。
+
+#1311 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1311/1.0.0-03152006f277.mp4](https://media.openaicut.com/previews/1311/1.0.0-03152006f277.mp4)
+
+官网下载 .motion：[https://motiongit.com/@huangyiming/travel-guide-talking-head](https://motiongit.com/@huangyiming/travel-guide-talking-head)
+
+### 213. 旅游线路口播通用模板
+
+![旅游线路口播通用模板 · 竖屏](https://media.openaicut.com/covers/1313/1.0.0-f22336f886b0.jpg)
+
+面向旅行社的竖屏两日旅游线路口播通用模板：出发地强聚焦 + 双景点实拍板块 + 全屏人物情绪高光 + 青绿第一天与暖橙第二天高对比换天区分。
+
+#1313 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1313/1.0.0-12d160d0c290.mp4](https://media.openaicut.com/previews/1313/1.0.0-12d160d0c290.mp4)
+
+官网下载 .motion：[https://motiongit.com/@huangyiming/travel-route-talking-head](https://motiongit.com/@huangyiming/travel-route-talking-head)
+
+### 214. 旅行社推荐线路通用模板
+
+![旅行社推荐线路通用模板 · 竖屏](https://media.openaicut.com/covers/1315/1.0.0-307be5e717b4.jpg)
+
+竖屏口播动效旅行线路通用模板：支持1至7天与每日任意1至5个不等量打卡点，自动区分入住酒店与返程回家，内置口播人物窗、景点素材窗与中段风景大片空置占位及一键透明镂空模式。
+
+#1315 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1315/1.0.0-6d0448de2d4d.mp4](https://media.openaicut.com/previews/1315/1.0.0-6d0448de2d4d.mp4)
+
+官网下载 .motion：[https://motiongit.com/@huangyiming/travel-route-itinerary](https://motiongit.com/@huangyiming/travel-route-itinerary)
 
 ## 使用教程
 
