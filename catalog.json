@@ -8234,7 +8234,9 @@
           "preview": "https://media.openaicut.com/covers/1243/1.0.1-9ce419507871.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请提供品牌中英文名、一句短标语和五款产品的显示名称。 · 用于替换品牌中英文名、顶部短词与五款产品名称。 · 保留模板默认的虚构品牌与产品名。 请提供你有权使用的产品静物图，建议竖版长边 1600px 以上。 · 如需换成自家产品静物，可替换 assets/tex/model.jpg 与 silk2.jpg 等实拍层，保持裁切与位置。 · 保留内置 Pixabay 材质层。 如需要声音，请提供有权使用的纯音乐；无授权音乐时保持静音。 · 模板本身不含音轨；背景音乐与低频音效需要在客户端或剪辑软件中单独混音。 · 静音输出。 中文品牌名 · 2–6 字，替换画面中的“颜料室”。 英文品牌名 · 1–3 个英文词，最多 24 字符，替换“PIGMENT ROOM”。 顶部短词 · 1–2 个英文词，最多 20 字符，替换“CONCEPT FILM”。 五款产品名 · 每条 2–24 字符，按顺序替换五款产品名。"
+      },
       "demo": "https://media.openaicut.com/previews/1243/1.0.1-zh-d9ba98169eaf.mp4",
       "poster": "https://media.openaicut.com/covers/1243/1.0.1-zh-34b6eec93f44.jpg",
       "preview": "https://media.openaicut.com/covers/1243/1.0.1-zh-34b6eec93f44.jpg"
@@ -8280,7 +8282,9 @@
           "preview": "https://media.openaicut.com/covers/1244/1.0.0-9c208798f521.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "主标题 · 2–8 个字，开篇大字与片尾落版共用。建议 2–5 字，取品类名或系列名；超过 6 字开篇大字会被裁形。 英文副标题 · 2–24 个字符的拉丁字母短句，全大写呈现，例如品类英文名加 ARCHIVE / SERIES 一类的后缀。 开篇放大字 · 2–6 个纯字母，会被逐字放大拉开成 6 格大字；缺省时自动取英文副标题的前 6 个字母，一般不必单独填写。 十条字幕 · 固定 10 条，第 n 条对应第 n 个镜头（0/2.8/5.4/8.4/11.4/14.6/17.6/20.6/23.4/26.0 秒起）。单条建议不超过 24 个汉字；用「｜」把黄色编号前缀（如「001 草编」）与正文分开，不用「｜」则整条为米白字。最后一条是落版句。"
+      },
       "demo": "https://media.openaicut.com/previews/1244/1.0.0-46d889e20b72.mp4",
       "poster": "https://media.openaicut.com/covers/1244/1.0.0-9c208798f521.jpg",
       "preview": "https://media.openaicut.com/covers/1244/1.0.0-9c208798f521.jpg"
@@ -8326,7 +8330,9 @@
           "preview": "https://media.openaicut.com/covers/1245/1.0.0-zh-2a7da7d8568f.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "无需额外提供。若要换成自己的产品图，需替换 assets/img/ 并在 src/data.js 中保持同名，再重新打包。 · 24 张产品图按 8 类产品固定绑定在 assets/img/，作为模板的视觉资产直接参与构图、裁切、叠卡和纹理。 · 使用内置产品图。 无需额外提供；替换视频窗需要按原命名重新抽帧。 · 5 组逐帧序列（v_fluid / v_tunnel / v_circuit / v_data / v_mesh）在屏幕窗、胶片条和纹理层中循环，是动效的一部分。 · 使用内置逐帧序列。 如要换曲，提供有权使用的 45 秒以上音乐；不要裁短或改变镜头时长。 · 45 秒背景音乐在 assets/music.mp3；音效时间线与音量在 src/soundtrack.json。完整混音已包含在 previews/demo.mp4。 · 使用内置音乐与音效；用户要求静音时导出静音版本。 请给出 1 个英文主标题（≤20 字符）、1 个中文片名（≤12 字）、8 组产品名/中文短名/卖点短句。 · 提供片名、中文短名、8 类产品英文名、中文短名和卖点短句，用于替换全片文字。 · 使用 presets/demo.json 的 PRISM PULSE 默认文案。 英文主标题 · 1–20 字符；替换开场与片尾的“PRISM PULSE”。 中文片名 · 2–6 字最好，最多 12 字；替换“棱镜脉冲”。 8 个英文产品名 · 每个 1–16 字符；按手机、耳机、相机、笔电、腕表、音箱、键盘、平板顺序。 8 个中文短名 · 每个 1–6 字；显示在卡片角标。 8 条卖点短句 · 每条 1–28 字符；建议 2–4 个英文词，用 “/” 分隔；不要写长句。 8 组撞色 · 各为 #RRGGBB；accent 用于主标题、边框和扫光，accent2 用于副标题、网格和粒子。"
+      },
       "demo": "https://media.openaicut.com/previews/1245/1.0.0-zh-4466aa391590.mp4",
       "poster": "https://media.openaicut.com/covers/1245/1.0.0-zh-2a7da7d8568f.jpg",
       "preview": "https://media.openaicut.com/covers/1245/1.0.0-zh-2a7da7d8568f.jpg"
@@ -8372,7 +8378,9 @@
           "preview": "https://media.openaicut.com/covers/1246/1.0.0-zh-2475d7dddfd7.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "主标题 · 2–6 个汉字，开篇拆成两行大字，落版整条呈现。建议 4 字（如「背包档案」）；2 字时开篇第二行为空。 英文副标题 · 2–20 个字符的拉丁字母，全大写出现。建议两个英文词（例如 PACK ARCHIVE / BAG FILES）。 七条条目 · 固定 7 条，顺序即编号 001–007。每条给中文名（1–3 字）、英文名（全大写）、1–2 句说明；第 1、2 条还可给 3 行规格（键 ≤6 字，值 ≤18 字）。第 7 条是片尾留白格，通常只写一句「还差一只」之类的收尾。 数字 · 003 镜的年里程、004 镜的每日公里与负重、005 镜的通勤分钟/换乘/日行公里/雨天，都可单独改；不填时用预设值。"
+      },
       "demo": "https://media.openaicut.com/previews/1246/1.0.0-zh-ae335b4ec2db.mp4",
       "poster": "https://media.openaicut.com/covers/1246/1.0.0-zh-2475d7dddfd7.jpg",
       "preview": "https://media.openaicut.com/covers/1246/1.0.0-zh-2475d7dddfd7.jpg"
@@ -8418,7 +8426,9 @@
           "preview": "https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "有领奖合影吗？可以直接发照片。 · 片尾先展示领奖合影，再推近转到选手照片。 · 只展示选手照片，标题提前出现。 有选手的单人照或奖杯近照吗？ · 凸显选手的片尾照片，保留完整画面，背景以同图柔化补满。 · 有合影用合影落款；两张都没有时，将包装叠在视频上，显示深色渐变和荣誉文字。 片尾有需要展示的机构标志吗？没有也可以。 · 片尾下方由左往右擦亮、落定时响一声。 · 省略标志和落点音效。 选手姓名 · 请按本人用字填写，最多十八个字，短名字更醒目。 赛事名称 · 照赛事通知填写，尽量二十四个字以内，绝不猜年份和主办方。 比赛组别 · 保留组别和舞种，最多二十二个字。 所属机构 · 照用户确认的名称，最多二十二个字；留空就收起。 获奖称号 · 按真实结果填写，最多八个字。"
+      },
       "demo": "https://media.openaicut.com/previews/1247/1.0.0-0f8832da816e.mp4",
       "poster": "https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg",
       "preview": "https://media.openaicut.com/covers/1247/1.0.0-c5da5a60df99.jpg"
@@ -8464,7 +8474,9 @@
           "preview": "https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "开篇主标题 · 2–6 个汉字，自动拆两行大字。建议 4 字（如「充电外设」）；2 字时第二行为空。 落版产品名 · 2–8 个汉字，落版整条呈现，写清楚到底是什么（如「三口充电头」）。 英文规格行 · 2–30 个字符，全大写拉丁字母/数字/点/中点，例如 100W · GAN II · 3 PORT。 数字 · 002 镜主功率 heroW（W）、006 镜满载温度 tempC（°C），不填用 100 / 42。"
+      },
       "demo": "https://media.openaicut.com/previews/1248/1.0.0-zh-76fe985a0dba.mp4",
       "poster": "https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg",
       "preview": "https://media.openaicut.com/covers/1248/1.0.0-zh-b70d49993110.jpg"
@@ -8510,7 +8522,9 @@
           "preview": "https://media.openaicut.com/covers/1251/1.0.0-933ddca4442d.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "有按讲解顺序排好的图解吗？发原图就行。 · 依次放入 22 张，分配为提问 3 张、拆解 5 张、方法 7 张、对照 7 张。 · 全部留空可看标明示意的信件演示；制作正式内容应填齐 22 张，不混用演示图。 总题目 · 出现在页眉；最多 18 字，留空不显示。 提问标题 · 说出观众真正想问的问题；最多 18 字，建议 8 至 14 字。 提问要点 · 先给一条观察线索，不必提前给答案；最多 26 字。 拆解标题 · 写画面能支持的原因；最多 18 字。 拆解要点 · 说明原因和结果间的关系；最多 26 字。 方法标题 · 点名方法，不提前塞进三项细则；最多 18 字。 方法要点 · 写贯穿三步的共同原则；最多 26 字。 对照标题 · 点出需要比较的两种情况；最多 18 字。 对照要点 · 把结论写成一句可带走的话；最多 26 字。 第一步提示 · 第 11 张图开始约两秒后放大一句，忠于素材；最多 28 字，留空用本章要点。 第二步提示 · 第 12 张图开始约两秒后出现；最多 28 字，留空用本章要点。 第三步提示 · 第 13 张图开始约两秒后出现；最多 28 字，留空用本章要点。"
+      },
       "demo": "https://media.openaicut.com/previews/1251/1.0.0-cf6952319813.mp4",
       "poster": "https://media.openaicut.com/covers/1251/1.0.0-933ddca4442d.jpg",
       "preview": "https://media.openaicut.com/covers/1251/1.0.0-933ddca4442d.jpg"
@@ -8556,7 +8570,9 @@
           "preview": "https://media.openaicut.com/covers/1252/1.0.0-656b22c60a91.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "品牌名 · 品牌或产品名，1–16 字，会出现在开场与落版 开场副标（左） · 一句话点明品类，如“物质 / OBJECTS” 开场副标（右） · 系列或编号，如“FORM 01 — SKIN & LIP” 产品线 · 三件套或主推产品，用 · 分隔 落版信息 · 品牌 / 系列 / 年份 强调色 · 只影响极少数色块与巨型字母，默认正红"
+      },
       "demo": "https://media.openaicut.com/previews/1252/1.0.0-93a21e9b21e0.mp4",
       "poster": "https://media.openaicut.com/covers/1252/1.0.0-656b22c60a91.jpg",
       "preview": "https://media.openaicut.com/covers/1252/1.0.0-656b22c60a91.jpg"
@@ -8602,7 +8618,9 @@
           "preview": "https://media.openaicut.com/covers/1254/0.2.3-d4b0760b3758.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请提供要讲的内容，按幕组织；每幕一句话旁白，并说明要画出什么 · 每幕一组笔画（6 类原语）、一句旁白、可选环境声；笔画时间为幕内局部时间，窗口可手工写或由 plan 派生 需要换色调就给颜色；不提供走默认金色暗底 · 主色/辅色/底色/灯色、管径、泛光与机位留边 · 使用默认金色细线与深色暗底 需要标题就告诉我文字与出现位置；不提供则不显示 · 标题文案、出现时机与淡入时长 · 成片不出现标题 有旁白文案就逐句给，统一音色；无旁白可出静默幕（会 WARN） · 三总线：旁白逐句 TTS、配乐与环境声随包；旁白时自动压低音乐，母带 -14 LUFS、TP -1.5 · 无声轨时按内容推导时长，成片为默片 故事编排 · 作者按幕提供内容（旁白＋要画的对象），不逐笔填坐标；宿主负责把内容落成笔画与窗口，模板只负责渲染正确性与音画同步"
+      },
       "demo": "https://media.openaicut.com/previews/1254/0.2.3-df2772fd6ca5.mp4",
       "poster": "https://media.openaicut.com/covers/1254/0.2.3-d4b0760b3758.jpg",
       "preview": "https://media.openaicut.com/covers/1254/0.2.3-d4b0760b3758.jpg"
@@ -8648,7 +8666,9 @@
           "preview": "https://media.openaicut.com/covers/1255/1.0.0-a5dd61c675b7.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "数字 · 用用户给的数字原样写，2–6 位效果最好，最多 8 个字；数字以外的字母也可以 小标题（留空不显示） · 一句短说明，4–8 个汉字最好，最多 12 个；前一半白色、后一半强调色"
+      },
       "demo": "https://media.openaicut.com/previews/1255/1.0.0-57e0fbb8a44e.mp4",
       "poster": "https://media.openaicut.com/covers/1255/1.0.0-a5dd61c675b7.jpg",
       "preview": "https://media.openaicut.com/covers/1255/1.0.0-a5dd61c675b7.jpg"
@@ -8694,7 +8714,9 @@
           "preview": "https://media.openaicut.com/covers/1256/1.0.0-zh-f8563cbac436.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "要不要换成你自己的图？开场、孟菲斯、毛绒与落版共用的主视觉；建议竖构图静物 · 开场、孟菲斯、毛绒与落版共用的主视觉；建议竖构图静物 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？侘寂与双重曝光；建议带暖光的器物近景 · 侘寂与双重曝光；建议带暖光的器物近景 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？包豪斯与双重曝光叠加层；建议浅底静物 · 包豪斯与双重曝光叠加层；建议浅底静物 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？MG 与赛博朋克画中画；建议灰调器物 · MG 与赛博朋克画中画；建议灰调器物 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？粗野主义黑白高对比画面 · 粗野主义黑白高对比画面 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？毛绒质感镜的背景织物 · 毛绒质感镜的背景织物 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？双重曝光的底层烟气 · 双重曝光的底层烟气 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？赛博朋克镜的霓虹街景 · 赛博朋克镜的霓虹街景 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 要不要换成你自己的图？收束镜圆窗里的产品组合 · 收束镜圆窗里的产品组合 · 沿用包内样例图；页面保留 data-film-sample 标记，绑定用户图后自动移除 有没有一段 1080p、不超过 6 秒的产品动态镜头？没有就用静帧。 · 侘寂镜画框与落版卡片的动态底板，按镜头本地时间循环播放 · 回落到 imgHeroA / imgHeroB 静帧，画面不出现空镜 开场短语 · 黑白硬光镜的主标题上方短语；长度 1–16 字符 开场大字 · 第一镜的巨型字，建议 4–10 个字符；长度 1–8 字符 开场说明 · 左下角小字，风格与工艺说明；长度 1–38 字符 侘寂背景字 · 侘寂镜左侧大号单字或短词；长度 1–3 字符 侘寂竖排标题 · 画框左侧竖排标题；长度 1–14 字符 侘寂主文案 · 底部主文案，字距较宽；长度 1–16 字符 侘寂副文案 · 底部第二行，英文／中文短语；长度 1–34 字符 包豪斯标题 · 圆环下方的无衬线大字；长度 1–12 字符 包豪斯竖排 · 右侧竖排短句；长度 1–10 字符 包豪斯说明 · 底部说明行；长度 1–44 字符 MG 主数字 · MG 镜左侧描边大数字；长度 1–4 字符 MG 数字副标 · 数字下方的小标签；长度 1–10 字符"
+      },
       "demo": "https://media.openaicut.com/previews/1256/1.0.0-zh-b08603fdc1a7.mp4",
       "poster": "https://media.openaicut.com/covers/1256/1.0.0-zh-f8563cbac436.jpg",
       "preview": "https://media.openaicut.com/covers/1256/1.0.0-zh-f8563cbac436.jpg"
@@ -8740,7 +8762,9 @@
           "preview": "https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "如果想换配乐，请提供一段约 30 秒的音乐；不提供就用随包原曲 · 作为整片配乐，随最终编码混入；包内已提供 bed.wav，通常直接复用 · 静音渲染画面，动画与字幕照常，配乐轨为空"
+      },
       "demo": "https://media.openaicut.com/previews/1259/1.0.0-77f54c412f14.mp4",
       "poster": "https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg",
       "preview": "https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg"
@@ -8786,7 +8810,9 @@
           "preview": "https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "主标题 · 一行暖黄发光大字，最长 14 字；超长会被截断，建议 8–12 字的挑衅句式 副标题 · 一行小字，最长 16 字，可留空字符串 粒子色 RGB · [R,G,B] 各 0–255，默认荧光绿 [124,255,58]；亮色系错觉效果最佳，禁用接近黑色的深色 粒子图形 · arrow 逆转箭头（默认，方向翻转感最强）/ rings 双环互扣（前后两可）"
+      },
       "demo": "https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.mp4",
       "poster": "https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg",
       "preview": "https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg"
@@ -8832,7 +8858,9 @@
           "preview": "https://media.openaicut.com/covers/1261/1.0.0-en-8670f1674d3b.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "有没有产品左前 3/4 的透明底图？ · 左前 3/4 视角；首镜、微距、三联画中栏与径向声场 · 沿用包内样例图；建议保持透明底与相近宽高比 有没有产品低机位正面的透明底图？ · 低机位正面；日式、波普与落版 · 沿用包内样例图；建议保持透明底与相近宽高比 有没有产品俯视 45° 的透明底图？ · 俯视 45°；材料分屏与黑胶手部镜头 · 沿用包内样例图；建议保持透明底与相近宽高比 有没有产品左侧面的透明底图？ · 左侧面；中古室内、公路与线稿房屋 · 沿用包内样例图；建议保持透明底与相近宽高比 有没有产品后方 3/4 的透明底图？ · 后方 3/4；水彩标本与材料面板 · 沿用包内样例图；建议保持透明底与相近宽高比 有没有产品正面的透明底图？ · 正面技术图；剖面 Ghost 与正面补充 · 沿用包内样例图；建议保持透明底与相近宽高比 品牌名（全局替换） · 替换页面里所有硬编码的 AURA 品牌提及；默认 AURA。长度 1–24 字符。 开场大字 · 模板内可替换文案；支持换行。建议不超过 24 字符。 开场编号 · 模板内可替换文案；支持换行。建议不超过 24 字符。 开场副标题 · 模板内可替换文案；支持换行。建议不超过 36 字符。 开场说明 · 模板内可替换文案；支持换行。建议不超过 160 字符。 波形标签 · 模板内可替换文案；支持换行。建议不超过 35 字符。 第二镜上方短语 · 模板内可替换文案；支持换行。建议不超过 52 字符。 标题前半 · 模板内可替换文案；支持换行。建议不超过 24 字符。 标题后半 · 模板内可替换文案；支持换行。建议不超过 24 字符。 副标题 · 模板内可替换文案；支持换行。建议不超过 160 字符。 主文案 · 模板内可替换文案；支持换行。建议不超过 160 字符。 第三镜上方短语 · 模板内可替换文案；支持换行。建议不超过 55 字符。"
+      },
       "demo": "https://media.openaicut.com/previews/1261/1.0.0-en-de1bf591eea2.mp4",
       "poster": "https://media.openaicut.com/covers/1261/1.0.0-en-8670f1674d3b.jpg",
       "preview": "https://media.openaicut.com/covers/1261/1.0.0-en-8670f1674d3b.jpg"
@@ -8878,7 +8906,9 @@
           "preview": "https://media.openaicut.com/covers/1262/1.1.0-zh-08a143017b2f.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请提供角色图与顺序。 · 依次显示 4–8 张角色图。 有单独的封面图吗？ · 2 秒封面。 · 使用首位角色图。 系列名 · 10 个字符以内。 片尾问题 · 22 个字符以内，围绕本组角色提问。"
+      },
       "demo": "https://media.openaicut.com/previews/1262/1.1.0-zh-3bbf1b067f47.mp4",
       "poster": "https://media.openaicut.com/covers/1262/1.1.0-zh-08a143017b2f.jpg",
       "preview": "https://media.openaicut.com/covers/1262/1.1.0-zh-08a143017b2f.jpg"
@@ -8924,7 +8954,9 @@
           "preview": "https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "有你对着镜头讲的口播视频吗？直接把原文件拖进来就行。 · 放在镜头页面下面那一轨，用框对准当前版式的人物框（圆角 24，裁切铺满，按脸取景），口播声音照常出。人物框位置（左、上、宽、高，按 1080×1440 的画面）：版式 1 为 150、162、780、640；版式 2 为 560、170、440、588；版式 3 为 80、170、440、588；版式 4 为 110、162、860、860。放好后关掉人物占位画面。 · 没有口播视频时，可以用一张人物照片放在同样的位置；什么都没有就保留占位画面，只用于演示。 口播里说的话需要我先转成字幕给你核对一遍吗？ · 按逐字时间切镜头、定每一镜的长度，并把每个动作对到词上；字幕由编辑器自己显示，不画在镜头里。 · 从口播视频转写；只有文稿没有声音时，按每秒约 4.5 个字估算时长，并说明是估算。 有这条口播的文稿或提纲吗？有的话贴给我，标题会更准。 · 从文稿里挑每一镜的标题、重点词、小卡短语和印章字。 · 直接从口播字幕里挑词。 顶部模式名 · 不超过 4 个字，用相机模式名（照片、人像、视频、全景、延时、连拍、自拍、夜景）表示这一章，同一章不换，换章才换。 右上角章节名 · 不超过 6 个字，写这一章在讲什么；可以留空。 标题白字 · 不超过 10 个字，取口播原话的前半句，和重点词连起来读通；不编口播里没说的观点。 标题重点词 · 不超过 6 个字，用口播原词，落在说出这个词的时刻。 印章字 · 不超过 5 个字的定论（记住、划重点、别踩坑、开拍），一条片子最多三四个，放在结论句；数字没有出处时不上印章。 小卡短语 · 每张不超过 7 个字，一到三张；错的、被否定的标划掉，对的、做完的标打勾，并列要点不标记。第 2、3 张同样规则。 第 2 张小卡 · 同第 1 张；留空就少一张。 第 3 张小卡 · 同第 1 张；留空就少一张。"
+      },
       "demo": "https://media.openaicut.com/previews/1265/1.0.0-0ec8df898253.mp4",
       "poster": "https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg",
       "preview": "https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg"
@@ -8970,7 +9002,9 @@
           "preview": "https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请提供要讲的内容，按幕组织；每幕一句话旁白，并说明要画出什么 · 每幕一组笔画（6 类原语）、一句旁白、可选环境声；笔画时间为幕内局部时间，窗口可手工写或由 plan 派生 需要换色调就给颜色；不提供走默认金色暗底 · 主色/辅色/底色/灯色、管径、泛光与机位留边 · 使用默认金色细线与深色暗底 需要标题就告诉我文字与出现位置；不提供则不显示 · 标题文案、出现时机与淡入时长 · 成片不出现标题 有旁白文案就逐句给，统一音色；无旁白可出静默幕（会 WARN） · 三总线：旁白逐句 TTS、配乐与环境声随包；旁白时自动压低音乐，母带 -14 LUFS、TP -1.5 · 无声轨时按内容推导时长，成片为默片 故事编排 · 作者按幕提供内容（旁白＋要画的对象），不逐笔填坐标；宿主负责把内容落成笔画与窗口，模板只负责渲染正确性与音画同步"
+      },
       "demo": "https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.mp4",
       "poster": "https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg",
       "preview": "https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg"
@@ -9016,7 +9050,9 @@
           "preview": "https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1267/0.1.0-alpha.2-zh-9fa811d9578b.mp4",
       "poster": "https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg",
       "preview": "https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg"
@@ -9062,7 +9098,9 @@
           "preview": "https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1268/0.1.0-alpha.2-zh-ae42e31ed8c6.mp4",
       "poster": "https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg",
       "preview": "https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg"
@@ -9108,7 +9146,9 @@
           "preview": "https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1269/0.1.0-alpha.2-zh-957ad4c24057.mp4",
       "poster": "https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg",
       "preview": "https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg"
@@ -9154,7 +9194,9 @@
           "preview": "https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1270/0.1.0-alpha.2-zh-db23b018d769.mp4",
       "poster": "https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg",
       "preview": "https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg"
@@ -9200,7 +9242,9 @@
           "preview": "https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1271/0.1.0-alpha.2-zh-2e8241eea835.mp4",
       "poster": "https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg",
       "preview": "https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg"
@@ -9246,7 +9290,9 @@
           "preview": "https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1272/0.1.0-alpha.2-zh-85931bcc6ae8.mp4",
       "poster": "https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg",
       "preview": "https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg"
@@ -9292,7 +9338,9 @@
           "preview": "https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1273/0.1.0-alpha.2-zh-2ef5d21f3a70.mp4",
       "poster": "https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg",
       "preview": "https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg"
@@ -9338,7 +9386,9 @@
           "preview": "https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1274/0.1.0-alpha.2-zh-177e2be4bbd9.mp4",
       "poster": "https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg",
       "preview": "https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg"
@@ -9384,7 +9434,9 @@
           "preview": "https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1275/0.1.0-alpha.2-zh-1cc81e428397.mp4",
       "poster": "https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg",
       "preview": "https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg"
@@ -9430,7 +9482,9 @@
           "preview": "https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "栏目名 · 结合本期内容填写，遵循参数规定的字数。 强调色 · 填写六位十六进制色值。 镜 1 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 1 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 2 · 字幕 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 标题 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 图注 · 结合本期内容填写，遵循参数规定的字数。 镜 3 · 字幕 · 结合本期内容填写，遵循参数规定的字数。"
+      },
       "demo": "https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-453d7c4249e1.mp4",
       "poster": "https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg",
       "preview": "https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg"
@@ -9476,7 +9530,9 @@
           "preview": "https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请发本期要用的有声口播视频。 · 提供出镜者的画面和同期声。 有这段视频对应的字幕文件吗？ · 定位语句、字幕和章节。 · 阿杜导演可就本期视频先转写并校对 SRT，随后与视频一起绑定。仅使用素材分析的路线可以直接提供句级时间。 主标题 · 根据本期主题和出镜内容填写。 副标题 · 根据本期主题和出镜内容填写。 栏目署名 · 根据本期主题和出镜内容填写。 强调色 · 根据本期主题和出镜内容填写。 人物素材编号 · 根据本期主题和出镜内容填写。 人物裁切横向焦点 · 根据本期主题和出镜内容填写。 人物裁切纵向焦点 · 根据本期主题和出镜内容填写。 章节 · 根据本期主题和出镜内容填写。"
+      },
       "demo": "https://media.openaicut.com/previews/1277/0.1.0-alpha.3-zh-f382583b19f3.mp4",
       "poster": "https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg",
       "preview": "https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg"
@@ -9522,7 +9578,9 @@
           "preview": "https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请发本期要用的有声口播视频。 · 提供出镜者的画面和同期声。 有这段视频对应的字幕文件吗？ · 定位语句、字幕和章节。 · 阿杜导演可就本期视频先转写并校对 SRT，随后与视频一起绑定。仅使用素材分析的路线可以直接提供句级时间。 主标题 · 根据本期主题和出镜内容填写。 副标题 · 根据本期主题和出镜内容填写。 栏目署名 · 根据本期主题和出镜内容填写。 强调色 · 根据本期主题和出镜内容填写。 人物素材编号 · 根据本期主题和出镜内容填写。 人物裁切横向焦点 · 根据本期主题和出镜内容填写。 人物裁切纵向焦点 · 根据本期主题和出镜内容填写。 章节 · 根据本期主题和出镜内容填写。"
+      },
       "demo": "https://media.openaicut.com/previews/1278/0.1.0-alpha.3-zh-0ac8219e25a0.mp4",
       "poster": "https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg",
       "preview": "https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg"
@@ -9568,7 +9626,9 @@
           "preview": "https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请发本期要用的有声口播视频。 · 提供出镜者的画面和同期声。 有这段视频对应的字幕文件吗？ · 定位语句、字幕和章节。 · 阿杜导演可就本期视频先转写并校对 SRT，随后与视频一起绑定。仅使用素材分析的路线可以直接提供句级时间。 主标题 · 根据本期主题和出镜内容填写。 副标题 · 根据本期主题和出镜内容填写。 栏目署名 · 根据本期主题和出镜内容填写。 强调色 · 根据本期主题和出镜内容填写。 人物素材编号 · 根据本期主题和出镜内容填写。 人物裁切横向焦点 · 根据本期主题和出镜内容填写。 人物裁切纵向焦点 · 根据本期主题和出镜内容填写。 章节 · 根据本期主题和出镜内容填写。"
+      },
       "demo": "https://media.openaicut.com/previews/1279/0.1.0-alpha.3-zh-ec57b436552f.mp4",
       "poster": "https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg",
       "preview": "https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg"
@@ -9614,7 +9674,9 @@
           "preview": "https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请发本期要用的有声口播视频。 · 提供出镜者的画面和同期声。 有这段视频对应的字幕文件吗？ · 定位语句、字幕和章节。 · 阿杜导演可就本期视频先转写并校对 SRT，随后与视频一起绑定。仅使用素材分析的路线可以直接提供句级时间。 主标题 · 根据本期主题和出镜内容填写。 副标题 · 根据本期主题和出镜内容填写。 栏目署名 · 根据本期主题和出镜内容填写。 强调色 · 根据本期主题和出镜内容填写。 人物素材编号 · 根据本期主题和出镜内容填写。 人物裁切横向焦点 · 根据本期主题和出镜内容填写。 人物裁切纵向焦点 · 根据本期主题和出镜内容填写。 章节 · 根据本期主题和出镜内容填写。"
+      },
       "demo": "https://media.openaicut.com/previews/1280/0.1.0-alpha.3-zh-ab2a176bc1fe.mp4",
       "poster": "https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg",
       "preview": "https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg"
@@ -9660,7 +9722,9 @@
           "preview": "https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "请发本期要用的有声口播视频。 · 提供出镜者的画面和同期声。 有这段视频对应的字幕文件吗？ · 定位语句、字幕和章节。 · 阿杜导演可就本期视频先转写并校对 SRT，随后与视频一起绑定。仅使用素材分析的路线可以直接提供句级时间。 主标题 · 根据本期主题和出镜内容填写。 副标题 · 根据本期主题和出镜内容填写。 栏目署名 · 根据本期主题和出镜内容填写。 强调色 · 根据本期主题和出镜内容填写。 人物素材编号 · 根据本期主题和出镜内容填写。 人物裁切横向焦点 · 根据本期主题和出镜内容填写。 人物裁切纵向焦点 · 根据本期主题和出镜内容填写。 章节 · 根据本期主题和出镜内容填写。"
+      },
       "demo": "https://media.openaicut.com/previews/1281/0.1.0-alpha.3-zh-c1d685e8db18.mp4",
       "poster": "https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg",
       "preview": "https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg"
@@ -9802,7 +9866,9 @@
           "preview": "https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg"
         }
       },
-      "materials": {},
+      "materials": {
+        "zh": "主标题 · 替换成本期内容。 副标题 · 替换成本期内容。 图注 · 替换成本期内容。 强调色 · 替换成本期内容。 单位及说明 · 替换成本期内容。 数据值 · 替换成本期内容。"
+      },
       "demo": "https://media.openaicut.com/previews/1284/0.1.0-alpha.1-zh-205e9b9af623.mp4",
       "poster": "https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg",
       "preview": "https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg"
