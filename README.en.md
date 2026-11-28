@@ -871,7 +871,7 @@ Technical documentation：[https://github.com/motiontemplates/479134](https://gi
 
 Performance · Battery · System · Cost. Prelaunch portrait talking-head demo. Feedback welcome.
 
-#163978 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.5
+#163978 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v1.0.6
 
 Demo video：[https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4](https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4)
 

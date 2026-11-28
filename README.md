@@ -871,7 +871,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/09m_car-demo
 
 性能 · 电池 · 系统 · 算账。行业竖屏口播预上线 Demo，欢迎提出建议。
 
-#163978 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.5
+#163978 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v1.0.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4](https://media.openaicut.com/previews/industry-v7/10m_tech-demo-1af9cf28b0feff78.mp4)
 
