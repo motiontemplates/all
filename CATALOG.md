@@ -2360,7 +2360,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1257/1.1.0-zh-f0de343878
 
 竖屏口播长包装：人物在九个站位间换位，大字逐拍顶入，中段接编号清单、报价明细和按毫米坐标绘制的户型平面图，最后人物缩成一点退场，满幅撞色封底收尾。
 
-#1258 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.4.0
+#319571 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.4.0
 
 Demo 视频：[▶ https://media.openaicut.com/previews/1258/1.4.0-zh-cfd50ada3d1d.mp4](https://media.openaicut.com/previews/1258/1.4.0-zh-cfd50ada3d1d.mp4)
 
@@ -2420,7 +2420,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1262/1.1.0-zh-3bbf1b067f
 
 竖屏训练日卡点剪辑：标题 + 今日清单 + 每个动作「中景→近景」两段 + 收尾，长镜头始终有信息层，切点落在鼓点小节线上。示例 37 秒 1080×1920。
 
-#1264 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v0.2.1
+#261780 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v0.2.1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/1264/0.2.1-1dccf1135a6a.mp4](https://media.openaicut.com/previews/1264/0.2.1-1dccf1135a6a.mp4)
 
@@ -2756,7 +2756,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c
 
 竖屏 9:16 深蓝磨砂科技风口播动效模板，适合 24–120 秒的产品方案、行业科普与技术架构类口播讲解。
 
-#1309 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+#957776 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
 
 Demo 视频：[▶ https://media.openaicut.com/previews/1309/1.0.0-c5d1f5153d24.mp4](https://media.openaicut.com/previews/1309/1.0.0-c5d1f5153d24.mp4)
 
