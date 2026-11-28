@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-212 个模板 · 1 个测试项目 · 214 个 Demo
+220 个模板 · 1 个测试项目 · 222 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-212 个模板，214 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+220 个模板，222 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -2342,7 +2342,31 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1256/1.0.0-zh-b08603fdc1
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/aroma-nine-voices](https://motiongit.com/@nxxxxxx/aroma-nine-voices)
 
-### 182. 歌词 MV
+### 182. 房产口播 · 九段纸感版
+
+![房产口播 · 九段纸感版 · 竖屏](https://media.openaicut.com/covers/1257/1.1.0-zh-51f231569f77.jpg)
+
+九段竖屏房产口播模板，1080×1920。覆盖开场立人、数据立信、地图立位置、优缺点立判断、价格立依据、横评立选择、避坑立专业、金句给情绪、引导给动作的完整叙事。米白纸感排版，含中文配音与 19 处落点音效。改板块名、均价、账号名即可套用。
+
+#559726 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.1.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1257/1.1.0-zh-f0de3438780f.mp4](https://media.openaicut.com/previews/1257/1.1.0-zh-f0de3438780f.mp4)
+
+官网下载 .motion：[https://motiongit.com/@max-meng/koubou-realestate-9scenes](https://motiongit.com/@max-meng/koubou-realestate-9scenes)
+
+### 183. 人物动线 · 图纸标注
+
+![人物动线 · 图纸标注 · 竖屏](https://media.openaicut.com/covers/1258/1.4.0-zh-c83b07cd8e8c.jpg)
+
+竖屏口播长包装：人物在九个站位间换位，大字逐拍顶入，中段接编号清单、报价明细和按毫米坐标绘制的户型平面图，最后人物缩成一点退场，满幅撞色封底收尾。
+
+#1258 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.4.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1258/1.4.0-zh-cfd50ada3d1d.mp4](https://media.openaicut.com/previews/1258/1.4.0-zh-cfd50ada3d1d.mp4)
+
+官网下载 .motion：[https://motiongit.com/@A-ZHE/kinetic-presenter](https://motiongit.com/@A-ZHE/kinetic-presenter)
+
+### 184. 歌词 MV
 
 ![歌词 MV · 横屏](https://media.openaicut.com/covers/1259/1.0.0-8fe40d6078d4.jpg)
 
@@ -2354,7 +2378,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1259/1.0.0-77f54c412f14.
 
 官网下载 .motion：[https://motiongit.com/@tianqingyuan/moonlight-lyric-mv](https://motiongit.com/@tianqingyuan/moonlight-lyric-mv)
 
-### 183. 3D粒子\_逆转乾坤
+### 185. 3D粒子\_逆转乾坤
 
 ![3D粒子\_逆转乾坤 · 竖屏](https://media.openaicut.com/covers/1260/0.1.0-01e3e56132a8.jpg)
 
@@ -2366,7 +2390,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1260/0.1.0-cf3251ae2700.
 
 官网下载 .motion：[https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion](https://motiongit.com/@fangcs/0110010001-particle-arrow-illusion)
 
-### 184. AURA 01 · THE ROOM LISTENS
+### 186. AURA 01 · THE ROOM LISTENS
 
 ![AURA 01 · THE ROOM LISTENS · 横屏](https://media.openaicut.com/covers/1261/1.0.0-en-8670f1674d3b.jpg)
 
@@ -2378,7 +2402,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1261/1.0.0-en-de1bf591ee
 
 官网下载 .motion：[https://motiongit.com/@nxxxxxx/aura01-room-listens](https://motiongit.com/@nxxxxxx/aura01-room-listens)
 
-### 185. SuperC 角色登场
+### 187. SuperC 角色登场
 
 ![SuperC 角色登场 · 竖屏](https://media.openaicut.com/covers/1262/1.1.0-zh-08a143017b2f.jpg)
 
@@ -2390,7 +2414,19 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1262/1.1.0-zh-3bbf1b067f
 
 官网下载 .motion：[https://motiongit.com/@5509996qi/superc-character-intro](https://motiongit.com/@5509996qi/superc-character-intro)
 
-### 186. 取景镜头·黑金
+### 188. 训练日志 · 中景到近景
+
+![训练日志 · 中景到近景 · 竖屏](https://media.openaicut.com/covers/1264/0.2.1-49ed82d39835.jpg)
+
+竖屏训练日卡点剪辑：标题 + 今日清单 + 每个动作「中景→近景」两段 + 收尾，长镜头始终有信息层，切点落在鼓点小节线上。示例 37 秒 1080×1920。
+
+#1264 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v0.2.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1264/0.2.1-1dccf1135a6a.mp4](https://media.openaicut.com/previews/1264/0.2.1-1dccf1135a6a.mp4)
+
+官网下载 .motion：[https://motiongit.com/@fuchen/fitness-log-cut](https://motiongit.com/@fuchen/fitness-log-cut)
+
+### 189. 取景镜头·黑金
 
 ![取景镜头·黑金 · 竖屏](https://media.openaicut.com/covers/1265/1.0.0-75b87674cef4.jpg)
 
@@ -2402,7 +2438,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1265/1.0.0-0ec8df898253.
 
 官网下载 .motion：[https://motiongit.com/@jsjauwyw/viewfinder-black-gold](https://motiongit.com/@jsjauwyw/viewfinder-black-gold)
 
-### 187. 线稿故事（竖屏）
+### 190. 线稿故事（竖屏）
 
 ![线稿故事（竖屏）](https://media.openaicut.com/covers/1266/0.1.1-0c76e89f1c96.jpg)
 
@@ -2414,7 +2450,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1266/0.1.1-769989acdf31.
 
 官网下载 .motion：[https://motiongit.com/@fangcs/0109020001-letter-story](https://motiongit.com/@fangcs/0109020001-letter-story)
 
-### 188. 葱油拌面手记
+### 191. 葱油拌面手记
 
 ![葱油拌面手记 · 竖屏](https://media.openaicut.com/covers/1267/0.1.0-alpha.2-zh-5a0976bee125.jpg)
 
@@ -2426,7 +2462,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1267/0.1.0-alpha.2-zh-9f
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles](https://motiongit.com/@reedphase-5e9a42/dy-scallion-noodles)
 
-### 189. 沿河散步路线图
+### 192. 沿河散步路线图
 
 ![沿河散步路线图 · 竖屏](https://media.openaicut.com/covers/1268/0.1.0-alpha.2-zh-e08a235db7b6.jpg)
 
@@ -2438,7 +2474,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1268/0.1.0-alpha.2-zh-ae
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk](https://motiongit.com/@reedphase-5e9a42/dy-riverside-walk)
 
-### 190. 半平米玄关图纸
+### 193. 半平米玄关图纸
 
 ![半平米玄关图纸 · 竖屏](https://media.openaicut.com/covers/1269/0.1.0-alpha.2-zh-1d3d0ab87bb1.jpg)
 
@@ -2450,7 +2486,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1269/0.1.0-alpha.2-zh-95
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan](https://motiongit.com/@reedphase-5e9a42/dy-entryway-plan)
 
-### 191. 通勤耳机试听台
+### 194. 通勤耳机试听台
 
 ![通勤耳机试听台 · 竖屏](https://media.openaicut.com/covers/1270/0.1.0-alpha.2-zh-912ddd66296d.jpg)
 
@@ -2462,7 +2498,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1270/0.1.0-alpha.2-zh-db
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-earbud-check](https://motiongit.com/@reedphase-5e9a42/dy-earbud-check)
 
-### 192. 橘子挑选小摊
+### 195. 橘子挑选小摊
 
 ![橘子挑选小摊 · 竖屏](https://media.openaicut.com/covers/1271/0.1.0-alpha.2-zh-48ebaa30b86c.jpg)
 
@@ -2474,7 +2510,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1271/0.1.0-alpha.2-zh-2e
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter](https://motiongit.com/@reedphase-5e9a42/dy-citrus-counter)
 
-### 193. 三色通勤衣橱
+### 196. 三色通勤衣橱
 
 ![三色通勤衣橱 · 竖屏](https://media.openaicut.com/covers/1272/0.1.0-alpha.2-zh-5b373055127d.jpg)
 
@@ -2486,7 +2522,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1272/0.1.0-alpha.2-zh-85
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors](https://motiongit.com/@reedphase-5e9a42/dy-capsule-colors)
 
-### 194. 蓝印花布显影录
+### 197. 蓝印花布显影录
 
 ![蓝印花布显影录 · 竖屏](https://media.openaicut.com/covers/1273/0.1.0-alpha.2-zh-74b6364d7eaa.jpg)
 
@@ -2498,7 +2534,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1273/0.1.0-alpha.2-zh-2e
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-indigo-print](https://motiongit.com/@reedphase-5e9a42/dy-indigo-print)
 
-### 195. 夜跑出门检查单
+### 198. 夜跑出门检查单
 
 ![夜跑出门检查单 · 竖屏](https://media.openaicut.com/covers/1274/0.1.0-alpha.2-zh-d24bc8c84639.jpg)
 
@@ -2510,7 +2546,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1274/0.1.0-alpha.2-zh-17
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit](https://motiongit.com/@reedphase-5e9a42/dy-night-run-kit)
 
-### 196. 周末演出入场券
+### 199. 周末演出入场券
 
 ![周末演出入场券 · 竖屏](https://media.openaicut.com/covers/1275/0.1.0-alpha.2-zh-4600fd15acbf.jpg)
 
@@ -2522,7 +2558,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1275/0.1.0-alpha.2-zh-1c
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket](https://motiongit.com/@reedphase-5e9a42/dy-weekend-ticket)
 
-### 197. 积木里的几何课
+### 200. 积木里的几何课
 
 ![积木里的几何课 · 竖屏](https://media.openaicut.com/covers/1276/0.1.0-alpha.2-zh-e0960aece6be.jpg)
 
@@ -2534,7 +2570,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1276/0.1.0-alpha.2-zh-45
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks](https://motiongit.com/@reedphase-5e9a42/dy-shape-blocks)
 
-### 198. 讲师的演示台
+### 201. 讲师的演示台
 
 ![讲师的演示台 · 竖屏](https://media.openaicut.com/covers/1277/0.1.0-alpha.3-zh-d848e8b69fad.jpg)
 
@@ -2546,7 +2582,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1277/0.1.0-alpha.3-zh-f3
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop](https://motiongit.com/@reedphase-5e9a42/douyin-talk-01-workshop)
 
-### 199. 一封读者来信
+### 202. 一封读者来信
 
 ![一封读者来信 · 竖屏](https://media.openaicut.com/covers/1278/0.1.0-alpha.3-zh-455d0c8ad61c.jpg)
 
@@ -2558,7 +2594,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1278/0.1.0-alpha.3-zh-0a
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter](https://motiongit.com/@reedphase-5e9a42/douyin-talk-02-letter)
 
-### 200. 新品发布主场
+### 203. 新品发布主场
 
 ![新品发布主场 · 竖屏](https://media.openaicut.com/covers/1279/0.1.0-alpha.3-zh-034620122b97.jpg)
 
@@ -2570,7 +2606,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1279/0.1.0-alpha.3-zh-ec
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch](https://motiongit.com/@reedphase-5e9a42/douyin-talk-03-launch)
 
-### 201. 两天的拍摄手记
+### 204. 两天的拍摄手记
 
 ![两天的拍摄手记 · 竖屏](https://media.openaicut.com/covers/1280/0.1.0-alpha.3-zh-ad33f2de8c5e.jpg)
 
@@ -2582,7 +2618,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1280/0.1.0-alpha.3-zh-ab
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary](https://motiongit.com/@reedphase-5e9a42/douyin-talk-04-diary)
 
-### 202. 两栏体验报告
+### 205. 两栏体验报告
 
 ![两栏体验报告 · 竖屏](https://media.openaicut.com/covers/1281/0.1.0-alpha.3-zh-b6501dbea931.jpg)
 
@@ -2594,7 +2630,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1281/0.1.0-alpha.3-zh-c1
 
 官网下载 .motion：[https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict](https://motiongit.com/@reedphase-5e9a42/douyin-talk-05-verdict)
 
-### 203. 上新功能看板
+### 206. 上新功能看板
 
 ![上新功能看板 · 竖屏](https://media.openaicut.com/covers/1282/0.1.0-alpha.1-zh-ecd457191916.jpg)
 
@@ -2606,7 +2642,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1282/0.1.0-alpha.1-zh-1d
 
 官网下载 .motion：[https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card](https://motiongit.com/@launch-studio-c7fd0d/launch-metrics-card)
 
-### 204. 经纬路线简报
+### 207. 经纬路线简报
 
 ![经纬路线简报 · 竖屏](https://media.openaicut.com/covers/1283/0.1.0-alpha.1-zh-ed5590dac01d.jpg)
 
@@ -2618,7 +2654,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1283/0.1.0-alpha.1-zh-b9
 
 官网下载 .motion：[https://motiongit.com/@route-studio-56a39b/route-world-brief](https://motiongit.com/@route-studio-56a39b/route-world-brief)
 
-### 205. 趋势拆解图
+### 208. 趋势拆解图
 
 ![趋势拆解图 · 竖屏](https://media.openaicut.com/covers/1284/0.1.0-alpha.1-zh-ffe1fc6aa084.jpg)
 
@@ -2630,7 +2666,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1284/0.1.0-alpha.1-zh-20
 
 官网下载 .motion：[https://motiongit.com/@trend-studio-954b51/trend-dispatch](https://motiongit.com/@trend-studio-954b51/trend-dispatch)
 
-### 206. 三道招牌菜
+### 209. 三道招牌菜
 
 ![三道招牌菜 · 竖屏](https://media.openaicut.com/covers/1285/0.1.0-alpha.1-zh-c06f63d00d2a.jpg)
 
@@ -2642,7 +2678,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1285/0.1.0-alpha.1-zh-83
 
 官网下载 .motion：[https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages](https://motiongit.com/@bistro-studio-01ffeb/bistro-menu-pages)
 
-### 207. 设备巡检读数台
+### 210. 设备巡检读数台
 
 ![设备巡检读数台 · 竖屏](https://media.openaicut.com/covers/1286/0.1.0-alpha.1-zh-398716b2add8.jpg)
 
@@ -2654,7 +2690,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1286/0.1.0-alpha.1-zh-68
 
 官网下载 .motion：[https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log](https://motiongit.com/@workshop-studio-25158b/workshop-gauge-log)
 
-### 208. 三步讲清加权平均
+### 211. 三步讲清加权平均
 
 ![三步讲清加权平均 · 竖屏](https://media.openaicut.com/covers/1287/0.1.0-alpha.1-zh-268f783c2bab.jpg)
 
@@ -2666,7 +2702,19 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1287/0.1.0-alpha.1-zh-fb
 
 官网下载 .motion：[https://motiongit.com/@weighted-studio-504a22/weighted-average-steps](https://motiongit.com/@weighted-studio-504a22/weighted-average-steps)
 
-### 209. 口播浮层动效卡
+### 212. 房产口播 · 九段纸感版
+
+![房产口播 · 九段纸感版 · 竖屏](https://media.openaicut.com/covers/1288/1.0.0-zh-47c5d644a345.jpg)
+
+九段竖屏房产口播模板，1080×1920。开场立人、数据立信、地图立位置、优缺点立判断、价格立依据、横评立选择、避坑立专业、金句给情绪、引导给动作。米白纸感排版，含中文配音与 19 处落点音效。改板块名、均价、账号名即可套用。
+
+#1288 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1288/1.0.0-zh-eb3ad44557e4.mp4](https://media.openaicut.com/previews/1288/1.0.0-zh-eb3ad44557e4.mp4)
+
+官网下载 .motion：[https://motiongit.com/@max-meng/koubou-realestate-paid](https://motiongit.com/@max-meng/koubou-realestate-paid)
+
+### 213. 口播浮层动效卡
 
 ![口播浮层动效卡 · 横屏](https://media.openaicut.com/covers/1295/1.0.0-c8ead63a4da9.jpg)
 
@@ -2678,19 +2726,19 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1295/1.0.0-4212e107de4c.
 
 官网下载 .motion：[https://motiongit.com/@mrz/talking-head-overlay-cards](https://motiongit.com/@mrz/talking-head-overlay-cards)
 
-### 210. 手机相册卡点
+### 214. 手机相册卡点
 
-![手机相册卡点 · 竖屏](https://media.openaicut.com/covers/1307/0.1.3-zh-0ca8d371ad75.jpg)
+![手机相册卡点 · 竖屏](https://media.openaicut.com/covers/1307/0.2.0-zh-b2fe4df82b62.jpg)
 
 手机俯冲开场＋白闪拼贴墙，每半秒一张满屏卡点、倒放收尾；换照片即出片，自带 BGM。
 
-#731463 · 竖屏 · 4:5 · 1080 × 1350 · 30 FPS · v0.1.3
+#731463 · 竖屏 · 4:5 · 1080 × 1350 · 30 FPS · v0.2.0
 
-Demo 视频：[▶ https://media.openaicut.com/previews/1307/0.1.3-zh-b5a6f401551d.mp4](https://media.openaicut.com/previews/1307/0.1.3-zh-b5a6f401551d.mp4)
+Demo 视频：[▶ https://media.openaicut.com/previews/1307/0.2.0-zh-be8c5889fc8f.mp4](https://media.openaicut.com/previews/1307/0.2.0-zh-be8c5889fc8f.mp4)
 
 官网下载 .motion：[https://motiongit.com/@fangcs/0111010001-album-beat](https://motiongit.com/@fangcs/0111010001-album-beat)
 
-### 211. 章节式竖屏图文动效模板（部分提炼草稿）
+### 215. 章节式竖屏图文动效模板（部分提炼草稿）
 
 ![章节式竖屏图文动效模板（部分提炼草稿）](https://media.openaicut.com/covers/1308/1.0.0-zh-ed069addb788.jpg)
 
@@ -2702,7 +2750,19 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1308/1.0.0-zh-7a3954f03c
 
 官网下载 .motion：[https://motiongit.com/@huangyiming/chapter-portrait-kit](https://motiongit.com/@huangyiming/chapter-portrait-kit)
 
-### 212. 产品讲解
+### 216. 深蓝科技 · 口播讲解
+
+![深蓝科技 · 口播讲解 · 竖屏](https://media.openaicut.com/covers/1309/1.0.0-ed56a7189987.jpg)
+
+竖屏 9:16 深蓝磨砂科技风口播动效模板，适合 24–120 秒的产品方案、行业科普与技术架构类口播讲解。
+
+#1309 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1309/1.0.0-c5d1f5153d24.mp4](https://media.openaicut.com/previews/1309/1.0.0-c5d1f5153d24.mp4)
+
+官网下载 .motion：[https://motiongit.com/@liuyue/deep-blue-tech-talk](https://motiongit.com/@liuyue/deep-blue-tech-talk)
+
+### 217. 产品讲解
 
 ![产品讲解 · 竖屏](https://media.openaicut.com/covers/1311/1.0.0-6a941f7c66ca.jpg)
 
@@ -2714,7 +2774,19 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1311/1.0.0-03152006f277.
 
 官网下载 .motion：[https://motiongit.com/@huangyiming/travel-guide-talking-head](https://motiongit.com/@huangyiming/travel-guide-talking-head)
 
-### 213. 旅游线路口播通用模板
+### 218. 舞蹈赛事选手合辑
+
+![舞蹈赛事选手合辑 · 竖屏](https://media.openaicut.com/covers/1312/1.0.0-19a7fa192f4d.jpg)
+
+竖屏赛事选手合辑的文字层：逐位选手出场信息卡、高光快切大字、参赛名单页和结尾一句，切点带光带白闪转场，节奏按 94 BPM 排好。
+
+#1312 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1312/1.0.0-57c3ff9e527f.mp4](https://media.openaicut.com/previews/1312/1.0.0-57c3ff9e527f.mp4)
+
+官网下载 .motion：[https://motiongit.com/@gzlbb/dance-contest-roster](https://motiongit.com/@gzlbb/dance-contest-roster)
+
+### 219. 旅游线路口播通用模板
 
 ![旅游线路口播通用模板 · 竖屏](https://media.openaicut.com/covers/1313/1.0.0-f22336f886b0.jpg)
 
@@ -2726,7 +2798,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1313/1.0.0-12d160d0c290.
 
 官网下载 .motion：[https://motiongit.com/@huangyiming/travel-route-talking-head](https://motiongit.com/@huangyiming/travel-route-talking-head)
 
-### 214. 旅行社推荐线路通用模板
+### 220. 旅行社推荐线路通用模板
 
 ![旅行社推荐线路通用模板 · 竖屏](https://media.openaicut.com/covers/1315/1.0.0-307be5e717b4.jpg)
 
@@ -2737,6 +2809,30 @@ Demo 视频：[▶ https://media.openaicut.com/previews/1313/1.0.0-12d160d0c290.
 Demo 视频：[▶ https://media.openaicut.com/previews/1315/1.0.0-6d0448de2d4d.mp4](https://media.openaicut.com/previews/1315/1.0.0-6d0448de2d4d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@huangyiming/travel-route-itinerary](https://motiongit.com/@huangyiming/travel-route-itinerary)
+
+### 221. 像素成长关卡
+
+![像素成长关卡 · 横屏](https://media.openaicut.com/covers/1316/1.1.0-359d2f7fee0d.jpg)
+
+原创像素闯关风成长纪念片模板（横屏 1920×1080，约 83 秒）：两位像素主角带着头像一路闯过 3–12 个成长时刻，通关升旗放烟花后硬切合照与星空照片墙，最后点亮数字蜡烛收尾。 是呢宝宝周岁记录、情侣/夫妻周年记录。
+
+#1316 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1316/1.1.0-02cc73e25b8b.mp4](https://media.openaicut.com/previews/1316/1.1.0-02cc73e25b8b.mp4)
+
+官网下载 .motion：[https://motiongit.com/@mofangz/pixel-growth-level](https://motiongit.com/@mofangz/pixel-growth-level)
+
+### 222. 失衡天平 · 情绪独白口播
+
+![失衡天平 · 情绪独白口播 · 横屏](https://media.openaicut.com/covers/1317/1.0.0-a3da5146366c.jpg)
+
+14 秒横屏深夜暗室风情绪观点口播模板，以失衡天平与情绪档案四幕递进承托人际反思、职场边界与清醒金句独白。
+
+#1317 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo 视频：[▶ https://media.openaicut.com/previews/1317/1.0.0-6da22fd78d62.mp4](https://media.openaicut.com/previews/1317/1.0.0-6da22fd78d62.mp4)
+
+官网下载 .motion：[https://motiongit.com/@73345/emotion-balance-monologue](https://motiongit.com/@73345/emotion-balance-monologue)
 
 ## 使用教程
 
